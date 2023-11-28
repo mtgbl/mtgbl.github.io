@@ -22,14 +22,26 @@ title: MTG Baselland
 email: mtgbearsocialmedia@gmail.com
 description: >-
   Magic: The Gathering in Liestal
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+tagline: >-
+  Magic: The Gathering in Liestal
+logo: /assets/img/logo.png
+baseurl: ""
+url: "https://mtgbl.ch" # the base hostname & protocol for your site
 timezone: UTC
 future: true  # render events and posts with a date in the future
 
 author:
   name: MTG Baselland
   email: mtgbearsocialmedia@gmail.com
+
+social:
+  name: MTG Baselland
+  links:
+    - https://www.facebook.com/mtgbaselland/
+    - https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw
+    - https://github.com/mtgbl
+
+locale: de_CH
 
 header_pages:
   - about.markdown
@@ -55,6 +67,7 @@ minima:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 strict_front_matter: true
 liquid:
