@@ -84,6 +84,7 @@ defaults:
 #
 exclude:
   - README.md
+  - .github/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
