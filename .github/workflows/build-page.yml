@@ -1,0 +1,29 @@
+name: Build page
+
+on:
+  pull_request:
+  push:
+  schedule:
+    - cron: '0 23 * * 5' # At 23:00 on Friday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build
+        run: bundle exec jekyll build
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v2
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: _site/
