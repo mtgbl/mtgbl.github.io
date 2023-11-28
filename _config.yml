@@ -68,6 +68,8 @@ minima:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-last-modified-at
 
 strict_front_matter: true
 liquid:
