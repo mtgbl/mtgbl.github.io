@@ -1,0 +1,7 @@
+.site-title::before {
+  content: url("/assets/img/baer.svg");
+  display: inline-block;
+  position: relative;
+  width: 40px;
+  top: 5px;
+}

@@ -1,0 +1,12 @@
+---
+type: draft
+date: 2023-11-17 19:00:00
+title: "Lost Caverns of Ixalan Draft"
+winner: Raffael
+address: >-
+  Rathauskeller\
+
+  Rathausstrasse 36\
+
+  4410 Liestal
+---

@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<article>
+    <header>
+<!--        <h2>{{ page.title }}</h2>-->
+        <date>{{ page.date | date: "%d.%m.%Y %H:%M" }}</date>
+    </header>
+{% if page.content %}
+    <p>{{ page.content | markdownify }}</p>
+{% endif %}
+
+    <h4>Standort:</h4>
+{% if page.address and page.address != "" %}
+    <p>
+        <address>{{ page.address | markdownify }}</address>
+    </p>
+{% endif %}
+</article>
