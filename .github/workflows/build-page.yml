@@ -1,7 +1,6 @@
 name: Build page
 
 on:
-  pull_request:
   push:
   schedule:
     - cron: '0 23 * * 5' # At 23:00 on Friday
