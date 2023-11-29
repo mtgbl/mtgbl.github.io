@@ -2,12 +2,7 @@
 type: sealed
 date: 2023-11-10 18:30:00
 title: "Lost Caverns of Ixalan Prerelease"
-address: >-
-  MaRo Games\
-
-  Hauptstrasse 11\
-
-  4127 Birsfelden 
+location: "MaRo Games"
 ---
 Das Prerelease zu "Lost Caverns of Ixalan" steht an!
 
