@@ -40,6 +40,7 @@ social:
     - https://www.facebook.com/mtgbaselland/
     - https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw
     - https://github.com/mtgbl
+    - https://discord.gg/TGsu22CD
 
 locale: de_CH
 
@@ -64,6 +65,9 @@ minima:
     - platform: facebook
       user_url: "https://www.facebook.com/mtgbaselland/"
       title: "Unsere Facebook-Gruppe"
+    - platform: discord
+      user_url: "https://discord.gg/TGsu22CD"
+      title: "Unserer Discord"
 
 plugins:
   - jekyll-remote-theme
