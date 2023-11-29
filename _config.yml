@@ -53,6 +53,8 @@ collections:
   events:
     sort_by: date
     output: true
+  locations:
+    output: true
 
 #theme: minima
 remote_theme: jekyll/minima
@@ -81,13 +83,26 @@ liquid:
 #  strict_variables: true
   strict_filters: true
 
+maps_api_key: AIzaSyCsr4EVNw-s-VDiSyJyXamPbTRVzJrycGg
 
 defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /neuigkeiten/:path
   - scope:
       path: ""
       type: "events"
     values:
       layout: "event"
+      permalink: /event/:path
+  - scope:
+      path: ""
+      type: "locations"
+    values:
+      layout: "location"
+      permalink: /standort/:path
   - scope:
       path: "assets/img"
     values:

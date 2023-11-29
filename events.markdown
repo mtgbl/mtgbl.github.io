@@ -16,4 +16,4 @@ permalink: /events/
 
 ---
 
-[Vergangene Events](/past-events)
+[Vergangene Events](/vergangene-events)

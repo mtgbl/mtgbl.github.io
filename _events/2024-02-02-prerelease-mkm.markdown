@@ -2,12 +2,7 @@
 type: sealed
 date: 2024-02-02 18:30:00
 title: "Murders at Karlov Manor Prerelease"
-address: >-
-  MaRo Games\
-
-  Hauptstrasse 11\
-
-  4127 Birsfelden 
+location: "MaRo Games"
 ---
 Das Prerelease zu "Murders at Karlov Manor" steht an!
 

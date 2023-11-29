@@ -18,14 +18,7 @@ Die Spielabende sind öffentlich, auch Anfänger sind willkommen. Anmeldungen ü
 
 ## Nächster Event
 
-<article>
-    <header>
-        <h3><a href="{{next_event.url}}"><date>{{ next_event.date | date: "%d.%m.%Y %H:%M" }}</date> - {{ next_event.title }}</a></h3>
-    </header>
-{% if next_event.content %}
-    <p>{{ next_event.content | markdownify }}</p>
-{% endif %}
-</article>
+{% include event.html event = next_event %}
 
 ---
 

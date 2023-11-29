@@ -1,0 +1,19 @@
+---
+layout: base
+---
+<p>
+    <a href="javascript:history.back()">&lt; Zurück</a>
+</p>
+<article>
+    <header>
+        <h2>{{ page.name }}</h2>
+    </header>
+    {% if page.content %}
+    <p>{{ page.content | markdownify }}</p>
+    {% endif %}
+
+    {% if page.address and page.address != "" %}
+    <h4>Standort:</h4>
+    {% include location.html location = page %}
+    {% endif %}
+</article>

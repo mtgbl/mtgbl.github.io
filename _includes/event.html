@@ -1,0 +1,6 @@
+{% assign event = include.event %}
+<article>
+    <header>
+        <h3><a href="{{ event.url }}" title="Mehr Details zum Event"><date>{{ event.date | date: "%d.%m.%Y %H:%M" }}</date> - {{ event.title }}</a></h3>
+    </header>
+</article>

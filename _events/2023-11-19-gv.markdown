@@ -3,11 +3,6 @@ type: other
 date: 2023-11-19 13:00:00
 title: "Generalversammlung 2023"
 winner: "Deckbau: Dave, Turnier: Michael"
-address: >-
-  Spielweltenfabrik\
-  
-  Meyer-Wiggli-Strasse 3\
-  
-  4410 Liestal
+location: Spielweltenfabrik
 ---
 Generalversammlung, anschliessend Spezialturnier

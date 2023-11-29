@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: base
 ---
 <article>
     <header>
-<!--        <h2>{{ page.title }}</h2>-->
+        <h2>{{ page.title }}</h2>
         <date>{{ page.date | date: "%d.%m.%Y %H:%M" }}</date>
     </header>
 {% if page.content %}
     <p>{{ page.content | markdownify }}</p>
 {% endif %}
 
-    <h4>Standort:</h4>
-{% if page.address and page.address != "" %}
+{% assign location = site.locations | where: "name", page.location | first %}
+{% if location %}
     <p>
-        <address>{{ page.address | markdownify }}</address>
+    <h3><a href="{{ location.url }}" title="Mehr Details zum Standort">Standort:</a></h3>
+    {% include location.html location = location %}
     </p>
 {% endif %}
 </article>
