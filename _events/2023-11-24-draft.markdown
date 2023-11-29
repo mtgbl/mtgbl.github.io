@@ -2,7 +2,7 @@
 type: draft
 date: 2023-11-24 19:00:00
 title: "Lost Caverns of Ixalan Draft"
-winner: Michael
+winner: "Deckbau: Dave, Turnier: Michael"
 address: >-
   Rathauskeller\
 
