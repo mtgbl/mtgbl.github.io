@@ -1,6 +1,6 @@
 {% assign location = include.location %}
 <p>
-    <address>{{ location.address | markdownify }}</address>
+    <address>{{ location.address | newline_to_br }}</address>
 {% if location.website %}
 <p><a href="{{ location.website}}">Webseite</a></p>
 {% endif %}
