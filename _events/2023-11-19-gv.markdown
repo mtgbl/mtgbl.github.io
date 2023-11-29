@@ -2,7 +2,7 @@
 type: other
 date: 2023-11-19 13:00:00
 title: "Generalversammlung 2023"
-winner: Michael
+winner: "Deckbau: Dave, Turnier: Michael"
 address: >-
   Spielweltenfabrik\
   
