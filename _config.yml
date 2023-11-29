@@ -83,6 +83,7 @@ liquid:
 #  strict_variables: true
   strict_filters: true
 
+maps_api_key: AIzaSyCsr4EVNw-s-VDiSyJyXamPbTRVzJrycGg
 
 defaults:
   - scope:
