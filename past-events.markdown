@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vergangene Events
-permalink: /past-events/
+permalink: /vergangene-events/
 ---
 
 {% assign upcoming_events = site.events | where_exp: "item", "item.date < site.time" %}

@@ -88,6 +88,11 @@ maps_api_key: AIzaSyCsr4EVNw-s-VDiSyJyXamPbTRVzJrycGg
 defaults:
   - scope:
       path: ""
+      type: "posts"
+    values:
+      permalink: /neuigkeiten/:path
+  - scope:
+      path: ""
       type: "events"
     values:
       layout: "event"
@@ -96,6 +101,7 @@ defaults:
       type: "locations"
     values:
       layout: "location"
+      permalink: /standort/:path
   - scope:
       path: "assets/img"
     values:
