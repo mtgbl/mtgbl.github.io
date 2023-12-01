@@ -1,0 +1,13 @@
+{% assign address = include.address %}
+{% assign param_address = address | newline_to_br | strip_newlines | split: "<br />" | join: "," | url_decode %}
+
+<div class="google-maps">
+    <iframe
+            width="650"
+            height="450"
+            style="border:0"
+            referrerpolicy="no-referrer-when-downgrade"
+            src="https://www.google.com/maps/embed/v1/place?key={{ site.maps_api_key }}&q={{ param_address }}"
+            allowfullscreen>
+    </iframe>
+</div>
