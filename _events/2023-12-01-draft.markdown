@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2023-12-01 19:00:00
-title: "Lost Caverns of Ixalan Draft / Commander"
+title: "Lost Caverns of Ixalan Draft"
 winner: João
 location: Rathauskeller
 ---
