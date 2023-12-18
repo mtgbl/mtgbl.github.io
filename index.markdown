@@ -16,7 +16,7 @@ Anmeldungen über unsere [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB6
 
 ---
 
-{% assign upcoming_events = site.events | where_exp: "item", "item.date > site.time" %}
+{% assign upcoming_events = site.events | where_exp: "item", "item.date > site.time" | where_exp: "item", "item.type != 'cancelled'" %}
 {% assign next_event = upcoming_events | first %}
 
 ## Nächster Event
