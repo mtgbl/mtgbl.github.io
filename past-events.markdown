@@ -4,8 +4,8 @@ title: Vergangene Events
 permalink: /vergangene-events/
 ---
 
-{% assign upcoming_events = site.events | where_exp: "item", "item.date < site.time" %}
-{% for event in upcoming_events %}
+{% assign past_events = site.events | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.type != 'cancelled'" %}
+{% for event in past_events %}
 
 <article>
     <p>
