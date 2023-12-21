@@ -1,8 +1,8 @@
 ---
 type: other
-date: 2023-12-22 19:00:00
+date: 2023-12-22 19:30:00
 title: "Weihnachts-Spezialturnier"
-location: Rathauskeller
+location: Spielweltenfabrik
 ---
 Da wir in diesem Jahr keinen „Bärentreff“ hatten, wird der 22. zum Bärentreff.
 
@@ -10,13 +10,8 @@ Für alle Vereinsmitglieder UND FNM-Gewinner in diesem Jahr GRATIS.
 
 Alle Nichtmitglieder sind auch herzlich willkommen (20.-).
 
+Format: Commander Legends Draft
 
-Es gibt 6 Editionen zur Auswahl:
-- Commander Legends
-- D&D Forgotten Realms
-- Shadows over Innistrad
-- Ikoria
-- Hour of Devastation
-- Zendikar Rising
-
-Wer eine Edition auswählt, meldet sich gleichzeitig an! Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden.
+Doors 18:45
+Weihnachtssnacks ab 19:00
+Start Draft 19:30
