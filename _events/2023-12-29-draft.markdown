@@ -1,8 +1,6 @@
 ---
-type: draft
+type: cancelled
 date: 2023-12-29 19:00:00
-title: "Lost Caverns of Ixalan Draft / Commander"
+title: "Ausfall"
 location: Rathauskeller
 ---
-
-Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann.
