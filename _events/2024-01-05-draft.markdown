@@ -2,6 +2,7 @@
 type: draft
 date: 2024-01-05 19:00:00
 title: "Lost Caverns of Ixalan Draft / Commander"
+winner: Thomas
 location: Rathauskeller
 ---
 
