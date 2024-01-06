@@ -1,6 +1,6 @@
 ---
 type: draft
-date: 2024-01-27 19:00:00
+date: 2024-01-26 19:00:00
 title: "Lost Caverns of Ixalan Draft / Commander"
 location: Rathauskeller
 ---

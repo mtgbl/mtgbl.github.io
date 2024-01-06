@@ -1,8 +1,7 @@
 ---
 type: draft
-date: 2024-01-05 19:00:00
-title: "Lost Caverns of Ixalan Draft"
-winner: Thomas
+date: 2024-02-16 19:00:00
+title: "Murders at Karlov Manor Draft / Commander"
 location: Rathauskeller
 ---
 
