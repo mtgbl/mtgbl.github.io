@@ -19,3 +19,7 @@ Der Eintritt in den Bärenbund ist jederzeit möglich aber nicht verpflichtend. 
 Organisiert werden die Turniere und Specialevents vom Bärenadel, welcher auch jedes Jahr zu einer epischen Generalversammlung einladet.
 
 Hast du auch Lust einen Teil dieser Gemeinschaft zu werden, dann [melde dich](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) oder [schau vorbei](/events/).
+
+![Eindrücke von der GV 2023](assets/photos/gv2023-1.jpg)
+
+![Eindrücke von der GV 2023](assets/photos/gv2023-2.jpg)
