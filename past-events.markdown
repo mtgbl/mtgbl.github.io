@@ -9,7 +9,7 @@ permalink: /vergangene-events/
 
 <article>
     <p>
-        <a href="{{ event.url }}"><date>{{ event.date | date: "%d.%m.%Y %H:%M" }}</date> - {{ event.title }}</a>
+        <a href="{{ event.url }}"><date>{{ event.date | date: "%d.%m.%Y" }}</date> - {{ event.title }}</a>
     </p>
 </article>
 
