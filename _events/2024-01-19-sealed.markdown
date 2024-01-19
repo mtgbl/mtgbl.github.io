@@ -1,0 +1,7 @@
+---
+type: sealed
+date: 2024-01-19 19:00:00
+title: "Ravnica Remastered Sealed"
+location: Rathauskeller
+winner: João
+---
