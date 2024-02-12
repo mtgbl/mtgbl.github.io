@@ -2,6 +2,7 @@
 layout: page
 title: Liga 2024 - Tabelle
 permalink: /liga/tabelle/
+sitemap: false
 ---
 
 → [Übersicht/Regeln](/liga/uebersicht)

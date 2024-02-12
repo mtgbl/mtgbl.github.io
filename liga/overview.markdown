@@ -2,6 +2,7 @@
 layout: page
 title: Liga 2024
 permalink: /liga/uebersicht/
+sitemap: false
 ---
 
 ⚠️ **ACHTUNG: Entwurf!** ⚠️
