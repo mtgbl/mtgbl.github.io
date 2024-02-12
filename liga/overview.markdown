@@ -4,6 +4,8 @@ title: Liga 2024
 permalink: /liga/uebersicht/
 ---
 
+⚠️ **ACHTUNG: Entwurf!** ⚠️
+
 Neues Jahr, neue (Draft-)Liga!
 
 | Kosten               |       |
