@@ -7,7 +7,7 @@ sitemap: false
 
 ⚠️ **ACHTUNG: Entwurf!** ⚠️
 
-Neues Jahr, neue (Draft-)Liga!
+Neues Jahr, neue (Draft-)Liga! Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein Abo anmelden!
 
 | Kosten               ||
 |----------------------|-------|
@@ -35,7 +35,6 @@ Neues Jahr, neue (Draft-)Liga!
 | Match-Sieg                 | +3 |
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
-
 
 
 ## Termine
