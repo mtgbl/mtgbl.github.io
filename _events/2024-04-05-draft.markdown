@@ -1,8 +1,12 @@
 ---
-type: draft
+type: liga
 date: 2024-04-05 19:00:00
-title: "Draft / Commander"
+title: "Liga-Draft / Commander"
 location: Rathauskeller
 ---
 
-Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann.
+Draft ist Teil der [Liga 2024](/liga/uebersicht). Abonnenten sind automatisch angemeldet.
+Bei Verhinderung bitte im Voraus melden, sonst gibt es Punkteabzug!
+Die freien Plätze stehen allen Verfügung.
+
+Für Commander bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann.
