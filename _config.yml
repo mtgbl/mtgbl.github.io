@@ -47,6 +47,7 @@ locale: de_CH
 header_pages:
   - about.markdown
   - events.markdown
+#  - liga/rules.markdown
   - bears.markdown
 
 collections:
@@ -76,12 +77,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-last-modified-at
+  - jekyll-spaceship
 
 strict_front_matter: true
 liquid:
   error_mode: strict
 #  strict_variables: true
   strict_filters: true
+
+jekyll-spaceship:
+  processors:
+    - table-processor
 
 maps_api_key: AIzaSyCsr4EVNw-s-VDiSyJyXamPbTRVzJrycGg
 
