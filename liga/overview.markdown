@@ -35,7 +35,7 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein 
 
 |----------------------------|----|
 | Teilnahme                  | +2 |
-| Draftgewinner-Bonus        | +3 |
+| Draftgewinner-Bonus        | +2 |
 | Match-Sieg                 | +3 |
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
@@ -56,8 +56,19 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein 
 
 
 ## Sets
-- Unfinity
-- ~~Unglued~~
-- Unstable
-- Arabian Nights
-- ...
+Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgewählt:
+
+| #  | Set                         |
+|:--:|-----------------------------|
+| 1  | Unfinity                    |
+| 2  | ~~Unglued~~                 |
+| 3  | Unstable                    |
+| 4  | Arabian Nights              |
+| 5  | Beta                        |
+| 6  | Conspiracy 4                |
+| 7  | Modern Horizons 5           |
+| 8  | Return to Return to Ravnica |
+| 9  | Shandalar                   |
+| 10 | Ulgothra Besieged           |
+
+_durchgestrichen = bereits gespielt und steht nicht mehr zur Wahl_

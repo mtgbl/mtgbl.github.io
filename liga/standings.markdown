@@ -17,8 +17,8 @@ sitemap: false
 | Troubadix   |  2    | 2 | 0    |   |      |   |      |   |      |   |      |   |      |   |      |   |      |
 | Verleihnix  |  0    | 0 | 0    |   |      |   |      |   |      |   |      |   |      |   |      |   |      |
 
-T = Teilnahme\
-P = Punkte fürs Spielen
+_T = Teilnahme_\
+_P = Punkte fürs Spielen_
 
 Für das Total zählen nur die 7 besten Draft-Resultate.
 
