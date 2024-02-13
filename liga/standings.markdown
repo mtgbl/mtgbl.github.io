@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Liga 2024 - Tabelle
+layout: base
+title: Liga-Tabelle
 permalink: /liga/tabelle/
 sitemap: false
 ---
+
+# Revolver Liga 2024 - Tabelle
 
 → [Übersicht/Regeln](/liga/uebersicht)
 

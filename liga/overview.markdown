@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Liga 2024
+layout: base
+title: Liga # title for navigation
 permalink: /liga/uebersicht/
 sitemap: false
 ---
+
+# Revolver Liga 2024
 
 ⚠️ **ACHTUNG: Entwurf!** ⚠️
 
