@@ -27,7 +27,7 @@ Für das Total zählen nur die 7 besten Draft-Resultate.
 | Zu vergebende Punkte       ||
 |----------------------------|----|
 | Teilnahme                  | +2 |
-| Draftgewinner-Bonus        | +3 |
+| Draftgewinner-Bonus        | +2 |
 | Match-Sieg                 | +3 |
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
