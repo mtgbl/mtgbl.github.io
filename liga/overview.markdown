@@ -13,11 +13,10 @@ Nach 8 Drafts haben wir einen neuen Liga-Champion für das Jahr 2024 gefunden!
 
 Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein Abo anmelden!
 
-| Kosten               ||
-|----------------------|-------|
-| Einzelner Draft      | xx Fr |
-| Abo Mitglieder       | xx Fr |
-| Abo Nicht-Mitglieder | xx Fr |
+| Kosten               | Mitglieder | Nichtmitglieder |
+|----------------------|------------|-----------------|
+| Einzelner Draft      | 20.- Fr    | 25.- Fr         |
+| Abo (alle Drafts)    | 90.- Fr    | 120.- Fr        |
 
 #### Wichtige Links:
 - [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) # TODO: change link!
