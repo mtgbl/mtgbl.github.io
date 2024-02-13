@@ -7,7 +7,11 @@ sitemap: false
 
 ⚠️ **ACHTUNG: Entwurf!** ⚠️
 
-Neues Jahr, neue (Draft-)Liga! Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein Abo anmelden!
+Neues Jahr, neue (Draft-)Liga! Einmal pro Monat findet ein Draft mit einem zufälligen Set aus der Vergangenheit statt.
+Nach 8 Drafts haben wir einen neuen Liga-Champion für das Jahr 2024 gefunden!
+
+
+Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein Abo anmelden!
 
 | Kosten               ||
 |----------------------|-------|
@@ -48,7 +52,7 @@ Neues Jahr, neue (Draft-)Liga! Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ
 | 5 | [09.08.2024](/event/2024-08-09-draft) | ?   |
 | 6 | [06.09.2024](/event/2024-09-06-draft) | ?   |
 | 7 | [04.10.2024](/event/2024-10-04-draft) | ?   |
-| 7 | [08.11.2024](/event/2024-11-08-draft) | ?   |
+| 8 | [08.11.2024](/event/2024-11-08-draft) | ?   |
 
 
 ## Sets
