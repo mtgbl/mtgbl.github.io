@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Ausfall 23.2.2024"
+date:   2024-02-17 09:00:00
+categories: turnier info
+---
+
+Da unsere üblichen Räumlichkeiten besetzt sind, findet am Freitag, dem 23.2.2024, kein Event statt.
+
+An diesem Tag startet die [Spielweltenfabrik](https://www.spielweltenfabrik.ch/) mit einer Soft-Eröffnung ab 10 Uhr. Kommt doch vorbei!
+
+Um nicht auf Magic verzichten zu müssen, empfehlen wir [Draft](https://maro-games.ch/node/5325) oder [Commander](https://maro-games.ch/node/4239) bei MaRo Games.
