@@ -7,3 +7,11 @@ categories: liga
 Neues Jahr, neue (Draft-)Liga!
 
 [Übersicht](/liga/uebersicht/)
+
+
+
+Offene Fragen:
+- Termine
+- Kosten
+- Sets
+- Wie viele Teilnehmer maximal pro Draft? 12 oder 16?
