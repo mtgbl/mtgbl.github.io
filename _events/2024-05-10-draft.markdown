@@ -1,6 +1,6 @@
 ---
 type: draft
-date: 2024-05-03 19:00:00
+date: 2024-05-10 19:00:00
 title: "Outlaws of Thunder Junction Draft / Commander"
 location: Spielweltenfabrik
 ---

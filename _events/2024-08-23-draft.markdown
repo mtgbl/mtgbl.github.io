@@ -1,7 +1,7 @@
 ---
 type: draft
-date: 2024-05-03 19:00:00
-title: "Outlaws of Thunder Junction Draft / Commander"
+date: 2024-08-23 19:00:00
+title: "Bloomburrow Draft / Commander"
 location: Spielweltenfabrik
 ---
 
