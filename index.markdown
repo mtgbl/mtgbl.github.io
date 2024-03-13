@@ -2,10 +2,10 @@
 layout: home
 title: "Magic: The Gathering in Liestal"
 ---
-{% assign rathauskeller = site.locations | where: "name","Rathauskeller" | first %}
+{% assign spielweltenfabrik = site.locations | where: "name","Spielweltenfabrik" | first %}
 
 Wir sind ein Verein, der regelmässig Magic: The Gathering spielt.
-Jeden Freitag treffen wir uns im [Rathauskeller]({{ rathauskeller.url }}) in Liestal.
+Jeden Freitag treffen wir uns in der [Spielweltenfabrik]({{ spielweltenfabrik.url }}) in Liestal.
 
 Dort spielen wir meist [Booster Draft](https://magic.wizards.com/de/formats/booster-draft) oder [Commander](https://magic.wizards.com/de/formats/commander).
 Die Spielabende sind öffentlich, auch Anfänger sind willkommen.
