@@ -51,6 +51,9 @@ minima:
     - platform: discord
       user_url: "https://discord.gg/TGsu22CD"
       title: "Unserer Discord"
+    - platform: calendar
+      user_url: "/events.ics"
+      title: "Event-Kalender"
 
 plugins:
   - jekyll-remote-theme
