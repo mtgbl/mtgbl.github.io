@@ -1,0 +1,28 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MTG Baselland//NONSGML Event-Kalender//DE
+URL:{{ site.url }}/events.ics
+METHOD:PUBLISH
+NAME:MTG Baselland Events
+X-WR-CALNAME:MTG Baselland Events
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+{%- assign upcoming_events = site.events | where_exp: "item", "item.date > site.time" | where_exp: "item", "item.type != 'cancelled'" -%}
+{% for event in upcoming_events %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}@mtgbl.ch
+ORGANIZER;CN="MTG Baselland":MAILTO:mtgbearsocialmedia@gmail.com
+{%- assign location = site.locations | where: "name", event.location | first -%}
+{% assign oneline_address = location.address | newline_to_br | strip_newlines | split: "<br />" | join: "\, " %}
+LOCATION:{{ oneline_address }}
+SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
+CLASS:PUBLIC
+DTSTART:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+DTEND:{% assign end_hour = event.date | date: "%H" | plus: 3 %}{{ event.date | date: "%Y%m%dT" }}{{ end_hour }}{{ event.date | date: "%M%S" }}
+DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+URL:{{ site.url }}{{ event.url }}
+END:VEVENT{% endfor %}
+END:VCALENDAR
