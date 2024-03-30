@@ -5,7 +5,7 @@ permalink: /liga/uebersicht/
 sitemap: false
 ---
 
-# Revolver Liga 2024
+# Bärenliga 2024
 
 ⚠️ **ACHTUNG: Entwurf!** ⚠️
 
