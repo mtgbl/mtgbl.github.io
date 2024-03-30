@@ -12,8 +12,7 @@ sitemap: false
 Neues Jahr, neue (Draft-)Liga! Einmal pro Monat findet ein Draft mit einem zufälligen Set aus der Vergangenheit statt.
 Nach 6 Drafts haben wir einen neuen Liga-Champion für das Jahr 2024 gefunden!
 
-
-Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein Abo anmelden!
+Jetzt im [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH) für ein Abo anmelden!
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
@@ -21,7 +20,7 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein 
 | Abo (alle Drafts)    | 90.- Fr    | 120.- Fr        |
 
 #### Wichtige Links:
-- [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) # TODO: change link!
+- [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH)
 - [Aktuelle Tabelle](/liga/tabelle)
 - [Termine](#termine)
 
@@ -44,7 +43,7 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein 
 
 ## Preise
 Während der einzelnen Drafts gibts es keine Preise zu gewinnen. Der Sieger der [Gesamtwertung](/liga/tabelle) erhält eine exklusive Spielmatte.
-Zudem gibt es Sachpreise für die besten 8 Spieler der Gesamtwertung.
+Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
 
