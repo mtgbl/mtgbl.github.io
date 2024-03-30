@@ -5,7 +5,7 @@ permalink: /liga/tabelle/
 sitemap: false
 ---
 
-# Revolver Liga 2024 - Tabelle
+# Bärenliga 2024 - Tabelle
 
 → [Übersicht/Regeln](/liga/uebersicht)
 
