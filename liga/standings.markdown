@@ -2,7 +2,6 @@
 layout: base
 title: Liga-Tabelle
 permalink: /liga/tabelle/
-sitemap: false
 ---
 
 # Bärenliga 2024 - Tabelle
