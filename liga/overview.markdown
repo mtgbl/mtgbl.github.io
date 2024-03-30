@@ -16,8 +16,8 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH) für ein 
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
-| Einzelner Draft      | 20.- Fr    | 25.- Fr         |
-| Abo (alle Drafts)    | 90.- Fr    | 120.- Fr        |
+| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
+| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
 
 #### Wichtige Links:
 - [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH)
