@@ -57,17 +57,27 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) für ein 
 ## Sets
 Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgewählt:
 
-| #  | Set                         |
-|:--:|-----------------------------|
-| 1  | Unfinity                    |
-| 2  | ~~Unglued~~                 |
-| 3  | Unstable                    |
-| 4  | Arabian Nights              |
-| 5  | Beta                        |
-| 6  | Conspiracy 4                |
-| 7  | Modern Horizons 5           |
-| 8  | Return to Return to Ravnica |
-| 9  | Shandalar                   |
-| 10 | Ulgothra Besieged           |
+| #  | Set                                     |
+|:--:|-----------------------------------------|
+| 1  | Wilds of Eldraine                       |
+| 2  | Dominaria United                        |
+| 3  | Streets of New Capenna                  |
+| 4  | Innistrad: Midnight Hunt                |
+| 5  | D&D: Adventures in the Forgotten Realms |
+| 6  | Kaldheim                                |
+| 7  | Zendikar Rising                         |
+| 8  | Ikoria: Lair of Behemoths               |
+| 9  | Theros Beyond Death                     |
+| 10 | War of the Spark                        |
+| 11 | Ravnica Allegiance                      |
+| 12 | Ixalan                                  |
+| 13 | Hour of Devastation                     |
+| 14 | Shadows over Innistrad                  |
+| 15 | Eldritch Moon                           |
+| 16 | Battle for Zendikar                     |
+| 17 | Oath of the Gatewatch                   |
+| 18 | Khans of Tarkir                         |
+| 19 | Time Spiral Remastered                  |
+| 20 | Ultimate Masters                        |
 
-_durchgestrichen = bereits gespielt und steht nicht mehr zur Wahl_
+_~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
