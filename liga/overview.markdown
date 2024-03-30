@@ -2,7 +2,6 @@
 layout: base
 title: Liga # title for navigation
 permalink: /liga/uebersicht/
-sitemap: false
 ---
 
 # Bärenliga 2024
