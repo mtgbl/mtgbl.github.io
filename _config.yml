@@ -27,7 +27,7 @@ locale: de_CH
 header_pages:
   - about.markdown
   - events.markdown
-#  - liga/rules.markdown
+#  - liga/overview.markdown
   - bears.markdown
 
 collections:
@@ -118,3 +118,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - _drafts/
