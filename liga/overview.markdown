@@ -16,8 +16,8 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH) für ein 
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
-| Einzelner Draft      | 20.- Fr    | 25.- Fr         |
-| Abo (alle Drafts)    | 90.- Fr    | 120.- Fr        |
+| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
+| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
 
 #### Wichtige Links:
 - [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH)
@@ -49,7 +49,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 | # | Datum                                 | Set |
 |::|----------------------------------------|-----|
-| 1 | [31.05.2024](/event/2024-05-31-draft) | ?   |
+| 1 | [24.05.2024](/event/2024-05-24-draft) | ?   |
 | 2 | [28.06.2024](/event/2024-06-28-draft) | ?   |
 | 3 | [19.07.2024](/event/2024-07-19-draft) | ?   |
 | 4 | [23.08.2024](/event/2024-08-23-draft) | ?   |
