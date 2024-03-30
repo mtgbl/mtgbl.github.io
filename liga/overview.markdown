@@ -49,7 +49,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 | # | Datum                                 | Set |
 |::|----------------------------------------|-----|
-| 1 | [31.05.2024](/event/2024-05-31-draft) | ?   |
+| 1 | [24.05.2024](/event/2024-05-24-draft) | ?   |
 | 2 | [28.06.2024](/event/2024-06-28-draft) | ?   |
 | 3 | [19.07.2024](/event/2024-07-19-draft) | ?   |
 | 4 | [23.08.2024](/event/2024-08-23-draft) | ?   |
