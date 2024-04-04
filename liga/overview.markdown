@@ -6,18 +6,6 @@ permalink: /liga/uebersicht/
 
 # Bärenliga 2024
 
-⚠️ **ACHTUNG: Entwurf!** ⚠️
-
-Neues Jahr, neue (Draft-)Liga! Einmal pro Monat findet ein Draft mit einem zufälligen Set aus der Vergangenheit statt.
-Nach 6 Drafts haben wir einen neuen Liga-Champion für das Jahr 2024 gefunden!
-
-Jetzt im [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH) für ein Abo anmelden!
-
-| Kosten               | Mitglieder | Nichtmitglieder |
-|----------------------|------------|-----------------|
-| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
-| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
-
 #### Wichtige Links:
 - [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH)
 - [Aktuelle Tabelle](/liga/tabelle)
@@ -39,6 +27,14 @@ Jetzt im [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH) für ein 
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
 
+## Kosten
+
+| Kosten               | Mitglieder | Nichtmitglieder |
+|----------------------|------------|-----------------|
+| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
+| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
+
+Das Abo wird vor Ort beim ersten Event bezahlt.
 
 ## Preise
 Während der einzelnen Drafts gibts es keine Preise zu gewinnen. Der Sieger der [Gesamtwertung](/liga/tabelle) erhält eine exklusive Spielmatte.
@@ -48,12 +44,12 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 | # | Datum                                 | Set |
 |::|----------------------------------------|-----|
-| 1 | [24.05.2024](/event/2024-05-24-draft) | ?   |
-| 2 | [28.06.2024](/event/2024-06-28-draft) | ?   |
-| 3 | [19.07.2024](/event/2024-07-19-draft) | ?   |
-| 4 | [23.08.2024](/event/2024-08-23-draft) | ?   |
-| 5 | [20.09.2024](/event/2024-09-20-draft) | ?   |
-| 6 | [25.10.2024](/event/2024-10-25-draft) | ?   |
+| 1 | [24.05.2024](/event/2024-05-24-liga)  | ?   |
+| 2 | [28.06.2024](/event/2024-06-28-liga)  | ?   |
+| 3 | [19.07.2024](/event/2024-07-19-liga)  | ?   |
+| 4 | [23.08.2024](/event/2024-08-23-liga)  | ?   |
+| 5 | [20.09.2024](/event/2024-09-20-liga)  | ?   |
+| 6 | [25.10.2024](/event/2024-10-25-liga)  | ?   |
 
 
 ## Sets
