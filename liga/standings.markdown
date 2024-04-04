@@ -8,16 +8,17 @@ permalink: /liga/tabelle/
 
 → [Übersicht/Regeln](/liga/uebersicht)
 
-| Name        | Total | Draft 1 || Draft 2 || Draft 3 || Draft 4 || Draft 5 || Draft 6 ||
-| ^^          | ^^    | T | P    | T | P    | T | P    | T | P    | T | P    | T | P    |
-|-------------|:-----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|
-| Asterix     |  14   | 2 | 9+3  |   |      |   |      |   |      |   |      |   |      |
-| Idefix      |  8    | 2 | 6    |   |      |   |      |   |      |   |      |   |      |
-| Obelix      |  6    | 2 | 4    |   |      |   |      |   |      |   |      |   |      |
-| Miraculix   |  6    | 2 | 4    |   |      |   |      |   |      |   |      |   |      |
-| Troubadix   |  2    | 2 | 0    |   |      |   |      |   |      |   |      |   |      |
-| Verleihnix  |  0    | 0 | 0    |   |      |   |      |   |      |   |      |   |      |
+| Name                   | Total | Draft 1 || Draft 2 || Draft 3 || Draft 4 || Draft 5 || Draft 6 ||
+| ^^                     | ^^    | T | P    | T | P    | T | P    | T | P    | T | P    | T | P    |
+|------------------------|:-----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|
+| Thomas <sup>A</sup>    |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Michael <sup>A</sup>   |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Marco <sup>A</sup>     |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Doménique <sup>A</sup> |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Nico <sup>A</sup>      |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Arnaud <sup>A</sup>    |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
 
+_A = Abo_\
 _T = Teilnahme_\
 _P = Punkte fürs Spielen_
 
