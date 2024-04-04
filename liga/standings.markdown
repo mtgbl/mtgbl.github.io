@@ -17,6 +17,9 @@ permalink: /liga/tabelle/
 | Doménique <sup>A</sup> |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
 | Nico <sup>A</sup>      |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
 | Arnaud <sup>A</sup>    |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| João <sup>A</sup>      |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Dominik <sup>A</sup>   |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
+| Patrick <sup>A</sup>   |  0    |   |      |   |      |   |      |   |      |   |      |   |      |
 
 _A = Abo_\
 _T = Teilnahme_\
