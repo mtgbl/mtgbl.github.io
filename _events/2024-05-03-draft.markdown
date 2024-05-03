@@ -1,8 +1,9 @@
 ---
 type: draft
 date: 2024-05-03 19:00:00
-title: "Outlaws of Thunder Junction Draft / Commander"
+title: "Outlaws of Thunder Junction Draft"
 location: Stadtmühle
+winner: Nico
 ---
 
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann.
