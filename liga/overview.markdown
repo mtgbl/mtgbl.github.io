@@ -44,12 +44,12 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 | # | Datum                                 | Set |
 |::|----------------------------------------|-----|
-| 1 | [24.05.2024](/event/2024-05-24-liga)  | ?   |
-| 2 | [28.06.2024](/event/2024-06-28-liga)  | ?   |
-| 3 | [19.07.2024](/event/2024-07-19-liga)  | ?   |
-| 4 | [23.08.2024](/event/2024-08-23-liga)  | ?   |
-| 5 | [20.09.2024](/event/2024-09-20-liga)  | ?   |
-| 6 | [25.10.2024](/event/2024-10-25-liga)  | ?   |
+| 1 | [24.05.2024](/event/2024-05-24-liga)  | Eldritch Moon |
+| 2 | [28.06.2024](/event/2024-06-28-liga)  | ?             |
+| 3 | [19.07.2024](/event/2024-07-19-liga)  | ?             |
+| 4 | [23.08.2024](/event/2024-08-23-liga)  | ?             |
+| 5 | [20.09.2024](/event/2024-09-20-liga)  | ?             |
+| 6 | [25.10.2024](/event/2024-10-25-liga)  | ?             |
 
 
 ## Sets
@@ -71,7 +71,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 | 12 | Ixalan                                  |
 | 13 | Hour of Devastation                     |
 | 14 | Shadows over Innistrad                  |
-| 15 | Eldritch Moon                           |
+| ~~15~~ | ~~Eldritch Moon~~                   |
 | 16 | Battle for Zendikar                     |
 | 17 | Oath of the Gatewatch                   |
 | 18 | Khans of Tarkir                         |
