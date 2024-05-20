@@ -61,6 +61,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-spaceship
+  - jekyll-paginate-v2
 
 strict_front_matter: true
 liquid:
@@ -73,6 +74,21 @@ jekyll-spaceship:
     - table-processor
 
 maps_api_key: AIzaSyCsr4EVNw-s-VDiSyJyXamPbTRVzJrycGg
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  # extension: htm
+  # indexpage: 'default'
+  trail:
+    before: 2
+    after: 2
 
 defaults:
   - scope:
