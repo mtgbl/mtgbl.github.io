@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme", "~> 0.4.3"
   gem "jekyll-last-modified-at"
   gem "jekyll-spaceship"
+  gem 'jekyll-toc'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

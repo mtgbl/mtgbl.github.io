@@ -11,6 +11,8 @@ Dort spielen wir meist [Booster Draft](https://magic.wizards.com/de/formats/boos
 Die Spielabende sind öffentlich, auch Anfänger sind willkommen.
 Anmeldungen über unsere [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) sind erwünscht!
 
+→ [Häufig gestellte Fragen](/faq)
+
 ---
 
 {% assign upcoming_events = site.events | where_exp: "item", "item.date > site.time" | where_exp: "item", "item.type != 'cancelled'" %}

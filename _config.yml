@@ -61,6 +61,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
   - jekyll-spaceship
+  - jekyll-toc
 
 strict_front_matter: true
 liquid:
