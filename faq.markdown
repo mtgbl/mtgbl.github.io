@@ -28,6 +28,15 @@ Für Commander: Deine Decks
 
 ---
 
+## Wer oder was ist der Bär?
+Wer den wöchentlichen (Draft-)Event gewinnt, wird zum Bärn gekürt.
+Wer den amtierenden Bären im direkten Duell schlägt, erhält einen Extra-Booster.
+Verteidigt der Bär seinen Titel, erhält er den Extra-Booster.
+
+Die Liste der letzten Bären findest du [hier](/baeren/).
+
+---
+
 ## Wie viele Draft-Runden werden gespielt?
 Das hängt von der Teilnehmerzahl ab. Normalerweise ist es uns wichtig, dass am Ende ein eindeutiger Gewinner feststeht.
 Hier findest du die dazu nötigen Runden:
