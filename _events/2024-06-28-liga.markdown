@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 2 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Zendikar Rising Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
