@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2024-05-31 19:00:00
-title: "Outlaws of Thunder Junction Draft"
+title: "Ravnica Remastered Draft"
 location: Spielweltenfabrik
 winner: Nico
 ---
