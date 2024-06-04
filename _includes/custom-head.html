@@ -5,3 +5,33 @@
 <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+
+{%- if page.collection == 'events' -%}
+{%- assign location = site.locations | where: "name", page.location | first -%}
+{%- assign oneline_address = location.address | newline_to_br | strip_newlines | split: "<br />" | join: ", " -%}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "{{ page.title }}",
+        "startDate": "{{ page.date | date: "%Y-%m-%dT%H:%M" }}",
+        "endDate": "{% assign end_hour = page.date | date: "%H" | plus: 3 %}{{ page.date | date: "%Y-%m-%dT" }}{{ end_hour }}:{{ page.date | date: "%M" }}",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+            "@type": "Place",
+            "name": "{{ location.name }}",
+            "address": {
+                "@type": "PostalAddress",
+                "name": "{{ oneline_address }}"
+            }
+        },
+        "description": "{{ page.title }}",
+        "organizer": {
+            "@type": "Organization",
+            "name": "{{ site.title }}",
+            "url": "{{ site.url }}"
+        }
+    }
+</script>
+{%- endif -%}
