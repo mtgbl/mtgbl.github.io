@@ -9,6 +9,7 @@ baseurl: ""
 url: "https://mtgbl.ch" # the base hostname & protocol for your site
 timezone: UTC
 future: true  # render events and posts with a date in the future
+lang: de
 
 author:
   name: MTG Baselland
