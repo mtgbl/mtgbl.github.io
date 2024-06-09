@@ -1,13 +1,13 @@
 ---
 type: draft
 date: 2024-07-05 19:00:00
-title: "Draft / Commander"
+title: "Modern Horizons 3 Draft / Commander"
 location: Spielweltenfabrik
 ---
 ## Draft
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) für Standardsets, Spezialdrafts können teurer sein \
+Kosten: 30.- (35.- für Nichtmitglieder)\
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster (aktuelle Standardsets) in den Preispool. \
+Pro Spieler geht ein Booster (aktuelle Standardsets, nicht MH3!) in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
