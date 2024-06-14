@@ -1,8 +1,9 @@
 ---
 type: draft
 date: 2024-06-14 19:00:00
-title: "Modern Horizons 3 Draft / Commander"
+title: "Modern Horizons 3 Draft"
 location: Spielweltenfabrik
+winner: Mario
 ---
 ## Draft
 Kosten: 30.- (35.- für Nichtmitglieder)\
