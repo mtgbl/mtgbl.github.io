@@ -3,6 +3,7 @@ type: draft
 date: 2024-06-21 19:00:00
 title: "Modern Horizons 3 Draft / Commander"
 location: Stadtmühle
+winner: Patrick
 ---
 ## Draft
 Kosten: 30.- (35.- für Nichtmitglieder)\
