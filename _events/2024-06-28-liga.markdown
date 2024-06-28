@@ -3,6 +3,7 @@ type: draft
 date: 2024-06-28 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: João
 ---
 ## Bärenliga
 Runde 2 der [Bärenliga 2024](/liga/uebersicht).
