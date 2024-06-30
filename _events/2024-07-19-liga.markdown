@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 3 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Oath of the Gatewatch Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
