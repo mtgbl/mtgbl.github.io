@@ -1,6 +1,6 @@
 ---
 type: draft
-date: 2024-09-20 19:00:00
+date: 2024-09-13 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 ---

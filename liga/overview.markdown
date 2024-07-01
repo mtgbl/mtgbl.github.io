@@ -48,7 +48,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 2 | [28.06.2024](/event/2024-06-28-liga)  | Zendikar Rising        |
 | 3 | [19.07.2024](/event/2024-07-19-liga)  | Oath of the Gatewatch  |
 | 4 | [23.08.2024](/event/2024-08-23-liga)  | ?                      |
-| 5 | [20.09.2024](/event/2024-09-20-liga)  | ?                      |
+| 5 | [13.09.2024](/event/2024-09-13-liga)  | ?                      |
 | 6 | [25.10.2024](/event/2024-10-25-liga)  | ?                      |
 
 
