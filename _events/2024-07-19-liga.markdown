@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 3 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Oath of the Gatewatch Draft
+Format: Oath of the Gatewatch Draft (Zuerst zwei Booster Oath of the Gatewatch, dann ein Booster Battle for Zendikar)
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
