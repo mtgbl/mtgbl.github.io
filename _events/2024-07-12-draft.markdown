@@ -1,7 +1,7 @@
 ---
-type: draft
+type: cancelled
 date: 2024-07-12 19:00:00
-title: "Modern Horizons 3 Draft / Commander"
+title: "Ausfall"
 location: Spielweltenfabrik
 ---
 ## Draft
