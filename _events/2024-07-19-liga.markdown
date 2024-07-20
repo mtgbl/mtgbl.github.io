@@ -3,6 +3,7 @@ type: draft
 date: 2024-07-19 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: Marco
 ---
 ## Bärenliga
 Runde 3 der [Bärenliga 2024](/liga/uebersicht).
