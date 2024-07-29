@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 4 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Innistrad: Midnight Hunt Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
