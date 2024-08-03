@@ -9,7 +9,7 @@ Hier veranstalten wir jeden Freitag Abend ein Friday Night Magic Turnier. Unsere
 
 Schon bald trauen sich die Bären auch aus ihrer Höhle und reisen gemeinsam an internationale Magicturniere in ganz Europa. So wird auch bei den Bären der Funken erweckt und wir veranstalten magische Specialevents.
 Am 6. März 2015 suchen sich die Bären bereits eine neue Höhle. Der Rathauskeller sollte unser neues Zuhause sein. Neun Winter hat uns diese Höhle gut gedient.
-Zum zehnten Winter trieb uns die Abenteuerlust wieder an neue Orte. Pünktlich zum 10. Jubiläum fanden wir in der [Spielweltenfabrik](https://www.spielweltenfabrik.ch/events/spielweltenfabrik-abos) unsere neue Basis.
+Zum zehnten Winter trieb uns die Abenteuerlust wieder an neue Orte. Pünktlich zum 10. Jubiläum fanden wir in der [Spielweltenfabrik](https://www.spielweltenfabrik.ch/) unsere neue Basis.
 
 Unermüdlich messen sich die Bären in magischen Duellen. Der Durst nach Ruhm und Ehre verlangt nach einem Titel. Also führen wir den [Bärentitel](/baeren/) ein.
 Der Sieger jeder Woche wird zum Bär erkoren. Wer seinen Titel in der folgenden Woche verteidigen kann, bekommt zusätzliche Preise. Wird der Bär jedoch vom Thron gestossen, winken Preise für die Bezwinger.
