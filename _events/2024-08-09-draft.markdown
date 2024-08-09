@@ -3,6 +3,7 @@ type: draft
 date: 2024-08-09 19:00:00
 title: "Bloomburrow Draft / Commander"
 location: Spielweltenfabrik
+winner: Doménique
 ---
 ## Bloomburrow Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
