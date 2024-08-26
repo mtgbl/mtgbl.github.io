@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2024-09-27 19:00:00
-title: "Duskmourn Draft / Commander"
+title: "Duskmourn Draft / Commander: Budget-Decks"
 location: Spielweltenfabrik
 ---
 ## Duskmourn: House of Horror Draft
@@ -10,7 +10,8 @@ Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
+## Commander-Special: Budget-Decks
+Diesmal mit Deckbau-Challenge: Nimm Decks mit, wo keine Karte darin mehr als 1€ Wert hat.
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
