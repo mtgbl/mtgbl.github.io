@@ -1,18 +1,17 @@
 ---
-type: draft
+type: commander
 date: 2024-09-06 19:00:00
-title: "Bloomburrow Draft / Commander"
+title: "Commander-Special: Precon + 15"
 location: Spielweltenfabrik
 ---
-## Bloomburrow Draft
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
-Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
-Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
+## Commander-Special: Precon + 15
+Wähle eines der 100 offiziellen vorkonstruierten Commander-Decks und ändere maximal 15 des Decks nach deinem eigenen Geschmack.
+Proxies sind erlaubt.
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
-Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+Mitbringen: Commander-Deck; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+
+Es ist kein Draft geplant.
 
 ## Allgemein
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
