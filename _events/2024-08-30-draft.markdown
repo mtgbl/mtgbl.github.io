@@ -1,8 +1,9 @@
 ---
 type: draft
 date: 2024-08-30 19:00:00
-title: "Bloomburrow Draft / Commander"
+title: "Bloomburrow Draft"
 location: Spielweltenfabrik
+winner: Thomas
 ---
 ## Bloomburrow Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
