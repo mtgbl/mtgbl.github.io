@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 5 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Ultimate Masters Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|

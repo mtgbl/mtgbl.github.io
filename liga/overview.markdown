@@ -48,7 +48,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 2 | [28.06.2024](/event/2024-06-28-liga)  | Zendikar Rising          |
 | 3 | [19.07.2024](/event/2024-07-19-liga)  | Oath of the Gatewatch    |
 | 4 | [23.08.2024](/event/2024-08-23-liga)  | Innistrad: Midnight Hunt |
-| 5 | [13.09.2024](/event/2024-09-13-liga)  | ?                        |
+| 5 | [13.09.2024](/event/2024-09-13-liga)  | Ultimate Masters         |
 | 6 | [25.10.2024](/event/2024-10-25-liga)  | ?                        |
 
 
@@ -76,6 +76,6 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 | ~~17~~ | ~~Oath of the Gatewatch~~           |
 | 18 | Khans of Tarkir                         |
 | 19 | Time Spiral Remastered                  |
-| 20 | Ultimate Masters                        |
+| ~~20~~ | ~~Ultimate Masters~~                |
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
