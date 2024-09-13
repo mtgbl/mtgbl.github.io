@@ -1,13 +1,15 @@
 ---
 type: draft
-date: 2024-10-25 19:00:00
+date: 2024-10-25 19:30:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 ---
 ## Bärenliga
 Runde 6 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Ikoria: Lair of Behemoths Draft
+
+Anschliessend Preisverleihung.
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|

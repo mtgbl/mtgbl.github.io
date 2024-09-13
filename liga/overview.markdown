@@ -42,14 +42,14 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
 
-| # | Datum                                 | Set                      |
-|::|----------------------------------------|--------------------------|
-| 1 | [24.05.2024](/event/2024-05-24-liga)  | Eldritch Moon            |
-| 2 | [28.06.2024](/event/2024-06-28-liga)  | Zendikar Rising          |
-| 3 | [19.07.2024](/event/2024-07-19-liga)  | Oath of the Gatewatch    |
-| 4 | [23.08.2024](/event/2024-08-23-liga)  | Innistrad: Midnight Hunt |
-| 5 | [13.09.2024](/event/2024-09-13-liga)  | Ultimate Masters         |
-| 6 | [25.10.2024](/event/2024-10-25-liga)  | ?                        |
+| # | Datum                                 | Set                       |
+|::|----------------------------------------|---------------------------|
+| 1 | [24.05.2024](/event/2024-05-24-liga)  | Eldritch Moon             |
+| 2 | [28.06.2024](/event/2024-06-28-liga)  | Zendikar Rising           |
+| 3 | [19.07.2024](/event/2024-07-19-liga)  | Oath of the Gatewatch     |
+| 4 | [23.08.2024](/event/2024-08-23-liga)  | Innistrad: Midnight Hunt  |
+| 5 | [13.09.2024](/event/2024-09-13-liga)  | Ultimate Masters          |
+| 6 | [25.10.2024](/event/2024-10-25-liga)  | Ikoria: Lair of Behemoths |
 
 
 ## Sets
@@ -64,7 +64,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 | 5  | D&D: Adventures in the Forgotten Realms |
 | 6  | Kaldheim                                |
 | ~~7~~  | ~~Zendikar Rising~~                 |
-| 8  | Ikoria: Lair of Behemoths               |
+| ~~8~~  | ~~Ikoria: Lair of Behemoths~~       |
 | 9  | Theros Beyond Death                     |
 | 10 | War of the Spark                        |
 | 11 | Ravnica Allegiance                      |
