@@ -7,7 +7,9 @@ location: Spielweltenfabrik
 ## Bärenliga
 Runde 6 der [Bärenliga 2024](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Ikoria: Lair of Behemoths Draft
+
+Anschliessend Preisverleihung.
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
