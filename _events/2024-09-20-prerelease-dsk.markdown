@@ -9,4 +9,4 @@ Das Prerelease zu "Duskmourn: House of Horror" steht an!
 Wie immer bei Prerelease-Events findet in Liestal kein Event statt.
 Wir sind dafür bei MaRo Games in Birsfelden.
 
-Bitte [hier](https://maro-games.ch/event-created) anmelden.
+Bitte [hier](https://maro-games.ch/events/) anmelden.
