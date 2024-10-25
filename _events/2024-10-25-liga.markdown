@@ -1,8 +1,9 @@
 ---
 type: draft
 date: 2024-10-25 19:30:00
-title: "Bärenliga + Commander"
+title: "Bärenliga"
 location: Spielweltenfabrik
+winner: Marc
 ---
 ## Bärenliga
 Runde 6 der [Bärenliga 2024](/liga/uebersicht).
