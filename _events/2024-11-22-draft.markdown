@@ -1,13 +1,26 @@
 ---
 type: draft
 date: 2024-11-22 19:00:00
-title: "Foundations Draft / Commander"
+title: "Mystery Booster 2 Draft / Commander"
 location: Spielweltenfabrik
 ---
-## Magic: The Gathering Foundations Draft
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
-Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+## Mystery Booster 2 Draft
+Kosten: 30.- \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
+Maximal 16 Spieler. Bei zu vielen Anmeldungen werden Mitglieder bevorzugt behandelt. \
+Zum Schluss werden die Promos aus dem [Secret Lair Drop](https://secretlair.wizards.com/us/en/product/1016799/festival-in-a-box-las-vegas-2024) nach Rangliste verpickt.
+Jeder Teilnehmer erhält mindestens eine Promo. \
+Promos:
+- Reya Dawnbringer (Li’l Legends Foil Edition Secret Lair Drop)
+- Orvar, the All-form (Li’l Legends Foil Edition Secret Lair Drop)
+- Lavinia, Azorius Renegade (Li’l Legends Foil Edition Secret Lair Drop)
+- Drana, The Last Bloodchief (Li’l Legends Foil Edition Secret Lair Drop)
+- Omnath, Locus of Creation (Li’l Legends Foil Edition Secret Lair Drop)
+- Convention Maro (Festival in a Box: Las Vegas 2024 Promo Pack)
+- Ponder (Festival in a Box: Las Vegas 2024 Promo Pack)
+- Swords to Plowshares (Festival in a Box: Las Vegas 2024 Promo Pack)
+- Plains (Festival in a Box: Las Vegas 2024 Promo Pack)
+
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
