@@ -38,7 +38,7 @@ permalink: /liga/2024/
 Das Abo wird vor Ort beim ersten Event bezahlt.
 
 ## Preise
-Während der einzelnen Drafts gibts es keine Preise zu gewinnen. Der Sieger der [Gesamtwertung](/liga/tabelle) erhält eine exklusive Spielmatte.
+Während der einzelnen Drafts gibts es keine Preise zu gewinnen. Der Sieger der [Gesamtwertung](/liga/2024/tabelle) erhält eine exklusive Spielmatte.
 Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
