@@ -8,9 +8,36 @@ permalink: /liga/2024/
 
 ![Liga-Gewinner 2024 Marco](/assets/photos/liga2014_winner.jpg)
 
-#### Wichtige Links:
-- [Aktuelle Tabelle](/liga/2024/tabelle)
-- [Termine](#termine)
+## Finale Tabelle
+
+| Name                   | Total | Draft 1 || Draft 2 || Draft 3 || Draft 4 || Draft 5 || Draft 6 ||
+| ^^                     | ^^    | T | P    | T | P    | T | P    | T | P    | T | P    | T | P    |
+|------------------------|:-----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|:-:|:----:|
+| Marco <sup>A</sup>     |  55   | - | -    | 2 | 10+1 | 2 | 12+2 | 2 | 5    | 2 | 9    | 2 | 6    |
+| João <sup>A</sup>      |  54½  | 2 | 9    | 2 | 10+1 | 2 | 6    |~~2~~ | ~~4~~ | 2 | 9    | 2 |  9+½ |
+| Patrick <sup>A</sup>   |  54½  | - | -    | 2 | 6    | 2 | 9    | 2 | 6    | 2 | 12+2 | 2 |  9+½ |
+| Urs <sup>A</sup>       |  49   | - | -    | 2 | 9    | 2 | 9    | 2 | 9    | 2 | 6    | 2 | 6    |
+| Michael <sup>A</sup>   |  48   | 2 | 12+2 |~~2~~ | ~~6~~ | 2 | 6    | 2 | 6    | 2 | 6    | 2 | 6    |
+| Nico <sup>A</sup>      |  45   |~~2~~ | ~~3~~ | 2 | 6    | 2 | 9    | 2 | 12+2 | 2 | 3    | 2 |  3   |
+| Arnaud <sup>A</sup>    |  41½  | - | -    | 2 | 9    | 2 | 3    | 2 | 7    | 2 | 3    | 2 |  9+½ |
+| Dave <sup>A</sup>      |  38   | 2 | 6    | 2 | 4    |~~2~~ | ~~3~~ | 2 | 6    | 2 | 6    | 2 |  6    |
+| Thomas <sup>A</sup>    |  38   | 2 | 7    | 2 | 6    | - | -    | 2 | 6    | 2 | 6    | 2 | 3    |
+| Remo                   |  23   | 2 | 3    | - | -    | - | -    | 2 | 0    | 2 | 6    | 2 | 6    |
+| Dominik <sup>A</sup>   |  18   | 2 | 3    | 2 | 3    | - | -    | 2 | 6    | - | -    | - | -    |
+| Anita                  |  12   | 2 | 7    | 2 | 1    | - | -    | - | -    | - | -    | - | -    |
+| Marc                   |  11½  | - | -    | - | -    | - | -    | - | -    | - | -    | 2 | 9+½  |
+| Doménique              |  10   | - | -    | - | -    | 2 | 3    | - | -    | 2 | 3    | - | -    |
+| Mario                  |  8    | 2 | 6    | - | -    | - | -    | - | -    | - | -    | - | -    |
+| Georg                  |  5    | - | -    | - | -    | - | -    | - | -    | 2 | 3    | - | -    |
+| Pascal                 |  2    | - | -    | 2 | 0    | - | -    | - | -    | - | -    | - | -    |
+| Tyrone                 |  2    | - | -    | - | -    | 2 | 0    | - | -    | - | -    | - | -    |
+
+_A = Abo_\
+_T = Teilnahme_\
+_P = Punkte fürs Spielen_\
+_~~durchgestrichen~~ = Streichresultat_
+
+Für das Total zählen nur die 5 besten Draft-Resultate.
 
 ## Regeln
 - Abonnenten haben ihren Startplatz auf sicher und sind automatisch angemeldet.
