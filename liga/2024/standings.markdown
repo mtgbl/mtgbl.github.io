@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Liga-Tabelle
-permalink: /liga/tabelle/
+permalink: /liga/2024/tabelle/
 ---
 
 # Bärenliga 2024 - Tabelle

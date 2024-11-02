@@ -1,14 +1,15 @@
 ---
 layout: base
 title: Liga # title for navigation
-permalink: /liga/uebersicht/
+permalink: /liga/2024/
 ---
 
 # Bärenliga 2024
 
+![Liga-Gewinner 2024 Marco](/assets/photos/liga2014_winner.jpg)
+
 #### Wichtige Links:
-- [Liga-Chat](https://chat.whatsapp.com/JHWYOnZegQ0ByJOWCJaosH)
-- [Aktuelle Tabelle](/liga/tabelle)
+- [Aktuelle Tabelle](/liga/2024/tabelle)
 - [Termine](#termine)
 
 ## Regeln
