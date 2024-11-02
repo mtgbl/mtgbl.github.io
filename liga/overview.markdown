@@ -6,9 +6,9 @@ permalink: /liga/uebersicht
 
 # Bärenliga 2025
 
-#### Wichtige Links:
 - [Aktuelle Tabelle](/liga/2025/tabelle)
 - [Termine](#termine)
+- [Bärenliga 2024](/liga/2024)
 
 ## Regeln
 - Abonnenten haben ihren Startplatz auf sicher und sind automatisch angemeldet.
