@@ -3,6 +3,7 @@ type: other
 date: 2024-11-03 13:00:00
 title: "Generalversammlung 2024"
 location: Laufwerk
+winner: Doménique, Patrick
 ---
 Auch dieses Jahr laden wir euch zur 10. Generalversammlung von MTG Baselland ein.
 Wie ihr es gewohnt seid, werden wir zuerst den geschäftlichen Teil erledigen und anschliessend zusammen ein Überraschungsturnier spielen.
