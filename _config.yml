@@ -50,7 +50,7 @@ minima:
       user_url: "https://www.facebook.com/mtgbaselland/"
       title: "Unsere Facebook-Gruppe"
     - platform: discord
-      user_url: "https://discord.gg/TGsu22CD"
+      user_url: "https://discord.gg/TBTFbkMWsy"
       title: "Unser Discord"
     - platform: calendar
       user_url: "/events.ics"
