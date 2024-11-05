@@ -1,13 +1,17 @@
 ---
 type: draft
 date: 2024-12-20 19:00:00
-title: "Foundations Draft / Commander"
+title: "Weihnachts-Chaosdraft / Commander"
 location: Spielweltenfabrik
 ---
-## Magic: The Gathering Foundations Draft
+## Weihnachts-Chaosdraft
+Wühlkisten-Chaosdraft!
+Aus einer Kiste mit 40 verschiedenen Editionen (maximal zwei Booster pro Set)
+zieht jeder ohne zu sehen drei Booster und draftet dann mit denen.
+
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+Pro Spieler geht ein Standardset-Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
