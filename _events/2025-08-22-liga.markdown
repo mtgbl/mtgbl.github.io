@@ -5,11 +5,9 @@ title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 ---
 ## Bärenliga
-Runde 8 der [Bärenliga 2025](/liga/uebersicht).
+Runde 7 der [Bärenliga 2025](/liga/uebersicht).
 
-Format:  Draft, Set wird noch bestimmt
-
-Anschliessend Preisverleihung.
+Format: Draft, Set wird noch bestimmt
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|

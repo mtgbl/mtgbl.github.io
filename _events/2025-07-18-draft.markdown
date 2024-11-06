@@ -1,19 +1,13 @@
 ---
 type: draft
 date: 2025-07-18 19:00:00
-title: "Bärenliga + Commander"
+title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
 ---
-## Bärenliga
-Runde 7 der [Bärenliga 2025](/liga/uebersicht).
-
-Format:  Draft, Set wird noch bestimmt
-
-| Kosten               | Mitglieder | Nichtmitglieder |
-|----------------------|------------|-----------------|
-| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
-| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
-
+## Final Fantasy Draft
+Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
+Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
