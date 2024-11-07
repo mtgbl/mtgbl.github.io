@@ -13,9 +13,10 @@ permalink: /liga/uebersicht
 ## Regeln
 - Abonnenten haben ihren Startplatz auf sicher und sind automatisch angemeldet.
 - Bei Abwesenheit bitte vorzeitig abmelden, damit der Platz für andere offen stehen kann. Wer trotz Anmeldung nicht auftaucht, wird mit einem Punktabzug bestraft.
-- Die Termine können sich ändern. Wir versuchen zum Beispiel Kollisionen mit Prerelease-Wochenenden zu vermeiden. Leider werden diese seitens WotC nicht sehr lange im Voraus kommuniziert. Terminänderungen werden über den Liga-Chat kommuniziert.
-- Es gibt ein Streichresultat, das heisst, für die Gesamtwertung zählen die besten 5 Resultate.
-- Gespielt werden jeweils 4 Runden Swiss. Normalerweise haben wir genug Material für bis zu 16 Spieler.
+- Die Termine können sich ändern. Wir versuchen zum Beispiel Kollisionen mit Prerelease-Wochenenden zu vermeiden. Leider werden diese seitens WotC nicht sehr lange im Voraus kommuniziert. Terminänderungen werden über den Mitglieder-Chat kommuniziert.
+- Es gibt zwei Streichresultate, das heisst, für die Gesamtwertung zählen die besten 6 Resultate.
+- Die Spieler-Kapazität der einzelnen Liga-Runden kann aufgrund Materialverfügbarkeit variieren. Spieler mit Abo haben einen Platz garantiert. Sobald das Draftset bekannt ist, wird auch die maximale Spieler-Kapazität kommuniziert.
+- Gespielt werden jeweils 4 Runden Swiss.
 - Der Gewinner jedes Drafts würfelt das Set für den nächsten Draft aus.
 - Tiebreaker bei Punktegleichstand:
   - mehr Liga-Drafts gewonnen (jeweils höchste Punktzahl innerhalb eines Drafts)
@@ -36,12 +37,13 @@ permalink: /liga/uebersicht
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
 | Einzelner Draft      | 25.- Fr    | 30.- Fr         |
-| Abo (alle Drafts)    | 100.- Fr   | 130.- Fr        |
+| Abo (alle Drafts)    | ??.- Fr    | ??.- Fr         |
 
 Diese Preise sind noch nicht definitiv. Das Abo wird vor Ort beim ersten Event bezahlt.
 
 ## Preise
-Während der einzelnen Drafts gibts es keine Preise zu gewinnen. Der Sieger der [Gesamtwertung](/liga/2025/tabelle) erhält eine exklusive Spielmatte.
+Während der einzelnen Drafts gibts es keine Preise zu gewinnen.
+Der Sieger der [Gesamtwertung](/liga/2025/tabelle) erhält eine exklusive Spielmatte.
 Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
@@ -54,8 +56,8 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 4 | [25.04.2025](/event/2025-04-25-liga)  |   |
 | 5 | [23.05.2025](/event/2025-05-23-liga)  |   |
 | 6 | [27.06.2025](/event/2025-06-27-liga)  |   |
-| 7 | [18.07.2025](/event/2025-07-18-liga)  |   |
-| 8 | [22.08.2025](/event/2025-08-22-liga)  |   |
+| 7 | [22.08.2025](/event/2025-08-22-liga)   |   |
+| 8 | Mitte/Ende September |   |
 
 
 ## Sets
