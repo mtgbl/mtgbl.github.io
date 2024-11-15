@@ -3,6 +3,10 @@ type: draft
 date: 2024-11-15 19:00:00
 title: "Foundations Draft / Commander"
 location: Spielweltenfabrik
+winner: Doménique
+players:
+  draft: 14
+  commander: 4
 ---
 ## Magic: The Gathering Foundations Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
