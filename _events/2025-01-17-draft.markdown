@@ -3,6 +3,9 @@ type: draft
 date: 2025-01-17 19:00:00
 title: "Foundations Draft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Magic: The Gathering Foundations Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \

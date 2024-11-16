@@ -3,6 +3,9 @@ type: draft
 date: 2025-01-24 19:00:00
 title: "Innistrad Remastered Draft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Innistrad Remastered Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
