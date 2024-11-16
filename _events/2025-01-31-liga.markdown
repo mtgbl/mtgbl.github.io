@@ -3,6 +3,9 @@ type: draft
 date: 2025-01-31 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Bärenliga
 Runde 1 der [Bärenliga 2025](/liga/uebersicht).

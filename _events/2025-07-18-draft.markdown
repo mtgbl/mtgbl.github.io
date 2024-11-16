@@ -3,6 +3,9 @@ type: draft
 date: 2025-07-18 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Final Fantasy Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \

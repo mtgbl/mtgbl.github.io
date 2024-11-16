@@ -3,6 +3,9 @@ type: draft
 date: 2025-08-01 19:00:00
 title: "Edge of Eternities Draft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Edge of Eternities Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \

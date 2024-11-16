@@ -3,6 +3,9 @@ type: draft
 date: 2024-12-13 19:00:00
 title: "Foundations Draft / Christmas-Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Christmas-Themed-Commander
 Am 13.12. wollen wir einen kleinen Weihnachts-Commander-Event organisieren.

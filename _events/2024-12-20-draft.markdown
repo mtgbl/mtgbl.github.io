@@ -3,6 +3,9 @@ type: draft
 date: 2024-12-20 19:00:00
 title: "Weihnachts-Chaosdraft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Weihnachts-Chaosdraft
 Wühlkisten-Chaosdraft!

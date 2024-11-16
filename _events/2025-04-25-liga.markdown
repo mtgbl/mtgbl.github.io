@@ -3,6 +3,9 @@ type: draft
 date: 2025-04-25 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Bärenliga
 Runde 4 der [Bärenliga 2025](/liga/uebersicht).

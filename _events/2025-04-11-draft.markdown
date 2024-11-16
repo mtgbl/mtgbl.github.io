@@ -3,6 +3,9 @@ type: draft
 date: 2025-04-11 19:00:00
 title: "Tarkir: Dragonstorm Draft / Commander"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Tarkir: Dragonstorm Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
