@@ -15,7 +15,7 @@ permalink: /liga/uebersicht
 - Bei Abwesenheit bitte vorzeitig abmelden, damit der Platz für andere offen stehen kann. Wer trotz Anmeldung nicht auftaucht, wird mit einem Punktabzug bestraft.
 - Die Termine können sich ändern. Wir versuchen zum Beispiel Kollisionen mit Prerelease-Wochenenden zu vermeiden. Leider werden diese seitens WotC nicht sehr lange im Voraus kommuniziert. Terminänderungen werden über den Mitglieder-Chat kommuniziert.
 - Es gibt zwei Streichresultate, das heisst, für die Gesamtwertung zählen die besten 6 Resultate.
-- Die Spieler-Kapazität der einzelnen Liga-Runden kann aufgrund Materialverfügbarkeit variieren. Spieler mit Abo haben einen Platz garantiert. Sobald das Draftset bekannt ist, wird auch die maximale Spieler-Kapazität kommuniziert.
+- Es hat genug Material für 16 Spieler. Spieler mit Abo haben ihren Platz jeweils garantiert.
 - Gespielt werden jeweils 4 Runden Swiss.
 - Der Gewinner jedes Drafts würfelt das Set für den nächsten Draft aus.
 - Tiebreaker bei Punktegleichstand:
