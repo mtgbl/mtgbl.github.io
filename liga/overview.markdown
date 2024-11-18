@@ -15,7 +15,7 @@ permalink: /liga/uebersicht
 - Bei Abwesenheit bitte vorzeitig abmelden, damit der Platz für andere offen stehen kann. Wer trotz Anmeldung nicht auftaucht, wird mit einem Punktabzug bestraft.
 - Die Termine können sich ändern. Wir versuchen zum Beispiel Kollisionen mit Prerelease-Wochenenden zu vermeiden. Leider werden diese seitens WotC nicht sehr lange im Voraus kommuniziert. Terminänderungen werden über den Mitglieder-Chat kommuniziert.
 - Es gibt zwei Streichresultate, das heisst, für die Gesamtwertung zählen die besten 6 Resultate.
-- Die Spieler-Kapazität der einzelnen Liga-Runden kann aufgrund Materialverfügbarkeit variieren. Spieler mit Abo haben einen Platz garantiert. Sobald das Draftset bekannt ist, wird auch die maximale Spieler-Kapazität kommuniziert.
+- Es hat genug Material für 16 Spieler. Spieler mit Abo haben ihren Platz jeweils garantiert.
 - Gespielt werden jeweils 4 Runden Swiss.
 - Der Gewinner jedes Drafts würfelt das Set für den nächsten Draft aus.
 - Tiebreaker bei Punktegleichstand:
@@ -63,27 +63,28 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 ## Sets
 Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgewählt:
 
-| #  | Set |
-|:--:|-----|
-| 1  |     |
-| 2  |     |
-| 3  |     |
-| 4  |     |
-| 5  |     |
-| 6  |     |
-| 7  |     |
-| 8  |     |
-| 9  |     |
-| 10 |     |
-| 11 |     |
-| 12 |     |
-| 13 |     |
-| 14 |     |
-| 15 |     |
-| 16 |     |
-| 17 |     |
-| 18 |     |
-| 19 |     |
-| 20 |     |
+| #  | Set                         | Release  |
+|:--:|-----------------------------|----------|
+| 1  | Battle for Zendikar         | 2015-10  |
+| 2  | Oath of the Gatewatch       | 2016-01  |
+| 3  | Shadows over Innistrad      | 2016-04  |
+| 4  | Eldritch Moon               | 2016-07  |
+| 5  | Hour of Devastation         | 2017-07  |
+| 6  | Ixalan                      | 2017-09  |
+| 7  | Core Set 2019               | 2018-07  |
+| 8  | Guilds of Ravnica           | 2018-10  |
+| 9  | Ravnica Allegiance          | 2019-01  |
+| 10 | War of the Spark            | 2019-05  |
+| 11 | Throne of Eldraine          | 2019-10  |
+| 12 | Theros Beyond Death         | 2020-01  |
+| 13 | Ikoria: Lair of Behemoths   | 2020-04  |
+| 14 | Zendikar Rising             | 2020-09  |
+| 15 | Kaldheim                    | 2021-02  |
+| 16 | Strixhaven: School of Mages | 2021-04  |
+| 17 | Streets of New Capenna      | 2022-05  |
+| 18 | Dominaria United            | 2022-09  |
+| 19 | Wilds of Eldraine           | 2023-09  |
+| 20 | Bloomburrow                 | 2024-08  |
+
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
