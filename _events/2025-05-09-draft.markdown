@@ -1,16 +1,16 @@
 ---
 type: draft
 date: 2025-05-09 19:00:00
-title: "Tarkir: Dragonstorm Draft / Commander"
+title: "Innistrad Remastered Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Tarkir: Dragonstorm Draft
+## Innistrad Remastered Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+Pro Spieler geht ein Standardset-Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
