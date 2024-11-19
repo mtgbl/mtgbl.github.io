@@ -22,9 +22,9 @@ Jeder Spieler baut ein 60-Karten-Deck aus folgenden Boostern:
 * 1x Avacyn Restored
 * 1x Shadows over Innistrad
 * 1x Eldritch Moon
-* 1x Innistrad Midnight Hunt
-* 1x Crimson Vow
-* 2x Innistrad Masters
+* 1x Innistrad: Midnight Hunt
+* 1x Innistrad: Crimson Vow
+* 2x Innistrad Remastered
 
 Gespielt werden 5 Runden.
 
