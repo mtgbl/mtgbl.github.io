@@ -8,7 +8,7 @@ players:
   commander: 0
 ---
 ## Mystery Booster 2 Draft
-Kosten: 30.- \
+Kosten: 35.- \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Maximal 16 Spieler. Bei zu vielen Anmeldungen werden Mitglieder bevorzugt behandelt. \
 Zum Schluss werden die Promos aus dem [Secret Lair Drop](https://secretlair.wizards.com/us/en/product/1016799/festival-in-a-box-las-vegas-2024) nach Rangliste verpickt.
