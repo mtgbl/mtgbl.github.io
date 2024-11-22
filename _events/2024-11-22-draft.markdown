@@ -3,9 +3,10 @@ type: draft
 date: 2024-11-22 19:00:00
 title: "Mystery Booster 2 Draft / Commander"
 location: Spielweltenfabrik
+winner: Georg
 players:
-  draft: 0
-  commander: 0
+  draft: 15
+  commander: 5
 ---
 ## Mystery Booster 2 Draft
 Kosten: 35.- \
