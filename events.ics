@@ -1,5 +1,6 @@
 ---
 layout: null
+sitemap: false
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
