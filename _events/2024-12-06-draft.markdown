@@ -3,8 +3,9 @@ type: draft
 date: 2024-12-06 19:00:00
 title: "Foundations Draft / Commander"
 location: Spielweltenfabrik
+winner: Thomas
 players:
-  draft: 0
+  draft: 11
   commander: 0
 ---
 ## Magic: The Gathering Foundations Draft
