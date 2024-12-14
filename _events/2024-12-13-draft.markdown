@@ -5,7 +5,7 @@ title: "Foundations Draft / Christmas-Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
-  commander: 0
+  commander: 12
 ---
 ## Christmas-Themed-Commander
 Am 13.12. wollen wir einen kleinen Weihnachts-Commander-Event organisieren.
