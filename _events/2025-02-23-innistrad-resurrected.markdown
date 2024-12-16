@@ -1,14 +1,14 @@
 ---
 type: sealed
 date: 2025-02-23 10:00:00
-title: "Innistrad Alive (24 Event)"
+title: "Innistrad Resureccted (24 Event)"
 location: tbd
 redirect_from:
     - /24
-    - /_events/2025-02-23-innistrad-alive
+    - /event/2025-02-23-innistrad-alive
 ---
 
-![Innistrad Resureccted](/assets/img/innistrad-alive-2025.webp)
+![Innistrad Resureccted](/assets/img/innistrad-resurrected-2025.jpg)
 
 Erlebe Jahrzehnte der Magic-Geschichte auf Innistrad!
 
