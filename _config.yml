@@ -63,6 +63,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-spaceship
   - jekyll-toc
+  - jekyll-redirect-from
 
 strict_front_matter: true
 liquid:
