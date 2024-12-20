@@ -41,4 +41,4 @@ vermutlich 120.- (90.- für Boosters, 30.- für Essen und Getränke)
 Liestal und Umgebung, wird noch genau bestimmt.
 
 ### Anmelden
-Anmeldung erfolgt über unsere [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw).
+Anmeldung erfolgt über unsere [WhatsApp-Gruppe](https://chat.whatsapp.com/BsAFGkmdedvIyrGv7ORXSg).
