@@ -3,9 +3,10 @@ type: draft
 date: 2024-12-20 19:00:00
 title: "Weihnachts-Chaosdraft / Commander"
 location: Spielweltenfabrik
+winner: David, Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 19
+  commander: 10
 ---
 ## Weihnachts-Chaosdraft
 Wühlkisten-Chaosdraft!
