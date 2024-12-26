@@ -21,7 +21,6 @@ social:
     - https://www.facebook.com/mtgbaselland/
     - https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw
     - https://github.com/mtgbl
-    - https://discord.gg/TBTFbkMWsy
 
 locale: de_CH
 
@@ -49,9 +48,6 @@ minima:
     - platform: facebook
       user_url: "https://www.facebook.com/mtgbaselland/"
       title: "Unsere Facebook-Gruppe"
-    - platform: discord
-      user_url: "https://discord.gg/TBTFbkMWsy"
-      title: "Unser Discord"
     - platform: calendar
       user_url: "/events.ics"
       title: "Event-Kalender"
