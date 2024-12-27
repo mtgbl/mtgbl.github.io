@@ -1,11 +1,8 @@
 ---
-type: draft
+type: cancelled
 date: 2024-12-27 20:00:00
-title: "Commander"
+title: "Ausfall"
 location: Spielweltenfabrik
-players:
-  draft: 0
-  commander: 0
 ---
 ## Commander
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
