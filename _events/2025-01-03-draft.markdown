@@ -1,11 +1,12 @@
 ---
 type: draft
 date: 2025-01-03 19:00:00
-title: "Foundations Draft / Commander"
+title: "Double Masters 2022 Draft / Commander"
 location: Spielweltenfabrik
+winner: Thomas
 players:
-  draft: 0
-  commander: 0
+  draft: 7
+  commander: 2
 ---
 ## Magic: The Gathering Foundations Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
