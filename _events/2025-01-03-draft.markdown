@@ -1,8 +1,9 @@
 ---
 type: draft
 date: 2025-01-03 19:00:00
-title: "Double Masters Draft / Commander"
+title: "Double Masters 2022 Draft / Commander"
 location: Spielweltenfabrik
+winner: Thomas
 players:
   draft: 7
   commander: 2
