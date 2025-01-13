@@ -37,7 +37,7 @@ permalink: /liga/uebersicht
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
 | Einzelner Draft      | 25.- Fr    | 30.- Fr         |
-| Abo (alle Drafts)    | ??.- Fr    | ??.- Fr         |
+| Abo (alle Drafts)    | 120.- Fr   | 150.- Fr        |
 
 Diese Preise sind noch nicht definitiv. Das Abo wird vor Ort beim ersten Event bezahlt.
 

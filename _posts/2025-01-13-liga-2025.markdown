@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "Bärenliga 2025"
-date:   2025-01-07 18:00:00
+date:   2025-01-13 12:00:00
 categories: liga
 ---
 
 ![Werebear; Carl Critchlowg; Wizards of the Coast](../assets/img/werebear.jpg)
 
-Auch dieses Jahr gibt es wieder eine Draft-Liga!
+Auch dieses Jahr gibt es wieder eine Draft-Liga! Am 31.1. geht es los. Wer schnappt sich den Titel?
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
 | Einzelner Draft      | 25.- Fr    | 30.- Fr         |
-| Abo (alle Drafts)    | ??.- Fr    | ??.- Fr         |
+| Abo (alle Drafts)    | 120.- Fr   | 150.- Fr        |
 
 Alle Details findest du [hier](/liga/uebersicht).
 
