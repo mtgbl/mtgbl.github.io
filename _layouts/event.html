@@ -13,8 +13,13 @@ layout: base
 {% assign location = site.locations | where: "name", page.location | first %}
 {% if location %}
     <p>
-    <h3><a href="{{ location.url }}" title="Mehr Details zum Standort">Standort:</a></h3>
+    <h2>Veranstaltungsort</h2>
     {% include location.html location = location %}
+    </p>
+{% else %}
+    <p>
+    <h2>Veranstaltungsort</h2>
+    Wird noch kommuniziert.
     </p>
 {% endif %}
 </article>
