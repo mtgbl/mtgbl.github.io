@@ -2,7 +2,7 @@
 type: draft
 date: 2025-01-24 19:00:00
 title: "Draft / Commander"
-location: Spielweltenfabrik
+location: unbekannt
 players:
   draft: 0
   commander: 0
