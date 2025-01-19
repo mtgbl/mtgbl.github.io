@@ -1,11 +1,12 @@
 ---
 type: draft
 date: 2025-01-17 19:00:00
-title: "Draft / Commander"
+title: "Foundations Draft / Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 7
+  commander: 6
 ---
 ## Draft
 Kosten: voraussichtlich 20.- (Mitglieder), 25.- (Nichtmitglieder) \
