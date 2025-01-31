@@ -31,7 +31,7 @@ _P = Punkte fürs Spielen_\
 _T = Tiebreaker (Matchwin-% / Gamewin-%)_\
 _~~durchgestrichen~~ = Streichresultat_
 
-Für das Total zählen nur die 5 besten Draft-Resultate.
+Für das Total zählen nur die 6 besten Draft-Resultate.
 
 | Zu vergebende Punkte       ||
 |----------------------------|----|
