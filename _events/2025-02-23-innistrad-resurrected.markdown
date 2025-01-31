@@ -2,7 +2,7 @@
 type: sealed
 date: 2025-02-23 10:00:00
 title: "Innistrad Resurrected (24 Event)"
-location: tbd
+location: "Paradies to go"
 redirect_from:
     - /24
     - /event/2025-02-23-innistrad-alive
@@ -18,8 +18,10 @@ Wer wird sich im Duell von Vampiren, Werwölfen, Zombies und Menschen durchsetze
 
 Wie bisher gibt es wieder unser beliebtes "All inclusive"-Paket (Getränke und Essen sind dabei).
 
+Türöffnung 09:45
+
 ### Format
-Jeder Spieler baut ein 60-Karten-Deck aus folgenden Boostern:
+Jeder Spieler baut ein 60-Karten-Deck aus folgenden 10 Boostern:
 * 1x Innistrad
 * 1x Dark Ascension
 * 1x Avacyn Restored
@@ -27,18 +29,17 @@ Jeder Spieler baut ein 60-Karten-Deck aus folgenden Boostern:
 * 1x Eldritch Moon
 * 1x Innistrad: Midnight Hunt
 * 1x Innistrad: Crimson Vow
+* 1x Innistrad: Double Feature
 * 2x Innistrad Remastered
 
 Gespielt werden 5 Runden.
 
 ### Preise
-Wird noch genau bestimmt.
+Hauptpreis ist der "24er Token" in Gold. Dieser kann als Startgeld für den nächsten Event eingelöst werden.
+Zusätzlich gibt es den "24er Token" in Silber (10 Franken Eventguthaben), sowie diverse Play- und Collector-Boostern, Commander-Sets und Sleeves.
 
 ### Kosten
-vermutlich 120.- (90.- für Boosters, 30.- für Essen und Getränke)
-
-### Location
-Liestal und Umgebung, wird noch genau bestimmt.
+120.- (inkl. Essen und Getränke)
 
 ### Anmelden
 Anmeldung erfolgt über unsere [WhatsApp-Gruppe](https://chat.whatsapp.com/BsAFGkmdedvIyrGv7ORXSg).
