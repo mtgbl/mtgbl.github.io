@@ -18,7 +18,8 @@ Wer wird sich im Duell von Vampiren, Werwölfen, Zombies und Menschen durchsetze
 
 Wie bisher gibt es wieder unser beliebtes "All inclusive"-Paket (Getränke und Essen sind dabei).
 
-Türöffnung 09:45
+Türöffnung 09:45 \
+Turnierbeginn 10:00
 
 ### Format
 Jeder Spieler baut ein 60-Karten-Deck aus folgenden 10 Boostern:
