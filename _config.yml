@@ -42,14 +42,14 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - platform: whatsapp
-      user_url: "https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw"
+    - icon: whatsapp
+      url: "https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw"
       title: "Unsere WhatsApp-Gruppe"
-    - platform: facebook
-      user_url: "https://www.facebook.com/mtgbaselland/"
+    - icon: facebook
+      url: "https://www.facebook.com/mtgbaselland/"
       title: "Unsere Facebook-Gruppe"
-    - platform: calendar
-      user_url: "/events.ics"
+    - icon: calendar
+      url: "/events.ics"
       title: "Event-Kalender"
 
 plugins:
