@@ -49,6 +49,7 @@ minima:
       url: "https://www.facebook.com/mtgbaselland/"
       title: "Unsere Facebook-Gruppe"
     - icon: calendar
+      fa_namespace: regular
       url: "/events.ics"
       title: "Event-Kalender"
 
