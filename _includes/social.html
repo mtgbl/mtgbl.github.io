@@ -1,0 +1,13 @@
+<ul class="social-media-list">
+    {%- for entry in site.minima.social_links -%}
+    {%- assign fa_namespace = entry.fa_namespace -%}
+    {%- unless entry.fa_namespace -%}
+    {%- assign fa_namespace = "brands" -%}
+    {%- endunless -%}
+    <li>
+        <a rel="me" href="{{ entry.url }}" target="_blank" title="{{ entry.title }}">
+            <span class="grey fa-{{ fa_namespace }} fa-{{ entry.icon }} fa-lg"></span>
+        </a>
+    </li>
+    {%- endfor -%}
+</ul>
