@@ -3,9 +3,10 @@ type: draft
 date: 2025-02-14 19:00:00
 title: "Aetherdrift Draft / Commander"
 location: Stadtmühle
+winner: Ginny
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 7
 ---
 ## Aetherdrift Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
