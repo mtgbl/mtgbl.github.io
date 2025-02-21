@@ -1,11 +1,11 @@
 ---
 type: draft
 date: 2025-02-21 19:00:00
-title: "Aetherdrift Draft / Commander"
+title: "Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
-  commander: 0
+  commander: 9
 ---
 ## Aetherdrift Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
