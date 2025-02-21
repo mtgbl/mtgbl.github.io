@@ -51,7 +51,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | # | Datum                                 | Set                       |
 |::|----------------------------------------|---------------------------|
 | 1 | [31.01.2025](/event/2025-01-31-liga)  | Ravnica Allegiance        |
-| 2 | [28.02.2025](/event/2025-02-28-liga)  |   |
+| 2 | [28.02.2025](/event/2025-02-28-liga)  | Streets of New Capenna    |
 | 3 | [21.03.2025](/event/2025-03-21-liga)  |   |
 | 4 | [25.04.2025](/event/2025-04-25-liga)  |   |
 | 5 | [23.05.2025](/event/2025-05-23-liga)  |   |
@@ -63,28 +63,28 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 ## Sets
 Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgewählt:
 
-|   #   | Set                         | Release  |
-|:-----:|-----------------------------|----------|
-|   1   | Battle for Zendikar         | 2015-10  |
-|   2   | Oath of the Gatewatch       | 2016-01  |
-|   3   | Shadows over Innistrad      | 2016-04  |
-|   4   | Eldritch Moon               | 2016-07  |
-|   5   | Hour of Devastation         | 2017-07  |
-|   6   | Ixalan                      | 2017-09  |
-|   7   | Core Set 2019               | 2018-07  |
-|   8   | Guilds of Ravnica           | 2018-10  |
-| ~~9~~ | ~~Ravnica Allegiance~~      | 2019-01  |
-|  10   | War of the Spark            | 2019-05  |
-|  11   | Throne of Eldraine          | 2019-10  |
-|  12   | Theros Beyond Death         | 2020-01  |
-|  13   | Ikoria: Lair of Behemoths   | 2020-04  |
-|  14   | Zendikar Rising             | 2020-09  |
-|  15   | Kaldheim                    | 2021-02  |
-|  16   | Strixhaven: School of Mages | 2021-04  |
-|  17   | Streets of New Capenna      | 2022-05  |
-|  18   | Dominaria United            | 2022-09  |
-|  19   | Wilds of Eldraine           | 2023-09  |
-|  20   | Bloomburrow                 | 2024-08  |
+|   #    | Set                         | Release  |
+|:------:|-----------------------------|----------|
+|   1    | Battle for Zendikar         | 2015-10  |
+|   2    | Oath of the Gatewatch       | 2016-01  |
+|   3    | Shadows over Innistrad      | 2016-04  |
+|   4    | Eldritch Moon               | 2016-07  |
+|   5    | Hour of Devastation         | 2017-07  |
+|   6    | Ixalan                      | 2017-09  |
+|   7    | Core Set 2019               | 2018-07  |
+|   8    | Guilds of Ravnica           | 2018-10  |
+| ~~9~~  | ~~Ravnica Allegiance~~      | 2019-01  |
+|   10   | War of the Spark            | 2019-05  |
+|   11   | Throne of Eldraine          | 2019-10  |
+|   12   | Theros Beyond Death         | 2020-01  |
+|   13   | Ikoria: Lair of Behemoths   | 2020-04  |
+|   14   | Zendikar Rising             | 2020-09  |
+|   15   | Kaldheim                    | 2021-02  |
+|   16   | Strixhaven: School of Mages | 2021-04  |
+| ~~17~~ | ~~Streets of New Capenna~~  | 2022-05  |
+|   18   | Dominaria United            | 2022-09  |
+|   19   | Wilds of Eldraine           | 2023-09  |
+|   20   | Bloomburrow                 | 2024-08  |
 
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_

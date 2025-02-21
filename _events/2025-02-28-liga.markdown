@@ -10,7 +10,7 @@ players:
 ## Bärenliga
 Runde 2 der [Bärenliga 2025](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Streets of New Capenna Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
