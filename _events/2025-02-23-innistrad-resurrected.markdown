@@ -3,6 +3,10 @@ type: sealed
 date: 2025-02-23 10:00:00
 title: "Innistrad Resurrected (24 Event)"
 location: "Paradies to go"
+winner: "Fabian S."
+players:
+  draft: 20
+  commander: 0
 redirect_from:
     - /24
     - /event/2025-02-23-innistrad-alive
