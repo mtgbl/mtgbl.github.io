@@ -3,9 +3,10 @@ type: draft
 date: 2025-02-28 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 15
+  commander: 3
 ---
 ## Bärenliga
 Runde 2 der [Bärenliga 2025](/liga/uebersicht).
