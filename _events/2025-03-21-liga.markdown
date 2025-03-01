@@ -10,7 +10,7 @@ players:
 ## Bärenliga
 Runde 3 der [Bärenliga 2025](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Throne of Eldraine Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
