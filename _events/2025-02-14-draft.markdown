@@ -9,7 +9,7 @@ players:
   commander: 7
 ---
 ## Aetherdrift Draft
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
