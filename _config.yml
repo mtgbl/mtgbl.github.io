@@ -38,7 +38,7 @@ collections:
     output: true
 
 #theme: minima
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@3d9e1acc19701aff5b5ce43f902d30e01879bf01"
 minima:
   skin: dark
   social_links:
