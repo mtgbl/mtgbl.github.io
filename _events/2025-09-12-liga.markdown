@@ -1,16 +1,22 @@
 ---
 type: draft
-date: 2025-03-28 19:00:00
-title: "Draft / Commander"
+date: 2025-09-12 19:00:00
+title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Draft
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
-Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+## Bärenliga
+Runde 8 der [Bärenliga 2025](/liga/uebersicht).
+
+Format: Draft, Set wird noch bestimmt
+
+| Kosten               | Mitglieder | Nichtmitglieder |
+|----------------------|------------|-----------------|
+| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
+| Abo (alle Drafts)    | 120.- Fr   | 150.- Fr        |
+
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander

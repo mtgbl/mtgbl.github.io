@@ -1,10 +1,10 @@
 ---
 type: sealed
-date: 2025-04-04 18:30:00
-title: "Tarkir: Dragonstorm Prerelease"
+date: 2025-09-19 18:30:00
+title: "Marvel's Spider-Man Prerelease"
 location: "MaRo Games"
 ---
-Das Prerelease zum neuen Set "Tarkir: Dragonstorm" steht an!
+Das Prerelease zum neuen Set "Marvel's Spider-Man" steht an!
 
 Wie immer bei Prerelease-Events findet in Liestal kein Event statt.
 Wir sind dafür bei MaRo Games in Birsfelden.
