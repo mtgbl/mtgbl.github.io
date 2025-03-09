@@ -57,7 +57,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 5 | [23.05.2025](/event/2025-05-23-liga)  |   |
 | 6 | [27.06.2025](/event/2025-06-27-liga)  |   |
 | 7 | [22.08.2025](/event/2025-08-22-liga)   |   |
-| 8 | Mitte/Ende September |   |
+| 8 | [12.09.2025](/event/2025-09-12-liga)  |   |
 
 
 ## Sets
