@@ -1,13 +1,13 @@
 ---
 type: draft
 date: 2025-04-04 19:00:00
-title: "Tarkir: Dragonstorm Draft / Commander"
+title: "Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Tarkir: Dragonstorm Draft
+## Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
