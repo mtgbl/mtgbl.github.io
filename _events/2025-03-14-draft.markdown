@@ -3,9 +3,10 @@ type: draft
 date: 2025-03-14 19:00:00
 title: "Aetherdrift Draft / Commander"
 location: Spielweltenfabrik
+winner: Nico
 players:
-  draft: 0
-  commander: 0
+  draft: 9
+  commander: 4
 ---
 ## Aetherdrift Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
