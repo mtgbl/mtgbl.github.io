@@ -53,7 +53,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 1 | [31.01.2025](/event/2025-01-31-liga)  | Ravnica Allegiance        |
 | 2 | [28.02.2025](/event/2025-02-28-liga)  | Streets of New Capenna    |
 | 3 | [21.03.2025](/event/2025-03-21-liga)  | Throne of Eldraine        |
-| 4 | [25.04.2025](/event/2025-04-25-liga)  |   |
+| 4 | [25.04.2025](/event/2025-04-25-liga)  | Oath of the Gatewatch     |
 | 5 | [23.05.2025](/event/2025-05-23-liga)  |   |
 | 6 | [27.06.2025](/event/2025-06-27-liga)  |   |
 | 7 | [22.08.2025](/event/2025-08-22-liga)   |   |
@@ -66,7 +66,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 |   #    | Set                         | Release  |
 |:------:|-----------------------------|----------|
 |   1    | Battle for Zendikar         | 2015-10  |
-|   2    | Oath of the Gatewatch       | 2016-01  |
+| ~~2~~  | ~~Oath of the Gatewatch~~   | 2016-01  |
 |   3    | Shadows over Innistrad      | 2016-04  |
 |   4    | Eldritch Moon               | 2016-07  |
 |   5    | Hour of Devastation         | 2017-07  |
