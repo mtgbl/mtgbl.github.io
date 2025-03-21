@@ -3,9 +3,10 @@ type: draft
 date: 2025-03-21 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 11
+  commander: 8
 ---
 ## Bärenliga
 Runde 3 der [Bärenliga 2025](/liga/uebersicht).
