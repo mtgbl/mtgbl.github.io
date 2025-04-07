@@ -54,13 +54,9 @@ Das trifft oft dann ein, wenn bei trotz mehr als 8 Spielern schon nach 3 Runden 
 ---
 
 ## Was hat es mit dem Companion-Code auf sich?
-Vor den meisten Events schreibt Marcel Scheibler einen Event-Code in den Chat, wie hier:
+Unsere Turniere sind offizielle Events und werden deshalb in der [Companion-App](https://magic.wizards.com/de/products/companion-app) erfasst.
+Wenn regelmässig viele Leute an unseren Turnieren teilnehmen, bekommt unser Verein mehr Unterstützung und kann Turniere wie Prereleases anbieten.
 
-![Eindrücke von der GV 2023](/assets/photos/companion-code.jpg)
+Um den Code einzugeben, öffne deine Companion-App und wähle "Spielen". Dort findest du die Option "Event-Code eingeben".
 
-Diesen Code kann man in der [offiziellen Companion-App](https://magic.wizards.com/de/products/companion-app) eintragen.
-Dies hilf in erster Linie unserem Partner-Shop, [Maro Games](https://maro-games.ch/).
-Ab und zu gibt es Promotionen, welche dem verlinken ["Magic Arena"](https://magic.wizards.com/de/mtgarena)-Account Vorteile bringen kann,
-wenn man über die Companion-App an vielen Turnieren teilnimmt.
-
-Wir verwenden jedoch nicht die Companion-App, um die Turnier-Resultate zu erfassen.
+Diese App verwendet denselben Account wie ["Magic Arena"](https://magic.wizards.com/de/mtgarena). Ab un zu gibt es Belohnungen in Arena, wenn man ich "echten" Turnieren teilnimmt.
