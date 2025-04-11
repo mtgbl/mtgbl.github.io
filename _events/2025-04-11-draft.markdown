@@ -3,9 +3,10 @@ type: draft
 date: 2025-04-11 19:00:00
 title: "Tarkir: Dragonstorm Draft / Commander"
 location: Spielweltenfabrik
+winner: Doménique, Remo
 players:
-  draft: 0
-  commander: 0
+  draft: 16
+  commander: 6
 ---
 ## Tarkir: Dragonstorm Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **566RZ2J** \
