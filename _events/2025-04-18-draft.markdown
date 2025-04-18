@@ -3,9 +3,10 @@ type: draft
 date: 2025-04-18 19:00:00
 title: "Tarkir: Dragonstorm Draft / Commander"
 location: Spielweltenfabrik
+winner: Thomas
 players:
-  draft: 0
-  commander: 0
+  draft: 12
+  commander: 4
 ---
 ## Tarkir: Dragonstorm Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **7GGRE27** \
