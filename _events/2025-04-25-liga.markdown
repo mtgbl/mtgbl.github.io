@@ -3,9 +3,10 @@ type: draft
 date: 2025-04-25 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: Arnaud
 players:
-  draft: 0
-  commander: 0
+  draft: 13
+  commander: 9
 ---
 ## Bärenliga
 Runde 4 der [Bärenliga 2025](/liga/uebersicht).
