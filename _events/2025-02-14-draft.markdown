@@ -3,7 +3,7 @@ type: draft
 date: 2025-02-14 19:00:00
 title: "Aetherdrift Draft / Commander"
 location: Stadtmühle
-winner: Ginny
+winner: Ginnie
 players:
   draft: 6
   commander: 7
