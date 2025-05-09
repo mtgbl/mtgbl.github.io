@@ -3,9 +3,10 @@ type: draft
 date: 2025-05-09 19:00:00
 title: "Innistrad Remastered Draft / Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 8
 ---
 ## Innistrad Remastered Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
