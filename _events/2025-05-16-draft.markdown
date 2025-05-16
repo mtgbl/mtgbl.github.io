@@ -1,11 +1,12 @@
 ---
 type: draft
 date: 2025-05-16 19:00:00
-title: "Tarkir: Dragonstorm Draft / Commander"
+title: "Chaos Sealed / Commander"
 location: Spielweltenfabrik
+winner: Michael
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 5
 ---
 ## Tarkir: Dragonstorm Draft
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
