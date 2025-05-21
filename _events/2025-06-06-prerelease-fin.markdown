@@ -3,12 +3,16 @@ type: sealed
 date: 2025-06-06 19:00:00
 title: "Final Fantasy Prerelease"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 ---
 ## Final Fantasy Prerelease (Sealed)
 Zum ersten Mal veranstalten wir unser eigenes Prerelease!
+
 Kosten: 45.- (Mitglieder), 50.- (Nichtmitglieder) \
 Maximal 15 Spieler \
-Gespielt werden 4 Runden.
+Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
