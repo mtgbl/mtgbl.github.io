@@ -1,14 +1,20 @@
 ---
 type: sealed
-date: 2025-06-06 18:30:00
+date: 2025-06-06 19:00:00
 title: "Final Fantasy Prerelease"
-location: "MaRo Games"
+location: Spielweltenfabrik
 ---
-Das Prerelease zum neuen "Universes Beyond"-Set "Final Fantasy" steht an!
+## Final Fantasy Prerelease (Sealed)
+Zum ersten Mal veranstalten wir unser eigenes Prerelease!
+Kosten: 45.- (Mitglieder), 50.- (Nichtmitglieder) \
+Maximal 15 Spieler \
+Gespielt werden 4 Runden.
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-Wie immer bei Prerelease-Events findet in Liestal kein Event statt.
-Wir sind dafür bei MaRo Games in Birsfelden.
+## Commander
+Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
+Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
-Bei Voranmeldung zahlt 5.- weniger für den Eintritt.
-
-Bitte [hier](https://maro-games.ch/events/) anmelden.
+## Allgemein
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Es können vor Ort Getränke gekauft werden.
