@@ -55,7 +55,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 3 | [21.03.2025](/event/2025-03-21-liga)  | Throne of Eldraine        |
 | 4 | [25.04.2025](/event/2025-04-25-liga)  | Oath of the Gatewatch     |
 | 5 | [23.05.2025](/event/2025-05-23-liga)  | War of the Spark          |
-| 6 | [27.06.2025](/event/2025-06-27-liga)  |   |
+| 6 | [27.06.2025](/event/2025-06-27-liga)  | Dominaria United          |
 | 7 | [22.08.2025](/event/2025-08-22-liga)   |   |
 | 8 | [12.09.2025](/event/2025-09-12-liga)  |   |
 
@@ -82,7 +82,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 |   15   | Kaldheim                    | 2021-02  |
 |   16   | Strixhaven: School of Mages | 2021-04  |
 | ~~17~~ | ~~Streets of New Capenna~~  | 2022-05  |
-|   18   | Dominaria United            | 2022-09  |
+| ~~18~~ | ~~Dominaria United~~        | 2022-09  |
 |   19   | Wilds of Eldraine           | 2023-09  |
 |   20   | Bloomburrow                 | 2024-08  |
 
