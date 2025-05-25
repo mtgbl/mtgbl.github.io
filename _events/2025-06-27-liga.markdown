@@ -10,7 +10,7 @@ players:
 ## Bärenliga
 Runde 6 der [Bärenliga 2025](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Dominaria United Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
