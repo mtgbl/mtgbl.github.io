@@ -8,7 +8,7 @@ players:
   commander: 0
 ---
 ## Modern Horizons 3 Draft
-Kosten: 30.- (Mitglieder), 3.- (Nichtmitglieder) \
+Kosten: 30.- (Mitglieder), 35.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
