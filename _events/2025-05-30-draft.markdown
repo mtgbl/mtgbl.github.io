@@ -1,14 +1,14 @@
 ---
 type: draft
 date: 2025-05-30 19:00:00
-title: "Tarkir: Dragonstorm Draft / Commander"
+title: "Modern Horizons 3 Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Tarkir: Dragonstorm Draft
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+## Modern Horizons 3 Draft
+Kosten: 30.- (Mitglieder), 3.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
