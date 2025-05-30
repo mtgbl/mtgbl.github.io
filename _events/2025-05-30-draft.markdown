@@ -3,9 +3,10 @@ type: draft
 date: 2025-05-30 19:00:00
 title: "Modern Horizons 3 Draft / Commander"
 location: Spielweltenfabrik
+winner: Michael
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 4
 ---
 ## Modern Horizons 3 Draft
 Kosten: 30.- (Mitglieder), 35.- (Nichtmitglieder) \
