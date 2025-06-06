@@ -3,8 +3,9 @@ type: sealed
 date: 2025-06-06 19:00:00
 title: "Final Fantasy Prerelease"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
+  draft: 12
   commander: 0
 ---
 ## Final Fantasy Prerelease (Sealed)
