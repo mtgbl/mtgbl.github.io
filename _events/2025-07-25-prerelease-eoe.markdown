@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Edge of Eternities Prerelease
 Genauere Infos folgen noch.
 
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Kosten: 30.- (Mitglieder), 35.- (Nichtmitglieder) \
 Maximal 15 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
