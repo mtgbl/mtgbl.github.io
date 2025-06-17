@@ -1,14 +1,21 @@
 ---
 type: sealed
-date: 2025-09-19 18:30:00
+date: 2025-09-19 19:00:00
 title: "Marvel's Spider-Man Prerelease"
-location: "MaRo Games"
+location: Spielweltenfabrik
 ---
-Das Prerelease zum neuen Set "Marvel's Spider-Man" steht an!
+## Marvel's Spider-Man Prerelease
+Genauere Infos folgen noch.
 
-Wie immer bei Prerelease-Events findet in Liestal kein Event statt.
-Wir sind dafür bei MaRo Games in Birsfelden.
+Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Maximal 15 Spieler \
+Gespielt werden 4 Runden. \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-Bei Voranmeldung zahlt 5.- weniger für den Eintritt.
+## Commander
+Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
+Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
-Bitte [hier](https://maro-games.ch/events/) anmelden.
+## Allgemein
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Es können vor Ort Getränke gekauft werden.

@@ -1,10 +1,10 @@
 ---
 type: sealed
-date: 2025-07-25 19:00:00
-title: "Edge of Eternities Prerelease"
+date: 2025-11-14 19:00:00
+title: "Avatar: The Last Airbender Prerelease"
 location: Spielweltenfabrik
 ---
-## Edge of Eternities Prerelease
+## Avatar: The Last Airbender Prerelease
 Genauere Infos folgen noch.
 
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
