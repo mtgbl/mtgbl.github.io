@@ -3,9 +3,10 @@ type: draft
 date: 2025-06-20 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
+winner: Arnaud
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 8
 ---
 ## Final Fantasy Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
