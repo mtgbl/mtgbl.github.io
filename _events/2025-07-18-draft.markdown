@@ -1,14 +1,15 @@
 ---
 type: draft
 date: 2025-07-18 19:00:00
-title: "Final Fantasy Draft / Commander"
+title: "Mystery Booster 2 Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Final Fantasy Draft
+## Mystery Booster 2 Draft
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Maximal 16 Spieler \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
