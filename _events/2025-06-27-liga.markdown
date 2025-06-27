@@ -3,9 +3,10 @@ type: draft
 date: 2025-06-27 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: Nico
 players:
-  draft: 0
-  commander: 0
+  draft: 10
+  commander: 9
 ---
 ## Bärenliga
 Runde 6 der [Bärenliga 2025](/liga/uebersicht).
