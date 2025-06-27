@@ -11,7 +11,7 @@ players:
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
 Maximal 16 Spieler \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+Preispool: ?? (vermutlich Secret Lair Karten) \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
