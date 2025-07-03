@@ -10,7 +10,7 @@ players:
 ## Bärenliga
 Runde 7 der [Bärenliga 2025](/liga/uebersicht).
 
-Format: Draft, Set wird noch bestimmt
+Format: Bloomburrow Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
