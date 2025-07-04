@@ -3,9 +3,10 @@ type: draft
 date: 2025-07-04 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
+winner: Urs
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 8
 ---
 ## Final Fantasy Draft
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
