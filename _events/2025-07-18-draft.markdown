@@ -8,6 +8,7 @@ players:
   commander: 0
 ---
 ## Mystery Booster 2 Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXVW55V** \
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
 Maximal 16 Spieler \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
@@ -15,6 +16,7 @@ Preispool: ?? (vermutlich Secret Lair Karten) \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **2P57ZX2** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
