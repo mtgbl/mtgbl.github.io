@@ -8,12 +8,14 @@ players:
   commander: 0
 ---
 ## Edge of Eternities Draft
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
-Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **7GZMRM6** \
+Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZ7NVRZ** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
