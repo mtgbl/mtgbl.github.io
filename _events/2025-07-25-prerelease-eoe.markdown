@@ -5,11 +5,11 @@ title: "Edge of Eternities Prerelease"
 location: Spielweltenfabrik
 ---
 ## Edge of Eternities Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXV5W28** \
-Genauere Infos folgen noch.
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich) Deutsch: **GXV5W28** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich) Englisch: **J2REQXZ** \
 
-Kosten: 30.- (Mitglieder), 35.- (Nichtmitglieder) \
-Maximal 15 Spieler \
+Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
+Deutsch: Maximal 15 Spieler, Englisch: mehr Spieler möglich \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
