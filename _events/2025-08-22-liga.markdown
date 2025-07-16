@@ -8,6 +8,7 @@ players:
   commander: 0
 ---
 ## Bärenliga
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NM76Z6D** \
 Runde 7 der [Bärenliga 2025](/liga/uebersicht).
 
 Format: Bloomburrow Draft
@@ -20,6 +21,7 @@ Format: Bloomburrow Draft
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **XQ3EMWG** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
