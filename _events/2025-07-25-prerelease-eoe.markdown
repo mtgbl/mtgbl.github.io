@@ -1,7 +1,7 @@
 ---
 type: sealed
 date: 2025-07-25 19:00:00
-title: "Edge of Eternities Prerelease"
+title: "Edge of Eternities Prerelease / Commander"
 location: Spielweltenfabrik
 ---
 ## Edge of Eternities Prerelease
