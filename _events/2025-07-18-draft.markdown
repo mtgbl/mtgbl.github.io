@@ -9,7 +9,7 @@ players:
 ---
 ## Mystery Booster 2 Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXVW55V** \
-Kosten: 30.- (Mitglieder), 35.- (Nichtmitglieder) \
+Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Maximal 16 Spieler \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Preispool: 1 Secret Lair Karte oder andere Promo pro Spieler \
