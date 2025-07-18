@@ -3,8 +3,9 @@ type: draft
 date: 2025-07-18 19:00:00
 title: "Mystery Booster 2 Draft / Commander"
 location: Spielweltenfabrik
+winner: Joāo
 players:
-  draft: 0
+  draft: 15
   commander: 0
 ---
 ## Mystery Booster 2 Draft
