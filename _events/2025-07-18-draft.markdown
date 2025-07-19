@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-07-18 19:00:00
-title: "Mystery Booster 2 Draft / Commander"
+title: "Mystery Booster 2 Draft"
 location: Spielweltenfabrik
 winner: Joāo
 players:
