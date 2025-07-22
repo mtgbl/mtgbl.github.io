@@ -14,7 +14,8 @@ sitemap: false
                         "players": {
                                 "draft": {{ event.players.draft }},
                                 "commander": {{ event.players.commander }}
-                        }
+                        },
+                        "winner": "{{ event.winner }}"
                 }{%- if forloop.last == false -%},{% endif %}
         {% endfor %}
         ]{%- if forloop.last == false -%},{% endif %}

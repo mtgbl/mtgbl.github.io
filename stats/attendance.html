@@ -1,0 +1,29 @@
+---
+layout: base
+title: Teilnehmer-Statistik
+permalink: /stats/teilnehmer/
+sitemap: false
+---
+<h2>Teilnehmer-Statistik</h2>
+
+<label for="year-select">Jahr auswählen:</label>
+<select name="years" id="year-select"></select>
+
+<p>
+    <canvas id="attendanceChart"></canvas>
+</p>
+
+<h3>Bären</h3>
+<table id="winnerTable">
+    <thead>
+    <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Anzahl Siege</th>
+    </tr>
+    </thead>
+    <tbody id="winnerTableBody">
+    </tbody>
+</table>
+
+<script src="/assets/js/chart.umd.min.js"></script>
+<script src="/assets/js/attendance-chart.js"></script>
