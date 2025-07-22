@@ -1,0 +1,90 @@
+---
+layout: base
+---
+{{ page.content | markdownify }}
+
+<label for="year-select">Jahr auswählen:</label>
+<select name="years" id="year-select"></select>
+
+<div>
+    <canvas id="attendanceChart"></canvas>
+</div>
+
+<script src="/assets/js/chart.umd.min.js"></script>
+
+<script>
+    async function getStats() {
+        const attendanceUrl = '/stats/attendance.json';
+        const response = await fetch(attendanceUrl);
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+        return await response.json();
+    }
+
+    function parseDate(textDate) {
+        return textDate.split('.').reverse().join('-')
+    }
+
+    function prepareData(data, year) {
+        if(!data.hasOwnProperty(year)) return null;
+        const yearData = [].concat(data[year]).reverse();
+        return {
+            labels: yearData.map(row => parseDate(row.date)),
+            datasets: [
+                {
+                    label: 'Draft',
+                    data: yearData.map(row => row.players.draft),
+                },
+                {
+                    label: 'Commander',
+                    data: yearData.map(row => row.players.commander),
+                },
+            ]
+        };
+    }
+
+    (async function() {
+        const stats = await getStats();
+
+        const yearSelect = document.getElementById('year-select');
+        const years = Object.keys(stats).sort().reverse();
+        years.forEach(key => {
+            let optionElement = document.createElement('option');
+            optionElement.value = key;
+            optionElement.innerHTML = key;
+            yearSelect.appendChild(optionElement);
+        });
+
+        const chart = new Chart(
+            document.getElementById('attendanceChart'),
+            {
+                type: 'bar',
+                data: prepareData(stats, years[0]),
+                options: {
+                    x: {
+                        stacked: true
+                    },
+                    y: {
+                        stacked: true
+                    }
+                }
+            }
+        );
+
+        yearSelect.onchange = function(evt) {
+            const newData = prepareData(stats, evt.target.value);
+            if (newData == null) throw new Error('No data');
+            // delete old data
+            chart.data.labels.pop();
+            chart.data.datasets.forEach((dataset) => {
+                dataset.data.pop();
+            });
+
+            // set new data
+            chart.data.labels = newData.labels;
+            chart.data.datasets = newData.datasets;
+            chart.update();
+        }
+    })();
+</script>
