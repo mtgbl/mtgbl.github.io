@@ -17,6 +17,6 @@ sitemap: false
                         }
                 }{%- if forloop.last == false -%},{% endif %}
         {% endfor %}
-        ]
+        ]{%- if forloop.last == false -%},{% endif %}
 {% endfor %}
 }
