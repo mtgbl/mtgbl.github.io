@@ -61,6 +61,9 @@ function updateWinnerTable(data, year) {
         return acc;
     }, {});
 
+    const spanYear = document.getElementById('spanYear');
+    spanYear.innerHTML  = year;
+
     const winnerTableBody = document.getElementById('winnerTableBody');
     winnerTableBody.innerHTML = '';
     const arrWinners = Object.entries(winners)
