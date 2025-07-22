@@ -1,0 +1,60 @@
+---
+layout: base
+---
+{{ page.content | markdownify }}
+
+<div>
+    <canvas id="attendanceChart"></canvas>
+</div>
+
+<script src="/assets/js/chart.umd.min.js"></script>
+
+<script>
+    async function getStats() {
+        const attendanceUrl = '/stats/attendance.json';
+        const response = await fetch(attendanceUrl);
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+        return await response.json();
+    }
+
+    function parseDate(textDate) {
+        // return Date.parse(textDate.split('.').reverse().join('-')).toString()
+        return textDate.split('.').reverse().join('-')
+    }
+
+    (async function() {
+        const stats = await getStats();
+        // console.log(stats);
+        const data = stats[2025].reverse();
+
+        const chart = new Chart(
+            document.getElementById('attendanceChart'),
+            {
+                type: 'bar',
+                data: {
+                    labels: data.map(row => parseDate(row.date)),
+                    datasets: [
+                        {
+                            label: 'Draft',
+                            data: data.map(row => row.players.draft),
+                        },
+                        {
+                            label: 'Commander',
+                            data: data.map(row => row.players.commander),
+                        },
+                    ]
+                },
+                options: {
+                    x: {
+                        stacked: true
+                    },
+                    y: {
+                        stacked: true
+                    }
+                }
+            }
+        );
+    })();
+</script>
