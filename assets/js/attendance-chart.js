@@ -61,9 +61,11 @@ function updateWinnerTable(data, year) {
         return acc;
     }, {});
 
+    // update title
     const spanYear = document.getElementById('spanYear');
     spanYear.innerHTML  = year;
 
+    // update table body
     const winnerTableBody = document.getElementById('winnerTableBody');
     winnerTableBody.innerHTML = '';
     const arrWinners = Object.entries(winners)
@@ -75,8 +77,10 @@ function updateWinnerTable(data, year) {
 (async function() {
     const stats = await getStats();
 
-    const yearSelect = document.getElementById('year-select');
     const years = Object.keys(stats).sort().reverse();
+    const initialYear = years[0];
+    // populate select input
+    const yearSelect = document.getElementById('year-select');
     years.forEach(key => {
         let optionElement = document.createElement('option');
         optionElement.value = key;
@@ -88,7 +92,7 @@ function updateWinnerTable(data, year) {
         document.getElementById('attendanceChart'),
         {
             type: 'bar',
-            data: prepareData(stats, years[0]),
+            data: prepareData(stats, initialYear),
             options: {
                 x: {
                     stacked: true
@@ -99,7 +103,7 @@ function updateWinnerTable(data, year) {
             }
         }
     );
-    updateWinnerTable(stats, years[0]);
+    updateWinnerTable(stats, initialYear);
 
     yearSelect.onchange = function(evt) {
         const year = evt.target.value;
