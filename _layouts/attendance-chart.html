@@ -3,6 +3,9 @@ layout: base
 ---
 {{ page.content | markdownify }}
 
+<label for="year-select">Jahr auswählen:</label>
+<select name="years" id="year-select"></select>
+
 <div>
     <canvas id="attendanceChart"></canvas>
 </div>
@@ -20,32 +23,44 @@ layout: base
     }
 
     function parseDate(textDate) {
-        // return Date.parse(textDate.split('.').reverse().join('-')).toString()
         return textDate.split('.').reverse().join('-')
+    }
+
+    function prepareData(data, year) {
+        if(!data.hasOwnProperty(year)) return null;
+        const yearData = [].concat(data[year]).reverse();
+        return {
+            labels: yearData.map(row => parseDate(row.date)),
+            datasets: [
+                {
+                    label: 'Draft',
+                    data: yearData.map(row => row.players.draft),
+                },
+                {
+                    label: 'Commander',
+                    data: yearData.map(row => row.players.commander),
+                },
+            ]
+        };
     }
 
     (async function() {
         const stats = await getStats();
-        // console.log(stats);
-        const data = stats[2025].reverse();
+
+        const yearSelect = document.getElementById('year-select');
+        const years = Object.keys(stats).sort().reverse();
+        years.forEach(key => {
+            let optionElement = document.createElement('option');
+            optionElement.value = key;
+            optionElement.innerHTML = key;
+            yearSelect.appendChild(optionElement);
+        });
 
         const chart = new Chart(
             document.getElementById('attendanceChart'),
             {
                 type: 'bar',
-                data: {
-                    labels: data.map(row => parseDate(row.date)),
-                    datasets: [
-                        {
-                            label: 'Draft',
-                            data: data.map(row => row.players.draft),
-                        },
-                        {
-                            label: 'Commander',
-                            data: data.map(row => row.players.commander),
-                        },
-                    ]
-                },
+                data: prepareData(stats, years[0]),
                 options: {
                     x: {
                         stacked: true
@@ -56,5 +71,20 @@ layout: base
                 }
             }
         );
+
+        yearSelect.onchange = function(evt) {
+            const newData = prepareData(stats, evt.target.value);
+            if (newData == null) throw new Error('No data');
+            // delete old data
+            chart.data.labels.pop();
+            chart.data.datasets.forEach((dataset) => {
+                dataset.data.pop();
+            });
+
+            // set new data
+            chart.data.labels = newData.labels;
+            chart.data.datasets = newData.datasets;
+            chart.update();
+        }
     })();
 </script>
