@@ -9,9 +9,23 @@ sitemap: false
 <label for="year-select">Jahr auswählen:</label>
 <select name="years" id="year-select"></select>
 
-<div>
+<p>
     <canvas id="attendanceChart"></canvas>
-</div>
+</p>
+
+<h3>Bären</h3>
+<p>
+    <table id="winnerTable">
+        <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Anzahl Siege</th>
+        </tr>
+        </thead>
+        <tbody id="winnerTableBody">
+        </tbody>
+    </table>
+</p>
 
 <script src="/assets/js/chart.umd.min.js"></script>
 <script src="/assets/js/attendance-chart.js"></script>
