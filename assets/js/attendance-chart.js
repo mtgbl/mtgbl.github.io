@@ -106,13 +106,6 @@ function updateWinnerTable(data, year) {
         const newData = prepareData(stats, year);
         if (newData == null) throw new Error('No data');
         updateWinnerTable(stats, year);
-        // delete old data
-        chart.data.labels.pop();
-        chart.data.datasets.forEach((dataset) => {
-            dataset.data.pop();
-        });
-
-        // set new data
         chart.data.labels = newData.labels;
         chart.data.datasets = newData.datasets;
         chart.update();
