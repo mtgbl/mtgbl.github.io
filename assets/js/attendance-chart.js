@@ -7,6 +7,15 @@ async function getStats() {
     return await response.json();
 }
 
+async function getWinnerStats() {
+    const winnersUrl = '/stats/winners.json';
+    const response = await fetch(winnersUrl);
+    if (!response.ok) {
+        throw new Error(`Response status: ${response.status}`);
+    }
+    return await response.json();
+}
+
 function parseDate(textDate) {
     return textDate.split('.').reverse().join('-')
 }
@@ -47,19 +56,28 @@ function addRow(tableBody, winner) {
 }
 
 function updateWinnerTable(data, year) {
-    if(!data.hasOwnProperty(year)) return null;
+    // TODO move to separate page?
+    if(!data.hasOwnProperty(year)) {
+        console.log(`No data: ${year}`)
+        return;
+    }
     const yearData = [].concat(data[year]);
+    console.log(yearData);
+    const regex = /([^:]+ : )?(?<name>.*)/;
     const winners = yearData.reduce((acc, event) => {
         if(event.winner === '') return acc;
         for(let winner of event.winner.split(', ')){
-            if (acc.hasOwnProperty(winner)) {
-                acc[winner]++;
+            let { name } = regex.exec(winner).groups;
+            // console.log(name);
+            if (acc.hasOwnProperty(name)) {
+                acc[name]++;
             } else {
-                acc[winner] = 1;
+                acc[name] = 1;
             }
         }
         return acc;
     }, {});
+    console.log(winners);
 
     // update title
     const spanYear = document.getElementById('spanYear');
@@ -76,6 +94,8 @@ function updateWinnerTable(data, year) {
 
 (async function() {
     const stats = await getStats();
+    const winnersStats = await getWinnerStats();
+    console.log(winnersStats);
 
     const years = Object.keys(stats).sort().reverse();
     const initialYear = years[0];
@@ -103,13 +123,13 @@ function updateWinnerTable(data, year) {
             }
         }
     );
-    updateWinnerTable(stats, initialYear);
+    updateWinnerTable(winnersStats, initialYear);
 
     yearSelect.onchange = function(evt) {
         const year = evt.target.value;
         const newData = prepareData(stats, year);
         if (newData == null) throw new Error('No data');
-        updateWinnerTable(stats, year);
+        updateWinnerTable(winnersStats, year);
         chart.data.labels = newData.labels;
         chart.data.datasets = newData.datasets;
         chart.update();

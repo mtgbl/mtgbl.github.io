@@ -1,0 +1,18 @@
+---
+layout: null
+sitemap: false
+---
+{
+{% assign past_events = site.events | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.type != 'cancelled'" | where_exp: "item", "item.winner != nil" | group_by_exp: "item", "item.date | truncate: 4, ''"  | reverse %}
+{%- for year in past_events -%}
+        "{{ year.name }}": [
+        {%- assign year_events = year.items | reverse -%}
+        {% for event in year_events %}
+                {
+                        "date": "{{ event.date | date: "%d.%m.%Y" }}",
+                        "winner": "{{ event.winner }}"
+                }{%- if forloop.last == false -%},{% endif %}
+        {% endfor %}
+        ]{%- if forloop.last == false -%},{% endif %}
+{% endfor %}
+}
