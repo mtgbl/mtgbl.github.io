@@ -25,11 +25,16 @@ function addRow(tableBody, winner) {
 }
 
 function updateWinnerTable(data, year) {
-    if(!data.hasOwnProperty(year)) {
+    if(year !== '' && !data.hasOwnProperty(year)) {
         console.log(`No data: ${year}`)
         return;
     }
-    const yearData = [].concat(data[year]);
+    let yearData = [];
+    if (year === '') {
+        yearData = Object.values(data).reduce((acc, val) => { return acc.concat(val) }, []);
+    } else {
+        yearData = yearData.concat(data[year]);
+    }
     const regex = /([^:]+: )?(?<name>.*)/;
     const winners = yearData.reduce((acc, event) => {
         if(event.winner === '') return acc;
@@ -60,7 +65,7 @@ function updateWinnerTable(data, year) {
 (async function() {
     const winnersStats = await getWinnerStats();
 
-    const years = Object.keys(winnersStats).sort().reverse();
+    const years = [''].concat(Object.keys(winnersStats).sort().reverse());
     const initialYear = years[0];
     // populate select input
     const yearSelect = document.getElementById('year-select');
