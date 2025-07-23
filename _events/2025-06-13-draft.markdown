@@ -4,6 +4,7 @@ date: 2025-06-13 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
 winner: Michael
+deck: https://moxfield.com/decks/WYloVgy9BEqv3k3qTNqk5Q
 players:
   draft: 9
   commander: 5
