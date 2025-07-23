@@ -3,6 +3,9 @@ layout: page
 title: Vergangene Events
 permalink: /vergangene-events/
 ---
+*Siehe auch: [Teilnehmer-Statistik](/stats/teilnehmer/)*
+
+&nbsp;
 
 {% assign past_events = site.events | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.type != 'cancelled'" | reverse %}
 {% for event in past_events %}

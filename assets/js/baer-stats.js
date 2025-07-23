@@ -25,19 +25,16 @@ function addRow(tableBody, winner) {
 }
 
 function updateWinnerTable(data, year) {
-    // TODO move to separate page?
     if(!data.hasOwnProperty(year)) {
         console.log(`No data: ${year}`)
         return;
     }
     const yearData = [].concat(data[year]);
-    console.log(yearData);
     const regex = /([^:]+: )?(?<name>.*)/;
     const winners = yearData.reduce((acc, event) => {
         if(event.winner === '') return acc;
         for(let winner of event.winner.split(', ')){
             let { name } = regex.exec(winner).groups;
-            // console.log(name);
             if (acc.hasOwnProperty(name)) {
                 acc[name]++;
             } else {
@@ -46,7 +43,6 @@ function updateWinnerTable(data, year) {
         }
         return acc;
     }, {});
-    console.log(winners);
 
     // update title
     const spanYear = document.getElementById('spanYear');
