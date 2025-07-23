@@ -7,15 +7,6 @@ async function getStats() {
     return await response.json();
 }
 
-async function getWinnerStats() {
-    const winnersUrl = '/stats/winners.json';
-    const response = await fetch(winnersUrl);
-    if (!response.ok) {
-        throw new Error(`Response status: ${response.status}`);
-    }
-    return await response.json();
-}
-
 function parseDate(textDate) {
     return textDate.split('.').reverse().join('-')
 }
@@ -38,64 +29,8 @@ function prepareData(data, year) {
     };
 }
 
-function sortWinners(a, b) {
-    if(a.wins !== b.wins)
-        return b.wins - a.wins;
-    return a.name.localeCompare(b.name);
-}
-
-function addRow(tableBody, winner) {
-    const row = document.createElement('tr');
-    const nameCol = document.createElement('td');
-    nameCol.innerText = winner.name;
-    row.appendChild(nameCol);
-    const winCol = document.createElement('td');
-    winCol.innerText = winner.wins;
-    row.appendChild(winCol);
-    tableBody.appendChild(row);
-}
-
-function updateWinnerTable(data, year) {
-    // TODO move to separate page?
-    if(!data.hasOwnProperty(year)) {
-        console.log(`No data: ${year}`)
-        return;
-    }
-    const yearData = [].concat(data[year]);
-    console.log(yearData);
-    const regex = /([^:]+ : )?(?<name>.*)/;
-    const winners = yearData.reduce((acc, event) => {
-        if(event.winner === '') return acc;
-        for(let winner of event.winner.split(', ')){
-            let { name } = regex.exec(winner).groups;
-            // console.log(name);
-            if (acc.hasOwnProperty(name)) {
-                acc[name]++;
-            } else {
-                acc[name] = 1;
-            }
-        }
-        return acc;
-    }, {});
-    console.log(winners);
-
-    // update title
-    const spanYear = document.getElementById('spanYear');
-    spanYear.innerHTML  = year;
-
-    // update table body
-    const winnerTableBody = document.getElementById('winnerTableBody');
-    winnerTableBody.innerHTML = '';
-    const arrWinners = Object.entries(winners)
-        .map(([name, wins], index) => { return { name, wins } })
-        .sort(sortWinners);
-    arrWinners.forEach((winner) => { addRow(winnerTableBody, winner); });
-}
-
 (async function() {
     const stats = await getStats();
-    const winnersStats = await getWinnerStats();
-    console.log(winnersStats);
 
     const years = Object.keys(stats).sort().reverse();
     const initialYear = years[0];
@@ -123,13 +58,11 @@ function updateWinnerTable(data, year) {
             }
         }
     );
-    updateWinnerTable(winnersStats, initialYear);
 
     yearSelect.onchange = function(evt) {
         const year = evt.target.value;
         const newData = prepareData(stats, year);
         if (newData == null) throw new Error('No data');
-        updateWinnerTable(winnersStats, year);
         chart.data.labels = newData.labels;
         chart.data.datasets = newData.datasets;
         chart.update();

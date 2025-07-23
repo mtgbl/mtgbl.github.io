@@ -7,6 +7,7 @@ permalink: /baeren/
 Wer einen Event gewinnt, wird zum Bären gekürt. Wer den amtierenden Bären im direkten Duell schlägt, erhält einen Extrapreis!
 
 ## Letzte Bären
+Siehe auch: [Bären-Statistik nach Jahr](/stats/baer/)
 
 {% assign past_events = site.events | where_exp: "item", "item.date < site.time"| where_exp: "item", "item.winner != nil" | group_by_exp: "item", "item.date | truncate: 4, ''"  | reverse %}
 {% for year in past_events %}
@@ -22,3 +23,7 @@ Wer einen Event gewinnt, wird zum Bären gekürt. Wer den amtierenden Bären im 
 {% endfor %}
 
 {% endfor %}
+
+&nbsp;
+
+*Anmerkung: Unsere Gewinner werden erst seit Ende November 2023 sauber erfasst. Somit fehlen 8 Jahre Bären-Geschichte.*
