@@ -4,6 +4,7 @@ date: 2025-03-21 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/c1GEFlJkMUKCMgqyklAIuw
 players:
   draft: 11
   commander: 8
