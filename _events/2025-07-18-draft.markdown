@@ -4,6 +4,7 @@ date: 2025-07-18 19:00:00
 title: "Mystery Booster 2 Draft"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/ioPDu5Y_QkivQzSCLoTVKg
 players:
   draft: 15
   commander: 0

@@ -4,6 +4,7 @@ date: 2025-05-09 19:00:00
 title: "Innistrad Remastered Draft / Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/lnnFgIyyX0etKjZzGLTGjQ
 players:
   draft: 8
   commander: 8

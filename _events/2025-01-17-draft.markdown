@@ -4,6 +4,7 @@ date: 2025-01-17 19:00:00
 title: "Foundations Draft / Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/KfEAMBifOUmjYgoFGwGsxg
 players:
   draft: 7
   commander: 6
