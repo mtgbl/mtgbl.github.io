@@ -1,0 +1,28 @@
+---
+layout: base
+title: Bären-Statistik
+permalink: /stats/baer/
+---
+<h2>Bären-Statistik <span id="spanYear"></span></h2>
+
+<p>
+    <label for="year-select">Jahr auswählen:</label>
+    <select name="years" id="year-select"></select>
+</p>
+
+<table id="winnerTable">
+    <thead>
+    <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Anzahl Siege</th>
+    </tr>
+    </thead>
+    <tbody id="winnerTableBody">
+    </tbody>
+</table>
+
+<p style="font-style: italic;">
+    Anmerkung: Unsere Gewinner werden erst seit Ende November 2023 sauber erfasst. Somit fehlen 8 Jahre Bären-Geschichte.
+</p>
+
+<script src="/assets/js/baer-stats.js"></script>

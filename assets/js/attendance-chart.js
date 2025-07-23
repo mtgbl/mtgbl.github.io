@@ -29,51 +29,6 @@ function prepareData(data, year) {
     };
 }
 
-function sortWinners(a, b) {
-    if(a.wins !== b.wins)
-        return b.wins - a.wins;
-    return a.name.localeCompare(b.name);
-}
-
-function addRow(tableBody, winner) {
-    const row = document.createElement('tr');
-    const nameCol = document.createElement('td');
-    nameCol.innerText = winner.name;
-    row.appendChild(nameCol);
-    const winCol = document.createElement('td');
-    winCol.innerText = winner.wins;
-    row.appendChild(winCol);
-    tableBody.appendChild(row);
-}
-
-function updateWinnerTable(data, year) {
-    if(!data.hasOwnProperty(year)) return null;
-    const yearData = [].concat(data[year]);
-    const winners = yearData.reduce((acc, event) => {
-        if(event.winner === '') return acc;
-        for(let winner of event.winner.split(', ')){
-            if (acc.hasOwnProperty(winner)) {
-                acc[winner]++;
-            } else {
-                acc[winner] = 1;
-            }
-        }
-        return acc;
-    }, {});
-
-    // update title
-    const spanYear = document.getElementById('spanYear');
-    spanYear.innerHTML  = year;
-
-    // update table body
-    const winnerTableBody = document.getElementById('winnerTableBody');
-    winnerTableBody.innerHTML = '';
-    const arrWinners = Object.entries(winners)
-        .map(([name, wins], index) => { return { name, wins } })
-        .sort(sortWinners);
-    arrWinners.forEach((winner) => { addRow(winnerTableBody, winner); });
-}
-
 (async function() {
     const stats = await getStats();
 
@@ -103,13 +58,11 @@ function updateWinnerTable(data, year) {
             }
         }
     );
-    updateWinnerTable(stats, initialYear);
 
     yearSelect.onchange = function(evt) {
         const year = evt.target.value;
         const newData = prepareData(stats, year);
         if (newData == null) throw new Error('No data');
-        updateWinnerTable(stats, year);
         chart.data.labels = newData.labels;
         chart.data.datasets = newData.datasets;
         chart.update();
