@@ -19,8 +19,6 @@ permalink: /events/
 [Vergangene Events](/vergangene-events)
 
   <a href="/events.ics" target="_blank" title="Event-Kalender">
-    <svg class="svg-icon grey">
-      <use xlink:href="/assets/minima-social-icons.svg#calendar"></use>
-    </svg>
+    <span class="grey fa-regular fa-calendar fa-lg"></span>
 zukünftige Events im abonnierbaren iCalendar-Format
   </a>
