@@ -1,7 +1,11 @@
 ---
 type: sealed
 date: 2025-07-25 19:00:00
-title: "Edge of Eternities Prerelease / Commander"
+title: "Edge of Eternities Prerelease"
+winner: Arnaud
+players:
+  draft: 25
+  commander: 0
 location: Spielweltenfabrik
 ---
 ## Edge of Eternities Prerelease
