@@ -3,6 +3,7 @@ type: sealed
 date: 2025-07-25 19:00:00
 title: "Edge of Eternities Prerelease"
 winner: Arnaud
+deck: https://moxfield.com/decks/5_jOioMDQUqsQb-bVukTTA
 players:
   draft: 25
   commander: 0
