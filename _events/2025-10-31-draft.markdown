@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-10-31 19:00:00
-title: "Marvel's Spider-Man Draft / Commander"
+title: "Marvel's Spider-Man Draft / Halloween Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -14,9 +14,14 @@ Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **?????** \
-Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
+## Halloween Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXYG5X6** \
+Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder
+
+Die Spieler bringen ihre eigenen Commander-Decks mit und wählen zu Beginn des Spiels heimlich eine Schurkenkarte aus, die jeweils einen klassischen Schurken aus der Geschichte von Magic mit einer eigenen alternativen Siegbedingung darstellt.
+
+Im Laufe des Spiels können die Spieler auf ihr geheimes Ziel hinarbeiten. Sobald ein Spieler die Bedingung auf seiner ausgewählten Schurkenkarte erfüllt hat, deckt er sie auf – und von diesem Zeitpunkt an verliert jeder Gegner das Spiel am Ende seines eigenen Zuges, es sei denn, er kann den Schurken rechtzeitig aufhalten.
+
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
 ## Allgemein

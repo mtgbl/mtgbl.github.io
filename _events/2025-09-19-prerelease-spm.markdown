@@ -5,11 +5,11 @@ title: "Marvel's Spider-Man Prerelease / Commander"
 location: Spielweltenfabrik
 ---
 ## Marvel's Spider-Man Prerelease
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZ8NV32** \
 Genauere Infos folgen noch.
 
 Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
 Maximal 15 Spieler \
-Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
