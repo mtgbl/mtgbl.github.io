@@ -4,6 +4,7 @@ date: 2025-08-01 19:00:00
 title: "Edge of Eternities Draft"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/YtKjLcCSMkCXv-Pt_ZmZsw
 players:
   draft: 8
   commander: 0
