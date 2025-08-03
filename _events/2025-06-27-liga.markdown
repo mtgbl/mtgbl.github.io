@@ -4,6 +4,7 @@ date: 2025-06-27 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 winner: Nico
+deck: https://moxfield.com/decks/TIaRzjGZ8ESKjOEpVTFVxw
 players:
   draft: 10
   commander: 9

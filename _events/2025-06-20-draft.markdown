@@ -4,6 +4,7 @@ date: 2025-06-20 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
 winner: Arnaud
+deck: https://moxfield.com/decks/x0weJSpPpkGDcLNHrI6j4A
 players:
   draft: 8
   commander: 8

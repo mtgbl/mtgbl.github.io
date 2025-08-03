@@ -4,6 +4,7 @@ date: 2025-06-06 19:00:00
 title: "Final Fantasy Prerelease"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/W8FAodWeFE2T9Kd5e_bJsw
 players:
   draft: 12
   commander: 0

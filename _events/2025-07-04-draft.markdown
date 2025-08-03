@@ -4,6 +4,7 @@ date: 2025-07-04 19:00:00
 title: "Final Fantasy Draft / Commander"
 location: Spielweltenfabrik
 winner: Urs
+deck: https://moxfield.com/decks/0yeCm9c4M062nmYj-ccI6A
 players:
   draft: 6
   commander: 8
