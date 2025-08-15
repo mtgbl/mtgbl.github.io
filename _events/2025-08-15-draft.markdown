@@ -3,9 +3,10 @@ type: draft
 date: 2025-08-15 19:00:00
 title: "Edge of Eternities Draft / Commander Party: Edge of Eternities"
 location: Spielweltenfabrik
+winner: Arnaud
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 14
 ---
 ## Edge of Eternities Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZ8PQ8Q** \
