@@ -4,6 +4,7 @@ date: 2025-08-15 19:00:00
 title: "Edge of Eternities Draft / Commander Party: Edge of Eternities"
 location: Spielweltenfabrik
 winner: Arnaud
+deck: https://moxfield.com/decks/oZRbX3YeGkmxOLHI2lZhKA
 players:
   draft: 8
   commander: 14
