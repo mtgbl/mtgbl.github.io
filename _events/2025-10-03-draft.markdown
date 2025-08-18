@@ -1,21 +1,21 @@
 ---
 type: draft
 date: 2025-10-03 19:00:00
-title: "Marvel's Spider-Man Draft / Commander"
+title: "Marvel's Spider-Man Draft / Commander Party"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
 ## Marvel's Spider-Man Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **?????** \
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **XQW4YZ2** \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **?????** \
+## Commander Party
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **86Z8J3V** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
