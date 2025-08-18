@@ -1,15 +1,15 @@
 ---
 type: draft
 date: 2025-09-05 19:00:00
-title: "Edge of Eternities Draft / Commander Party: Edge of Eternities"
+title: "Final Fantasy Draft / Commander Party: Edge of Eternities"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Edge of Eternities Draft
+## Final Fantasy Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **M7E685M** \
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
