@@ -3,9 +3,10 @@ type: draft
 date: 2025-08-22 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 16
+  commander: 3
 ---
 ## Bärenliga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NM76Z6D** \
