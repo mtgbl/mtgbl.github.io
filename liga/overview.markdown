@@ -57,7 +57,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 | 5 | [23.05.2025](/event/2025-05-23-liga)  | War of the Spark          |
 | 6 | [27.06.2025](/event/2025-06-27-liga)  | Dominaria United          |
 | 7 | [22.08.2025](/event/2025-08-22-liga)  | Bloomburrow               |
-| 8 | [12.09.2025](/event/2025-09-12-liga)  |   |
+| 8 | [12.09.2025](/event/2025-09-12-liga)  | Battle for Zendikar       |
 
 
 ## Sets
@@ -65,7 +65,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event per Würfelwurf ausgew�
 
 |   #    | Set                         | Release  |
 |:------:|-----------------------------|----------|
-|   1    | Battle for Zendikar         | 2015-10  |
+| ~~1~~  | ~~Battle for Zendikar~~     | 2015-10  |
 | ~~2~~  | ~~Oath of the Gatewatch~~   | 2016-01  |
 |   3    | Shadows over Innistrad      | 2016-04  |
 |   4    | Eldritch Moon               | 2016-07  |

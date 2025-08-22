@@ -9,9 +9,9 @@ players:
 ---
 ## Bärenliga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **XQ3EM4G** \
-Runde 8 der [Bärenliga 2025](/liga/uebersicht).
+Runde 8 der [Bärenliga 2025](/liga/uebersicht). Anschliessend Preisverleihung.
 
-Format: Draft, Set wird noch bestimmt
+Format: Battle for Zendikar Draft
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
