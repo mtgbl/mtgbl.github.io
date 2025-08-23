@@ -4,6 +4,7 @@ date: 2025-08-22 19:00:00
 title: "Bärenliga + Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/ATc8GUy8PUSR7t3UvlwRvg
 players:
   draft: 16
   commander: 3
