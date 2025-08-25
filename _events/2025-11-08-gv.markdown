@@ -1,6 +1,6 @@
 ---
 type: other
-date: 2024-11-03 14:00:00
+date: 2024-11-08 14:00:00
 title: "Generalversammlung 2025"
 location: Spielweltenfabrik
 players:
@@ -10,6 +10,8 @@ players:
 Auch dieses Jahr laden wir euch zur 11. Generalversammlung von MTG Baselland ein.
 
 Wie ihr es gewohnt seid, werden wir zuerst den geschäftlichen Teil erledigen und anschliessend zusammen ein Überraschungsturnier spielen.
+
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **86ZX8VR** 
 
 ### Programm
 
