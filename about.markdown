@@ -24,3 +24,6 @@ Hast du auch Lust einen Teil dieser Gemeinschaft zu werden, dann [melde dich](ht
 ![Eindrücke von der GV 2023](assets/photos/gv2023-1.jpg)
 
 ![Eindrücke von der GV 2023](assets/photos/gv2023-2.jpg)
+
+### Dokumente
+- [Statuten](assets/files/2014-12-11_Statuten_Verein_MTG_Baselland.pdf)
