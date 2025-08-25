@@ -8,7 +8,6 @@ players:
   draft: 20
   commander: 0
 redirect_from:
-    - /24
     - /event/2025-02-23-innistrad-alive
 ---
 
