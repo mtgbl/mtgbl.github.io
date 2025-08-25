@@ -9,7 +9,7 @@ players:
 redirect_from:
     - /24
 ---
-
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZR3D5R** \
 Turnierbeginn 09:30 \
 Ende 18:00 (voraussichtlich)
 
