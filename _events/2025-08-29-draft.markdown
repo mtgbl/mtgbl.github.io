@@ -3,9 +3,10 @@ type: draft
 date: 2025-08-29 19:00:00
 title: "Edge of Eternities Draft / Commander"
 location: Spielweltenfabrik
+winner: Michael
 players:
-  draft: 0
-  commander: 0
+  draft: 14
+  commander: 12
 ---
 ## Edge of Eternities Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **7GZMRM6** \
