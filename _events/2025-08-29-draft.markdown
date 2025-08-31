@@ -4,6 +4,7 @@ date: 2025-08-29 19:00:00
 title: "Edge of Eternities Draft / Commander"
 location: Spielweltenfabrik
 winner: Michael
+deck: https://moxfield.com/decks/eueY6G2eJUmCViJ-0yZq-w
 players:
   draft: 14
   commander: 12
