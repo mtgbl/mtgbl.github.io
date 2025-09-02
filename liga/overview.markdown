@@ -21,7 +21,7 @@ permalink: /liga/uebersicht
 - Tiebreaker bei Punktegleichstand:
   - mehr Liga-Drafts gewonnen (jeweils höchste Punktzahl innerhalb eines Drafts)
   - höhere Match-Win-% über die ganze Liga (exklusive Streichresultat)
-  - höhere Game-Win-% über die ganze Liga (exklusive Streichresultat)
+  - ~~höhere Game-Win-% über die ganze Liga (exklusive Streichresultat)~~ (2.9.2025: entfernt aufgrund von Datenverlust)
   - Punkte im letzten Draft
   - Buchholz im letzten Draft
   - Münzwurf
