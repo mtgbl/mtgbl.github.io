@@ -35,7 +35,7 @@ permalink: /liga/2025/tabelle/
 
 _A = Abo_\
 _P = Punkte fürs Spielen_\
-_T = Tiebreaker (Matchwin-% / ~~Gamewin-%~)_\
+_T = Tiebreaker (Matchwin-% / ~~Gamewin-%~~)_\
 _S = Anzahl gewonnener Liga-Drafts (jeweils höchste Punktzahl innerhalb eines Drafts)_\
 _~~durchgestrichen~~ = Streichresultat_
 
