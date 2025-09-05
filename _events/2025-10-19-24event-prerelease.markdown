@@ -9,6 +9,9 @@ players:
 redirect_from:
     - /24
 ---
+
+![Chaos Prerelease](/assets/img/flyer_24-event-2025small.jpg)
+
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZR3D5R** \
 Turnierbeginn 09:30 \
 Ende 18:00 (voraussichtlich)
