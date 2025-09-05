@@ -1,11 +1,12 @@
 ---
 type: draft
 date: 2025-09-05 19:00:00
-title: "Final Fantasy Draft / Commander Party: Edge of Eternities"
+title: "Tarkir Dragonstorm Sealed / Commander Party: Edge of Eternities"
 location: Spielweltenfabrik
+winner: Michael
 players:
-  draft: 0
-  commander: 0
+  draft: 5
+  commander: 12
 ---
 ## Final Fantasy Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **M7E685M** \
