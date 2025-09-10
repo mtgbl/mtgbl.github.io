@@ -7,11 +7,14 @@ location: Spielweltenfabrik
 ## Marvel's Spider-Man Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZ8NV32**
 
+Format: Sealed mit deutschen Karten \
 Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **DWPND6P**
+
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
