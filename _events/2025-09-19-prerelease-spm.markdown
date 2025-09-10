@@ -7,7 +7,7 @@ location: Spielweltenfabrik
 ## Marvel's Spider-Man Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZ8NV32**
 
-Kosten: 40.- (Mitglieder), 35.- (Nichtmitglieder) \
+Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
