@@ -6,7 +6,7 @@ permalink: /liga/2024/
 
 # Bärenliga 2024
 
-![Liga-Gewinner 2024 Marco](/assets/photos/liga2014_winner.jpg)
+![Liga-Gewinner 2024 Marco](/assets/photos/liga2024_winner.jpg)
 
 ## Finale Tabelle
 
