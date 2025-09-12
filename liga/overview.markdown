@@ -42,8 +42,8 @@ _T = Tiebreaker (Matchwin-% / ~~Gamewin-%~~)_\
 _S = Anzahl gewonnener Liga-Drafts (jeweils höchste Punktzahl innerhalb eines Drafts)_\
 _~~durchgestrichen~~ = Streichresultat_
 
-Für das Total zählen nur die 6 besten Draft-Resultate.
-
+Für das Total zählen nur die 6 besten Draft-Resultate.\
+Code, welcher die Rangliste automatisch berechnet hat, ist [hier](https://github.com/mtgbl/liga2025) einsehbar.
 
 ## Links
 - [Termine](#termine)
