@@ -3,6 +3,10 @@ type: sealed
 date: 2025-09-19 19:00:00
 title: "Marvel's Spider-Man Prerelease / Commander"
 location: Spielweltenfabrik
+winner: Dominik
+players:
+  draft: 9
+  commander: 10
 ---
 ## Marvel's Spider-Man Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZ8NV32**
