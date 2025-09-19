@@ -4,6 +4,7 @@ date: 2025-09-19 19:00:00
 title: "Marvel's Spider-Man Prerelease / Commander"
 location: Spielweltenfabrik
 winner: Dominik
+deck: https://moxfield.com/decks/6VeBDhq3YU-H4hmYsZJsiA
 players:
   draft: 9
   commander: 10
