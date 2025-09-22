@@ -17,7 +17,7 @@ Mitnehmen: Etwas zum Lebenspunkte notieren; optional: ca. 80-100 Kartenhüllen, 
 ### Programm
 
 1. Begrüssung
-2. [Protokoll 2024](assets/files/2024-11-03_Protokoll_10.GV_MTGBL.pdf)
+2. [Protokoll 2024](/assets/files/2024-11-03_Protokoll_10.GV_MTGBL.pdf)
 3. Jahresrückblick
 4. Finanzen
 5. Mutationen
