@@ -4,6 +4,7 @@ date: 2025-09-26 19:00:00
 title: "Marvel's Spider-Man Sealed / Commander"
 location: Spielweltenfabrik
 winner: Thomas
+deck: https://moxfield.com/decks/tO1PL_Gzl0icQt67Z7g4_A
 players:
   draft: 9
   commander: 6
