@@ -66,7 +66,11 @@ function updateWinnerTable(data, year) {
     const winnersStats = await getWinnerStats();
 
     const years = [''].concat(Object.keys(winnersStats).sort().reverse());
-    const initialYear = years[0];
+    let initialYear = years[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('year') && years.includes(urlParams.get('year'))) {
+        initialYear = urlParams.get('year');
+    }
     // populate select input
     const yearSelect = document.getElementById('year-select');
     years.forEach(key => {
@@ -75,6 +79,7 @@ function updateWinnerTable(data, year) {
         optionElement.innerHTML = key;
         yearSelect.appendChild(optionElement);
     });
+    yearSelect.value = initialYear;
     updateWinnerTable(winnersStats, initialYear);
 
     yearSelect.onchange = function(evt) {

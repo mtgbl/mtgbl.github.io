@@ -33,7 +33,11 @@ function prepareData(data, year) {
     const stats = await getStats();
 
     const years = Object.keys(stats).sort().reverse();
-    const initialYear = years[0];
+    let initialYear = years[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('year') && years.includes(urlParams.get('year'))) {
+        initialYear = urlParams.get('year');
+    }
     // populate select input
     const yearSelect = document.getElementById('year-select');
     years.forEach(key => {
@@ -42,6 +46,7 @@ function prepareData(data, year) {
         optionElement.innerHTML = key;
         yearSelect.appendChild(optionElement);
     });
+    yearSelect.value = initialYear;
 
     const chart = new Chart(
         document.getElementById('attendanceChart'),
