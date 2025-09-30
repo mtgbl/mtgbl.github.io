@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-11-07 19:00:00
-title: "Marvel's Spider-Man Draft / Commander"
+title: "Marvel's Spider-Man Draft / Duel Commander / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -13,6 +13,14 @@ Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) (Preis kann sich noch ändern!
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Bärenfinale-Qualifier
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZPQ8MY** \
+Kosten: 5.- (Mitglieder), 10.- (Nichtmitglieder) \
+Preise: 1 Booster pro Spieler in Pool + Promo-Boosters \
+Format: [Duel Commander](https://www.mtgdc.info/banned-restricted) \
+Proxies: nicht erlaubt \
+Findet ab 4 Spielern statt. Gewinner qualifiziert sich für das [Bärenfinale](/event/2025-12-12-draft).
 
 ## Commander
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **XQW4Y7Z** \
