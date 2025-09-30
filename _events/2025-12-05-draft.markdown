@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-12-05 19:00:00
-title: "Avatar: The Last Airbender Draft / Commander"
+title: "Avatar: The Last Airbender Draft / Commander Party"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -14,8 +14,8 @@ Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **DW6R4JD** \
+## Commander Party
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **865RNPE** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
