@@ -1,21 +1,20 @@
 ---
-type: draft
-date: 2025-12-19 19:00:00
-title: "Weihnachtsdraft / Commander"
+type: sealed
+date: 2026-01-16 19:00:00
+title: "Lorwyn Eclipsed Prerelease"
 location: Spielweltenfabrik
-players:
-  draft: 0
-  commander: 0
 ---
-## Weihnachtsdraft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **3J2WZV6** \
-Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
-Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
-Pro Spieler geht ein Booster in den Preispool. \
+## Lorwyn Eclipsed Prerelease
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2Y547E** \
+Genauere Infos folgen noch.
+
+Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Maximal 30 Spieler \
+Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXN7M55** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **65GRWJM** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
