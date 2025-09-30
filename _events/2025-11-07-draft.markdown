@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-11-07 19:00:00
-title: "Halloween Chaos Limited / Commander"
+title: "Marvel's Spider-Man Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
