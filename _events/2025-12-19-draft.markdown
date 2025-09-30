@@ -1,13 +1,13 @@
 ---
 type: draft
 date: 2025-12-19 19:00:00
-title: "Avatar: The Last Airbender Draft / Commander"
+title: "Weihnachtsdraft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
-## Avatar: The Last Airbender Draft
+## Weihnachtsdraft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **3J2WZV6** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.

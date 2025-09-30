@@ -1,12 +1,18 @@
 ---
 type: draft
 date: 2025-12-12 19:00:00
-title: "Avatar: The Last Airbender Draft / Commander"
+title: "Bärenfinale / Avatar Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
 ---
+## Bärenfinale
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NM6ZGNY** \
+Format: Sealed \
+Qualifiziert sind alle [Bären aus den Jahren 2024 und 2025](/stats/baer/). \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
 ## Avatar: The Last Airbender Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **J2Z58M6** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
