@@ -3,9 +3,11 @@ type: draft
 date: 2025-10-03 19:00:00
 title: "Marvel's Spider-Man Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/nLbbNVy6ckmMZ3-Gft4gSw
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 7
 ---
 ## Marvel's Spider-Man Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **XQW4YZ2** \
