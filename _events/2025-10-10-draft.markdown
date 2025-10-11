@@ -1,11 +1,11 @@
 ---
 type: draft
 date: 2025-10-10 19:00:00
-title: "Marvel's Spider-Man Draft / Two Headed Giant Commander"
+title: "Two Headed Giant Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
-  commander: 0
+  commander: 12
 ---
 ## Marvel's Spider-Man Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZRD6P4** \
