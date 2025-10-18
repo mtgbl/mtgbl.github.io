@@ -1,11 +1,13 @@
 ---
 type: draft
 date: 2025-10-17 19:00:00
-title: "Marvel's Spider-Man Draft / Duel Commander / Commander"
+title: "Duel Commander / Commander"
 location: Spielweltenfabrik
+winner: Florian
+deck: https://moxfield.com/decks/EUnntBcvC0KWdhdRrgXGdA
 players:
-  draft: 0
-  commander: 0
+  draft: 4
+  commander: 7
 ---
 ## Marvel's Spider-Man Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NMRDEJV** \
