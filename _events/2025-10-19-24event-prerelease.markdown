@@ -3,8 +3,10 @@ type: sealed
 date: 2025-10-19 09:30:00
 title: "Chaos Prerelease (24 Event)"
 location: Spielweltenfabrik
+winner: Thomas
+deck: https://moxfield.com/decks/q2ukltPupkq5oez6ray8nw
 players:
-  draft: 0
+  draft: 24
   commander: 0
 redirect_from:
     - /24
