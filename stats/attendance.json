@@ -13,7 +13,8 @@ sitemap: false
                         "title": "{{ event.title }}",
                         "players": {
                                 "draft": {{ event.players.draft }},
-                                "commander": {{ event.players.commander }}
+                                "commander": {{ event.players.commander }},
+                                "constructed": {{ event.players.constructed }}
                         },
                         "winner": "{{ event.winner }}"
                 }{%- if forloop.last == false -%},{% endif %}

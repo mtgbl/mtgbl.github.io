@@ -6,8 +6,9 @@ location: Spielweltenfabrik
 winner: Florian
 deck: https://moxfield.com/decks/EUnntBcvC0KWdhdRrgXGdA
 players:
-  draft: 4
+  draft: 0
   commander: 7
+  constructed: 4
 ---
 ## Marvel's Spider-Man Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NMRDEJV** \
