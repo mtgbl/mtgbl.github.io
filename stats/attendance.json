@@ -12,8 +12,9 @@ sitemap: false
                         "date": "{{ event.date | date: "%d.%m.%Y" }}",
                         "title": "{{ event.title }}",
                         "players": {
-                                "draft": {{ event.players.draft }},
-                                "commander": {{ event.players.commander }}
+                                "draft": {{ event.players.draft | default: 0 }},
+                                "commander": {{ event.players.commander | default: 0 }},
+                                "constructed": {{ event.players.constructed | default: 0 }}
                         },
                         "winner": "{{ event.winner }}"
                 }{%- if forloop.last == false -%},{% endif %}
