@@ -18,7 +18,7 @@ function prepareData(data, year) {
         labels: yearData.map(row => parseDate(row.date)),
         datasets: [
             {
-                label: 'Draft',
+                label: 'Limited',
                 data: yearData.map(row => row.players.draft ?? 0),
             },
             {
