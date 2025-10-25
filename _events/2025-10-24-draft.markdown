@@ -4,6 +4,7 @@ date: 2025-10-24 19:00:00
 title: "Modern Horizons 3 Draft / Commander Party"
 location: Spielweltenfabrik
 winner: Florian
+deck: https://moxfield.com/decks/VUSfHeSJzEidm9X-NzojGw
 players:
   draft: 11
   commander: 6
