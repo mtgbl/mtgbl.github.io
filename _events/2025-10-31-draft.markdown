@@ -3,9 +3,11 @@ type: draft
 date: 2025-10-31 19:00:00
 title: "Innistrad Remastered Draft / Halloween Commander"
 location: Spielweltenfabrik
+winner: João
+deck: https://moxfield.com/decks/oTGC9IZmMU2ssFQ7Tzl8Fg
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 10
 ---
 ##  Innistrad Remastered Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **86Z8J2V** \
