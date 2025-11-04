@@ -1,20 +1,20 @@
 ---
 type: sealed
-date: 2026-01-16 19:00:00
-title: "Lorwyn Eclipsed Prerelease"
+date: 2026-08-07 19:00:00
+title: "The Hobbit Prerelease"
 location: Spielweltenfabrik
 ---
-## Lorwyn Eclipsed Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2Y547E** \
+## The Hobbit Prerelease
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
 Genauere Infos folgen noch.
 
-Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
+Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **65GRWJM** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 

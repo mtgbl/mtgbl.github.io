@@ -1,20 +1,20 @@
 ---
 type: sealed
-date: 2026-01-16 19:00:00
-title: "Lorwyn Eclipsed Prerelease"
+date: 2026-04-17 19:00:00
+title: "Secrets of Strixhaven Prerelease"
 location: Spielweltenfabrik
 ---
-## Lorwyn Eclipsed Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2Y547E** \
+## Secrets of Strixhaven Prerelease
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
 Genauere Infos folgen noch.
 
-Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
+Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **65GRWJM** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
