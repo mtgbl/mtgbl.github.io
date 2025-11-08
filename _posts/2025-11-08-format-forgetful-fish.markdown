@@ -42,8 +42,8 @@ damit du ihn später ziehen kannst. Aber vielleicht hat dein Gegner einen Sponta
 ## Links
 
 Für die Generalversammlung 2025 haben wir folgende beiden Listen vorbereitet:
-- Eine [Casual-Liste](https://scryfall.com/@pfirpfel/decks/245b7807-1f80-41d7-8975-9708c5cbcb14?as=visual), welche eine paar besonders komplexe Karten vermeidet und Angreifen ermutigen soll. 
-- Eine [fortgeschrittene Liste](https://scryfall.com/@pfirpfel/decks/59f91963-9fd8-461e-b266-0c3bc04fc0a7?as=visual), die auch genauso an Forgetful-Fish-Turnieren verwendet wird.
+- Eine [Casual-Liste](https://moxfield.com/decks/IR0dyrTxC0GqXnt92uAipA), welche eine paar besonders komplexe Karten vermeidet und Angreifen ermutigen soll.
+- Eine [fortgeschrittene Liste](https://moxfield.com/decks/fewCa-Eky0appAi-ua5wTg), die auch genauso an Forgetful-Fish-Turnieren verwendet wird.
 Die wesentlichen Unterschiede sind Mystical Tutor, welcher nebenbei perfekte Information über die gegnerische Hand verleiht, sowie Vision Charm, das für nur ein Mana alle Fische abräumt.
 
 Der Erfinder Nick Floyd hat damals sein Format in [diesem Artikel](https://docs.google.com/document/d/1nLLsrRfv6qRvri8zIHnxqUjOeUGS-o_izVicthyRzYM) vorgestellt.

@@ -3,9 +3,12 @@ type: other
 date: 2025-11-08 13:00:00
 title: "Generalversammlung 2025"
 location: Spielweltenfabrik
+winner: Thomas
+deck: https://moxfield.com/decks/IR0dyrTxC0GqXnt92uAipA
 players:
   draft: 0
   commander: 0
+  constructed: 27
 ---
 Auch dieses Jahr laden wir euch zur 11. Generalversammlung von MTG Baselland ein.
 Dieses Jahr findet die GV am **8. November 2025** um **13.00 Uhr** im "Rösernzimmer" der Spielweltenfabrik statt.
