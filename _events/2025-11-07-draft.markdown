@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2025-11-07 19:00:00
-title: "Bulk Rate Cube Draft / Commander"
+title: "Bulk Rare Cube Draft / Commander"
 location: Spielweltenfabrik
 winner: João
 deck: https://moxfield.com/decks/VadYS2z-OUewoTxplrmScw
