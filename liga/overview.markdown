@@ -33,6 +33,8 @@ permalink: /liga/uebersicht
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
 
+Die Berechnung der Tabelle wird automatisch berechnet. Rohdaten und Code sind in [unserem Repository öffentlich einsehbar](https://github.com/mtgbl/liga2026).
+
 ## Kosten
 
 Kosten werden noch bestimmt und bald kommuniziert.
