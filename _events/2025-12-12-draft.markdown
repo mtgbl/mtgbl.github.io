@@ -8,20 +8,20 @@ players:
   commander: 0
 ---
 ## Bärenfinale
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **NM6ZGNY** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[NM6ZGNY](https://magic.wizards.com/en/products/companion-app?shortCode=NM6ZGNY)** \
 Format: Sealed \
 Qualifiziert sind alle [Bären aus den Jahren 2024 und 2025](/stats/baer/). \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Avatar: The Last Airbender Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **J2Z58M6** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J2Z58M6](https://magic.wizards.com/en/products/companion-app?shortCode=J2Z58M6)** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander (Turbo Tower)
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GX75MNG**
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GX75MNG](https://magic.wizards.com/en/products/companion-app?shortCode=GX75MNG)**
 
 Die ersten 16 Anmeldungen erhalten eine Command Tower Promokarte! \
 Spezialvariante: Jeder Spieler beginnt das Spiel mit der Command Tower Promokarte im Spiel. Die Karte ist nicht Teil des Decks. Das Deck muss immernoch 100 Karten beinhalten. Das Deck darf auch eine andere Kopie von Command Tower enthalten.

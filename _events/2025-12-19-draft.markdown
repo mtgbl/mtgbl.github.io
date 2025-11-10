@@ -8,14 +8,14 @@ players:
   commander: 0
 ---
 ## Weihnachtsdraft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **3J2WZV6** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[3J2WZV6](https://magic.wizards.com/en/products/companion-app?shortCode=3J2WZV6)** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Weihnachts-Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GXN7M55** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GXN7M55](https://magic.wizards.com/en/products/companion-app?shortCode=GXN7M55)** \
 Am 19. Dezember laden wir euch herzlich zu unserer gemütlichen Weihnachts-Commander-Runde ein. 
 Dieses Jahr sind eure Deckbau-Fähigkeiten gefragt. Baut euch euer eigenes Commander-Deck mit Weihnachtsthema! Ob schneebedeckte Länder, festlich geschmückte Goblins, strahlende Engel oder emsige Elfen in der Werkstatt, eurer Kreativität sind keine Grenzen gesetzt.
 

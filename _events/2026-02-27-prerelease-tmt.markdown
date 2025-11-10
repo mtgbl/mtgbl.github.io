@@ -5,7 +5,7 @@ title: "Teenage Mutant Ninja Turtles Prerelease"
 location: Spielweltenfabrik
 ---
 ## Teenage Mutant Ninja Turtles Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **GX745MP** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GX745MP](https://magic.wizards.com/en/products/companion-app?shortCode=GX745MP)** \
 Genauere Infos folgen noch.
 
 Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
@@ -14,7 +14,7 @@ Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2MN655** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2MN655](https://magic.wizards.com/en/products/companion-app?shortCode=V2MN655)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 

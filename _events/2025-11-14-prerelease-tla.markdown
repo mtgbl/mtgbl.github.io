@@ -5,7 +5,7 @@ title: "Avatar: The Last Airbender Prerelease"
 location: Spielweltenfabrik
 ---
 ## Avatar: The Last Airbender Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **65PNEQP**
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[65PNEQP](https://magic.wizards.com/en/products/companion-app?shortCode=65PNEQP)**
 
 Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Maximal 30 Spieler \
@@ -13,7 +13,7 @@ Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZRD6EP** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[RZRD6EP](https://magic.wizards.com/en/products/companion-app?shortCode=RZRD6EP)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 

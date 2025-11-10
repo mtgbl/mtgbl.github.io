@@ -8,14 +8,14 @@ players:
   commander: 0
 ---
 ## Avatar: The Last Airbender Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **RZD3E6R** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[RZD3E6R](https://magic.wizards.com/en/products/companion-app?shortCode=RZD3E6R)** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Avatar Commander Party
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **YEXNPRE** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[YEXNPRE](https://magic.wizards.com/en/products/companion-app?shortCode=YEXNPRE)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
