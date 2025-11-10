@@ -8,14 +8,14 @@ players:
   commander: 0
 ---
 ## Lorwyn Eclipsed Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **ZQRYXYM** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[ZQRYXYM](https://magic.wizards.com/en/products/companion-app?shortCode=ZQRYXYM)** \
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **EZR23Q2** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[EZR23Q2](https://magic.wizards.com/en/products/companion-app?shortCode=EZR23Q2)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 

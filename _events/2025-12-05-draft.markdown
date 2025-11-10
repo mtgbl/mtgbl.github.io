@@ -8,14 +8,14 @@ players:
   commander: 0
 ---
 ## Avatar: The Last Airbender Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2ZM8JX** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2ZM8JX](https://magic.wizards.com/en/products/companion-app?shortCode=V2ZM8JX)** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Bärenfinale-Qualifier
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **V2Y5V8W** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2Y5V8W](https://magic.wizards.com/en/products/companion-app?shortCode=V2Y5V8W)** \
 Kosten: 5.- (Mitglieder), 10.- (Nichtmitglieder) \
 Preise: 1 Booster pro Spieler in Pool + Promo-Boosters \
 Format: [Duel Commander](https://www.mtgdc.info/banned-restricted) \
@@ -23,7 +23,7 @@ Proxies: nicht erlaubt \
 Findet ab 4 Spielern statt. Gewinner qualifiziert sich für das [Bärenfinale](/event/2025-12-12-draft).
 
 ## Commander Party
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **865RNPE** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[865RNPE](https://magic.wizards.com/en/products/companion-app?shortCode=865RNPE)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
