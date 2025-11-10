@@ -1,0 +1,27 @@
+---
+layout: home
+title: "Magic: The Gathering in Liestal"
+---
+{% assign spielweltenfabrik = site.locations | where: "name","Spielweltenfabrik" | first %}
+
+<p>Wir sind ein Verein, der regelmässig Magic: The Gathering spielt.
+    Jeden Freitag treffen wir uns in der <a href="/standort/spielweltenfabrik">Spielweltenfabrik</a> in Liestal.</p>
+
+<p>Dort spielen wir meist <a href="https://magic.wizards.com/de/formats/booster-draft">Booster Draft</a> oder <a href="https://magic.wizards.com/de/formats/commander">Commander</a>.
+    Die Spielabende sind öffentlich, auch Anfänger sind willkommen.
+    Anmeldungen über unsere <a href="https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw">WhatsApp-Gruppe</a> sind erwünscht!</p>
+
+<p>→ <a href="/faq">Häufig gestellte Fragen</a></p>
+
+<hr>
+
+{% assign upcoming_events = site.events | where_exp: "item", "item.date > site.time" | where_exp: "item", "item.type != 'cancelled'" %}
+{% assign next_event = upcoming_events | first %}
+
+<h2 id="nächster-event">Nächster Event</h2>
+
+{% include event.html event = next_event %}
+
+<hr>
+
+<h2 id="neuigkeiten">Neuigkeiten</h2>

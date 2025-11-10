@@ -291,6 +291,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-last-modified-at
+  jekyll-paginate
   jekyll-redirect-from
   jekyll-remote-theme (~> 0.4.3)
   jekyll-spaceship
