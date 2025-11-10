@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Liga # title for navigation
-permalink: /liga/uebersicht
+title: Bärenliga 2025
+permalink: /liga/2025/
 ---
 
 # Bärenliga 2025
