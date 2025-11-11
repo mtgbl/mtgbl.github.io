@@ -68,15 +68,15 @@ Die folgenden Termine sind noch provisorisch6
 Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
 
 
-| #  | Set | Release |
-|:--:|-----|---------|
-| 1  |     |         |
-| 2  |     |         |
-| 3  |     |         |
-| 4  |     |         |
-| 5  |     |         |
-| 6  |     |         |
-| 7  |     |         |
-| 8  |     |         |
+| #  | Set         | Release |
+|:--:|-------------|---------|
+| 1  | Chaos-Draft |         |
+| 2  | ??          |         |
+| 3  | ??          |         |
+| 4  | ??          |         |
+| 5  | ??          |         |
+| 6  | ??          |         |
+| 7  | ??          |         |
+| 8  | ??          |         |
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
