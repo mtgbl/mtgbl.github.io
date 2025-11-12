@@ -68,15 +68,15 @@ Die folgenden Termine sind noch provisorisch6
 Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
 
 
-| #  | Set         | Release |
-|:--:|-------------|---------|
-| 1  | Chaos-Draft |         |
-| 2  | ??          |         |
-| 3  | ??          |         |
-| 4  | ??          |         |
-| 5  | ??          |         |
-| 6  | ??          |         |
-| 7  | ??          |         |
-| 8  | ??          |         |
+| #  | Set                                       | Release |
+|:--:|-------------------------------------------|---------|
+| 1  | Chaos-Draft                               | -       |
+| 2  | Dragon's Maze/Gatecrash/Return to Ravnica | 2012/13 |
+| 3  | Modern Horizons 1                         | 2019    |
+| 4  | D&D: Adventures in the Forgotten Realms   | 2021    |
+| 5  | Kaldheim                                  | 2021    |
+| 6  | 2x Hour of Devastation / Amonkhet         | 2017    |
+| 7  | Theros Beyond Death                       | 2020    |
+| 8  | Marvel's Spider-Man                       | 2025    |
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
