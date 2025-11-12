@@ -34,6 +34,8 @@ END:VTIMEZONE
 {% for event in upcoming_events %}
 BEGIN:VEVENT
 UID:{{ event.date | date: "%Y%m%d" }}@mtgbl.ch
+LAST-MODIFIED:{{ event.last_modified }}
+SEQUENCE:{{ event.num_of_changes }}
 ORGANIZER;CN="MTG Baselland":MAILTO:admin@mtgbl.ch
 {%- assign location = site.locations | where: "name", event.location | first -%}
 {% assign oneline_address = location.address | newline_to_br | strip_newlines | split: "<br />" | join: "\, " %}

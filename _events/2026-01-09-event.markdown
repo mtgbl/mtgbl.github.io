@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20251104T11271400Z
+num_of_changes: 2
 ---
 ## Avatar: The Last Airbender Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[RZD3E6R](https://magic.wizards.com/en/products/companion-app?shortCode=RZD3E6R)** \

@@ -1,0 +1,26 @@
+name: Update event last_modified fields
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_events:
+    runs-on: ubuntu-24.04
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Update event last_modified fields
+        run: .github\workflows\scripts\update_events_last_modified.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'ICS_LAST_MODIFIED_UPDATE'
+          file_pattern: '_events/*.markdown'
