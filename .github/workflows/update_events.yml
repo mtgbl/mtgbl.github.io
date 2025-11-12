@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
+          token: ${{ secrets.MTGBL_PAT || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Update event last_modified fields
@@ -23,4 +24,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'ICS_LAST_MODIFIED_UPDATE'
+          push_options: --force
           file_pattern: '_events/*.markdown'
