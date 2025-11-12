@@ -7,7 +7,7 @@ players:
   draft: 0
   commander: 0
 last_modified: 20250911T13463600Z
-num_of_changes: 2
+num_of_changes: 3
 ---
 ## Avatar: The Last Airbender Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[EZ5RMJZ](https://magic.wizards.com/en/products/companion-app?shortCode=EZ5RMJZ)** \

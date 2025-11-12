@@ -4,7 +4,7 @@ date: 2026-02-27 19:00:00
 title: "Teenage Mutant Ninja Turtles Prerelease"
 location: Spielweltenfabrik
 last_modified: 20251104T11033400Z
-num_of_changes: 2
+num_of_changes: 3
 ---
 ## Teenage Mutant Ninja Turtles Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GX745MP](https://magic.wizards.com/en/products/companion-app?shortCode=GX745MP)** \

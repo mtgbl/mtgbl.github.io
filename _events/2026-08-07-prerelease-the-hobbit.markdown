@@ -4,7 +4,7 @@ date: 2026-08-07 19:00:00
 title: "The Hobbit Prerelease"
 location: Spielweltenfabrik
 last_modified: 20251104T11033400Z
-num_of_changes: 1
+num_of_changes: 2
 ---
 ## The Hobbit Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
