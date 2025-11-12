@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Liga # title for navigation
+title: Bärenliga 2024
 permalink: /liga/2024/
 ---
 
