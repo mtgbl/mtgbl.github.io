@@ -3,6 +3,8 @@ type: sealed
 date: 2026-06-19 19:00:00
 title: "Marvel Super Heroes Prerelease"
 location: Spielweltenfabrik
+last_modified: 20251104T11033400Z
+num_of_changes: 1
 ---
 ## Marvel Super Heroes Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \

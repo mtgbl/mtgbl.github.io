@@ -3,6 +3,8 @@ type: sealed
 date: 2026-04-17 19:00:00
 title: "Secrets of Strixhaven Prerelease"
 location: Spielweltenfabrik
+last_modified: 20251104T11033400Z
+num_of_changes: 1
 ---
 ## Secrets of Strixhaven Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \

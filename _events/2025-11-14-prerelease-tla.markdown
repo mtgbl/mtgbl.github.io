@@ -3,6 +3,8 @@ type: sealed
 date: 2025-11-14 19:00:00
 title: "Avatar: The Last Airbender Prerelease"
 location: Spielweltenfabrik
+last_modified: 20250617T09320100Z
+num_of_changes: 4
 ---
 ## Avatar: The Last Airbender Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[65PNEQP](https://magic.wizards.com/en/products/companion-app?shortCode=65PNEQP)**
