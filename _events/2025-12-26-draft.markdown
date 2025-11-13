@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251113T11154900Z
-num_of_changes: 5
+last_modified: 20251113T19042900Z
+num_of_changes: 6
 ---
 ## Avatar: The Last Airbender Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[65PNE6P](https://magic.wizards.com/en/products/companion-app?shortCode=65PNE6P)** \
