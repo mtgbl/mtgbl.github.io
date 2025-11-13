@@ -7,13 +7,26 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    if: "github.event_name == 'schedule' || !contains(github.event.head_commit.message, 'ICS_LAST_MODIFIED_UPDATE')"
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v5
         with:
+          token: ${{ secrets.MTGBL_PAT || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+
+      - name: Update event last_modified fields
+        if: github.ref == 'refs/heads/main'
+        run: .github/workflows/scripts/update_events_last_modified.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        if: github.ref == 'refs/heads/main'
+        with:
+          commit_message: 'ICS_LAST_MODIFIED_UPDATE'
+          push_options: --force
+          file_pattern: '_events/*.markdown'
 
       - uses: ruby/setup-ruby@v1
         with:
