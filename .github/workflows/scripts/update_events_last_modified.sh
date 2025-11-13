@@ -10,7 +10,7 @@ for EVENT_PATH in _events/*.markdown; do
         if [ $FILE_DATE -ge $NOW ];
         then
             # last commit not being an ICS_LAST_MODIFIED_UPDATE
-            LAST_COMMIT=$(git log --pretty=oneline ${EVENT_PATH} | grep -v "ICS_LAST_MODIFIED_UPDATE" | tail -n 1 | cut -f 1 -d ' ')
+            LAST_COMMIT=$(git log --pretty=oneline ${EVENT_PATH} | grep -v "ICS_LAST_MODIFIED_UPDATE" | head -n 1 | cut -f 1 -d ' ')
 
             # get timestamp of LAST_COMMIT and format it
             LAST_MODIFIED=$(git show --no-patch --format=%cI ${LAST_COMMIT} | sed -re 's/\+[0-9]{2}\:[0-9]{2}//g' | sed -e 's/[-:]//g')
