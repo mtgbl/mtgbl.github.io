@@ -6,7 +6,7 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20250911T13463600Z
+last_modified: 20251112T23192900Z
 num_of_changes: 5
 ---
 ## Bärenfinale

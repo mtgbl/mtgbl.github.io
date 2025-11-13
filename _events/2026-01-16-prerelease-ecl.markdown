@@ -3,7 +3,7 @@ type: sealed
 date: 2026-01-16 19:00:00
 title: "Lorwyn Eclipsed Prerelease"
 location: Spielweltenfabrik
-last_modified: 20250930T11045600Z
+last_modified: 20251112T23192900Z
 num_of_changes: 4
 ---
 ## Lorwyn Eclipsed Prerelease

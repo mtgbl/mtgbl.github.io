@@ -3,7 +3,7 @@ type: sealed
 date: 2025-11-14 19:00:00
 title: "Avatar: The Last Airbender Prerelease"
 location: Spielweltenfabrik
-last_modified: 20250617T09320100Z
+last_modified: 20251112T23192900Z
 num_of_changes: 5
 ---
 ## Avatar: The Last Airbender Prerelease

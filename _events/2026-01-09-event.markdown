@@ -6,7 +6,7 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251104T11271400Z
+last_modified: 20251112T23192900Z
 num_of_changes: 3
 ---
 ## Avatar: The Last Airbender Draft

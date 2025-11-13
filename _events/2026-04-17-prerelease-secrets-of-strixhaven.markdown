@@ -3,7 +3,7 @@ type: sealed
 date: 2026-04-17 19:00:00
 title: "Secrets of Strixhaven Prerelease"
 location: Spielweltenfabrik
-last_modified: 20251104T11033400Z
+last_modified: 20251112T23192900Z
 num_of_changes: 2
 ---
 ## Secrets of Strixhaven Prerelease
