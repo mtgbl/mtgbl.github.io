@@ -60,3 +60,12 @@ Wenn regelmässig viele Leute an unseren Turnieren teilnehmen, bekommt unser Ver
 Um den Code einzugeben, öffne deine Companion-App und wähle "Spielen". Dort findest du die Option "Event-Code eingeben".
 
 Diese App verwendet denselben Account wie ["Magic Arena"](https://magic.wizards.com/de/mtgarena). Ab un zu gibt es Belohnungen in Arena, wenn man ich "echten" Turnieren teilnimmt.
+
+---
+
+# Was sind Commander-Brackets?
+Commander macht in der Regel am meisten Spass, wenn alle Decks im Spiel ungefähr gleich stark sind und alle Spieler ähnliche Erwartungen haben, wie das Spiel ablaufen soll.
+
+Ein hilfreiches Werkzeug um Deckstärke und Spielerwartungen zu beschreiben sind [Commander-Brackets](https://magic.wizards.com/de/formats/commander#brackets). Diese Grafik verschaft einen kleinen Überblick:
+
+![Eindrücke von der GV 2023](assets/img/brackets.jpeg)
