@@ -4,6 +4,7 @@ date: 2025-11-14 19:00:00
 title: "Avatar: The Last Airbender Prerelease"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/LQTP1NaVB06FbcKEazhlBA
 players:
   draft: 19
   commander: 0
