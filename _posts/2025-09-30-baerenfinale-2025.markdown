@@ -15,7 +15,7 @@ Alle, die in den Jahren [2024](/stats/baer/?year=2024) oder [2025](/stats/baer/?
 
 ## Bärenfinale-Qualifier
 Damit nicht nur Limited-Spieler eine Chance zur Qualifikation haben, geben wir auch unseren Constructed-Spezialisten eine Gelegenheit.
-An 3 Freitagen finden Turniere im Format [Duel Commander](https://www.mtgdc.info/banned-restricted) statt:
+An 3 Freitagen finden Turniere im Format [Duel Commander](https://www.duelcommander.org/banlist/) statt:
 - [17.10.](/event/2025-10-17-draft)
 - [7.11.](/event/2025-11-07-draft)
 - [5.12.](/event/2025-12-05-draft)
@@ -24,6 +24,6 @@ Bereits qualifizierte Spieler können natürlich auch an den "Duel Commander"-Tu
 
 ## Duel Commander
 Hier findet ihr Ressourcen zum Format:
-- [Regeln](https://www.mtgdc.info/comprehensive-rules)
-- [Banlist](https://www.mtgdc.info/banned-restricted)
+- [Regeln](https://www.duelcommander.org/rules/quickrules/)
+- [Banlist](https://www.duelcommander.org/banlist/)
 - Turnier-Decks als Inspiration: [Magic Online](https://www.mtgo.com/decklists?filter=Duel), [MTGTop8](https://mtgtop8.com/format?f=EDH)

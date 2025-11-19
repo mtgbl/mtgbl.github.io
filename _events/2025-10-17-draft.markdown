@@ -21,7 +21,7 @@ Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, T
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **W2W7QZD** \
 Kosten: 5.- (Mitglieder), 10.- (Nichtmitglieder) \
 Preise: 1 Booster pro Spieler in Pool + Promo-Boosters \
-Format: [Duel Commander](https://www.mtgdc.info/banned-restricted) \
+Format: [Duel Commander](https://www.duelcommander.org/banlist/) \
 Proxies: nicht erlaubt \
 Findet ab 4 Spielern statt. Gewinner qualifiziert sich für das [Bärenfinale](/event/2025-12-12-draft).
 
