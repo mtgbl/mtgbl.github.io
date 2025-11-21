@@ -33,7 +33,7 @@ permalink: /liga/uebersicht
 | Unentschieden              | +1 |
 | No show (falls angemeldet) | -2 |
 
-Die Berechnung der Tabelle wird automatisch berechnet. Rohdaten und Code sind in [unserem Repository öffentlich einsehbar](https://github.com/mtgbl/liga2026).
+Die Tabelle wird automatisch berechnet. Rohdaten und Code sind in [unserem Repository öffentlich einsehbar](https://github.com/mtgbl/liga2026).
 
 ## Kosten
 
@@ -51,7 +51,7 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
 
-Die folgenden Termine sind noch provisorisch6
+Die folgenden Termine sind noch provisorisch:
 
 | # | Datum           | Set                                                  |
 |:-:|-----------------|------------------------------------------------------|
