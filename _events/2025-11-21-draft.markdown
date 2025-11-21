@@ -3,9 +3,10 @@ type: draft
 date: 2025-11-21 19:00:00
 title: "Avatar: The Last Airbender Draft / Commander"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 9
+  commander: 4
 last_modified: 20251112T23192900Z
 num_of_changes: 3
 ---
