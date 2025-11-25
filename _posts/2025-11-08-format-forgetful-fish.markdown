@@ -6,10 +6,10 @@ author: Michael
 categories: blog
 ---
 
+![Dandân; Drew Tucker; Wizards of the Coast](../assets/img/dandan_640.jpg)
+
 Magic: The Gathering kann man auf viele Arten spielen.
 Eine von Nick Floyd erfundene Variante, die immer mehr an Popularität gewinnt, möchte ich heute vorstellen: **Forgetful Fish**.
-
-![Dandân; Drew Tucker; Wizards of the Coast](../assets/img/dandan.png) ![Memory Lapse; Greg Staples; Wizards of the Coast](../assets/img/memory-lapse.png)
 
 In dieser Variante für zwei Spieler teilt man sich ein einziges, vorkonstruiertes Deck. Darin sind Karten in unüblichen Mengen enthalten.
 Es beginnt beim "forgetful"-Teil des Namens: Memory Lapse. Unsere Version enthält 8 davon. Den fischigen Teil stellen 10 Dandâns dar.
@@ -31,6 +31,8 @@ Forgetful Fish spielt sich anders, als gewöhnliches Magic. Da ist zum einen die
 Nicht nur muss man selbst Inseln kontrollieren, damit der Fisch nicht stirbt, sondern auch der Gegner muss welche im Spiel haben, sonst kann man gar nicht angreifen.
 Da aber im geteilten Deck mehr als die Hälfte der Länder Inseln sind, kann man es sich kaum erlauben, keine auszuspielen.
 So wird daraus ein effizienter Angreifer für 2 Mana, welcher in nur 5 Angriffen den Gegner besiegen kann.
+
+![Dandân; Drew Tucker; Wizards of the Coast](../assets/img/dandan.png) ![Memory Lapse; Greg Staples; Wizards of the Coast](../assets/img/memory-lapse.png)
 
 Der Nachteil des Fischs macht auch unübliche Karten wie [Mind Bend](https://scryfall.com/card/10e/93/mind-bend) und [Crystal Spray](https://scryfall.com/card/inv/50/crystal-spray) zu Removal-Sprüchen,
 in dem man seine Vorliebe für Inseln zu einem anderen Landtyp wechselt.
