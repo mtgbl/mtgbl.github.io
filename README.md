@@ -19,3 +19,9 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 Visit at http://127.0.0.1:4000/
+
+## Run locally in Docker
+```sh
+docker build -t mtgbl . && docker run -it --rm -p 4000:4000 mtgbl
+```
+Visit at http://127.0.0.1:4000/
