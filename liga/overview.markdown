@@ -53,16 +53,16 @@ Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 Die folgenden Termine sind noch provisorisch:
 
-| # | Datum           | Set                                                  |
-|:-:|-----------------|------------------------------------------------------|
-| 1 | [20.02.2026](/) | (vor Turtles Prerelease, Fasnachtswochenende)        |
-| 2 | [20.03.2026](/) | (Füller in Turtles-Saison)                           |
-| 3 | [10.04.2026](/) | (vor Strixhaven 2 Prerelease)                        |
-| 4 | [15.05.2026](/) | (Füller in Strixhaven-2-Saison, Auffahrtswochenende) |
-| 5 | [12.06.2026](/) | (vor Marvel 2 Prerelease)                            |
-| 6 | [21.08.2026](/) | (Füller in Marvel-2-Saison)                          |
-| 7 | [18.09.2026](/) | (vor Reality Fracture Prerelease)                    |
-| 8 | [23.10.2026](/) | (Füller in Reality-Fracture-Saison)                  |
+| # | Datum           | Set                                                                   |
+|:-:|-----------------|-----------------------------------------------------------------------|
+| 1 | [13.02.2026](/)  | (2 Wochen vor Turtles Prerelease, eine Woche vor Fasnachtswochenende) |
+| 2 | [20.03.2026](/) | (Füller in Turtles-Saison)                                            |
+| 3 | [10.04.2026](/) | (vor Strixhaven 2 Prerelease)                                         |
+| 4 | [15.05.2026](/) | (Füller in Strixhaven-2-Saison, Auffahrtswochenende)                  |
+| 5 | [12.06.2026](/) | (vor Marvel 2 Prerelease)                                             |
+| 6 | [21.08.2026](/) | (Füller in Marvel-2-Saison)                                           |
+| 7 | [18.09.2026](/) | (vor Reality Fracture Prerelease)                                     |
+| 8 | [23.10.2026](/) | (Füller in Reality-Fracture-Saison)                                   |
 
 ## Sets
 Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
