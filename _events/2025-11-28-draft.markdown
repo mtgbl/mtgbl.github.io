@@ -4,6 +4,7 @@ date: 2025-11-28 19:00:00
 title: "Avatar: The Last Airbender Draft / Commander"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/wI1K4qVVLkS8LDd4QruGSw
 players:
   draft: 12
   commander: 6
