@@ -1,17 +1,17 @@
 ---
 type: draft
-date: 2026-04-10 19:00:00
+date: 2026-08-28 19:00:00
 title: "Bärenliga / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251112T23192900Z
-num_of_changes: 3
+last_modified: 0
+num_of_changes: 0
 ---
 ## Bärenliga
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[868XQXR](https://magic.wizards.com/en/products/companion-app?shortCode=868XQXR)** \
-Runde 3 der [Bärenliga 2026](/liga/uebersicht). \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
+Runde 6 der [Bärenliga 2026](/liga/uebersicht). \
 Format: Booster-Draft, Set wird zufällig ausgelost (siehe [Liga-Regeln)](/liga/uebersicht#regeln)
 
 | Kosten               | Mitglieder | Nichtmitglieder |
@@ -22,7 +22,7 @@ Format: Booster-Draft, Set wird zufällig ausgelost (siehe [Liga-Regeln)](/liga/
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[7GPX53R](https://magic.wizards.com/en/products/companion-app?shortCode=7GPX53R)** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
