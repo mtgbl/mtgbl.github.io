@@ -4,6 +4,7 @@ date: 2025-12-05 19:00:00
 title: "Avatar: The Last Airbender Draft / Duel Commander / Commander Party"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/BWIlSnliBkyUFMRVDyhzlA
 players:
   draft: 6
   commander: 6
