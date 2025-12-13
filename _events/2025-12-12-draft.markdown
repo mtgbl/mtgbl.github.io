@@ -1,9 +1,10 @@
 ---
 type: draft
 date: 2025-12-12 19:00:00
-title: "Bärenfinale / Avatar Draft / Commander"
+title: "Bärenfinale Sealed / Commander"
 location: Spielweltenfabrik
 winner: Urs
+deck: https://moxfield.com/decks/8sqdDK9cOUqg8tMLiwFs9g
 players:
   draft: 12
   commander: 4
