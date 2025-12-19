@@ -3,9 +3,10 @@ type: draft
 date: 2025-12-19 19:00:00
 title: "Weihnachtsdraft / Weihnachts-Commander"
 location: Spielweltenfabrik
+winner: Patrick
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 17
 last_modified: 20251117T08132300Z
 num_of_changes: 8
 ---
