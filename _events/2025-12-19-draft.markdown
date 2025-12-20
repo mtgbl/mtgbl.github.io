@@ -4,6 +4,7 @@ date: 2025-12-19 19:00:00
 title: "Weihnachtsdraft / Weihnachts-Commander"
 location: Spielweltenfabrik
 winner: Patrick
+deck: https://moxfield.com/decks/QE3yPqi2Z0mpNF2vYkBTQw
 players:
   draft: 8
   commander: 17
