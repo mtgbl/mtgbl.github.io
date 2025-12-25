@@ -9,7 +9,7 @@ players:
   draft: 6
   commander: 10
 ---
-##  Innistrad Remastered Draft
+## Innistrad Remastered Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **86Z8J2V** \
 Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
