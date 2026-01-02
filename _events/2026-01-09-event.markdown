@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251112T23192900Z
-num_of_changes: 3
+last_modified: 20260102T22464100Z
+num_of_changes: 4
 ---
 ## Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[RZD3E6R](https://magic.wizards.com/en/products/companion-app?shortCode=RZD3E6R)** \
