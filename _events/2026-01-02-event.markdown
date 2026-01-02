@@ -4,6 +4,7 @@ date: 2026-01-02 19:00:00
 title: "Chaos-Draft / Commander"
 location: Spielweltenfabrik
 winner: Lennox
+deck: https://moxfield.com/decks/Tc3l8Z9a8Uyd7eimhJMwwg
 players:
   draft: 7
   commander: 5
