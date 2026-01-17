@@ -4,6 +4,7 @@ date: 2026-01-16 19:00:00
 title: "Lorwyn Eclipsed Prerelease"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/a0G9N_KHFkehhZkCxLlY7Q
 players:
   draft: 27
   commander: 0
