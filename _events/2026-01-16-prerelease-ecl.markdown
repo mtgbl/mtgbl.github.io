@@ -3,6 +3,10 @@ type: sealed
 date: 2026-01-16 19:00:00
 title: "Lorwyn Eclipsed Prerelease"
 location: Spielweltenfabrik
+winner: Doménique
+players:
+  draft: 27
+  commander: 0
 last_modified: 20251112T23192900Z
 num_of_changes: 4
 ---
