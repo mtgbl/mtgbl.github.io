@@ -17,7 +17,18 @@ Siehe auch: [Bären-Statistik nach Jahr](/stats/baer/)
 {% for event in year_events %}
 
 <p>
-    <a href="{{ event.url }}"><date>{{ event.date | date: "%d.%m.%Y" }}</date> - {{ event.title }}</a>: <strong>{{ event.winner | default: "-" }}</strong>{%- if event.deck -%}&nbsp;<a href="{{ event.deck }}"><img src="/assets/img/trophy.svg" title="Siegerdeck" alt="Siegerdeck"><img src="/assets/img/stack.svg" title="Siegerdeck" alt="Siegerdeck"></a>{%- endif -%}
+    <a href="{{ event.url }}"><date>{{ event.date | date: "%d.%m.%Y" }}</date> - {{ event.title }}</a>: <strong>{{ event.winner | default: "-" }}</strong>
+{%- if event.deck -%}
+    &nbsp;
+    {%- if event.deck.first -%}
+        {%- for winner_deck in event.deck -%}
+            <a href="{{ winner_deck }}"><img src="/assets/img/trophy.svg" title="Siegerdeck {{ forloop.index }}" alt="Siegerdeck {{ forloop.index }}"><img src="/assets/img/stack.svg" title="Siegerdeck {{ forloop.index }}" alt="Siegerdeck {{ forloop.index }}"></a>
+            {%- unless forloop.last -%},&nbsp;{%- endunless -%}
+        {%- endfor -%}
+    {%- else -%}
+        <a href="{{ event.deck }}"><img src="/assets/img/trophy.svg" title="Siegerdeck" alt="Siegerdeck"><img src="/assets/img/stack.svg" title="Siegerdeck" alt="Siegerdeck"></a>
+    {%- endif -%}
+{%- endif -%}
 </p>
 
 {% endfor %}
