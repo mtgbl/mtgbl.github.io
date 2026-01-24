@@ -5,6 +5,7 @@ title: "Lorwyn Eclipsed Draft / Commander"
 location: Spielweltenfabrik
 winner: Arnaud, Patrick
 deck:
+  - https://moxfield.com/decks/G3p8_PIXmk-Vi61DfXBbdg
   - https://moxfield.com/decks/_9CBauhuzU-gsWbPb4JyEA
 players:
   draft: 16
