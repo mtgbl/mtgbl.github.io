@@ -3,9 +3,10 @@ type: draft
 date: 2026-01-30 19:00:00
 title: "Lorwyn Eclipsed Draft / Commander Party"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 10
+  commander: 13
 last_modified: 20251112T23192900Z
 num_of_changes: 3
 ---
