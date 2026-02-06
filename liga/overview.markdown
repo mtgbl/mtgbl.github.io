@@ -41,8 +41,8 @@ Kosten werden noch bestimmt und bald kommuniziert.
 
 | Kosten               | Mitglieder | Nichtmitglieder |
 |----------------------|------------|-----------------|
-| Einzelner Draft      | ??.- Fr    | ??.- Fr         |
-| Abo (alle Drafts)    | ??.- Fr    | ??.- Fr         |
+| Einzelner Draft      | 25.- Fr    | 30.- Fr         |
+| Abo (alle Drafts)    | 130.- Fr   | 160.- Fr        |
 
 ## Preise
 Während der einzelnen Drafts gibts es keine Preise zu gewinnen.
