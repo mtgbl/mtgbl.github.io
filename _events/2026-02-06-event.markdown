@@ -4,6 +4,9 @@ date: 2026-02-06 19:00:00
 title: "Lorwyn Eclipsed Draft / Commander"
 location: Spielweltenfabrik
 winner: Nico, Urs
+deck:
+  - https://moxfield.com/decks/khE3gfpBF06gE4ym-kxKqg
+  - https://moxfield.com/decks/wranMSzQGkunF1j7JAezUQ
 players:
   draft: 12
   commander: 12
