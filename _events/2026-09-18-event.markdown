@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251130T14285100Z
-num_of_changes: 1
+last_modified: 20260208T22264700Z
+num_of_changes: 2
 ---
 ## Bärenliga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
