@@ -1,11 +1,12 @@
 ---
 type: draft
 date: 2026-02-13 19:00:00
-title: "Bärenliga / Commander Party"
+title: "Bärenliga HOU-AKH Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Davide
 players:
-  draft: 0
-  commander: 0
+  draft: 16
+  commander: 14
 last_modified: 20260208T22264700Z
 num_of_changes: 5
 ---
