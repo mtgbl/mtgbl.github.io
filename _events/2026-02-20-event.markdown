@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-02-20 19:00:00
-title: "Lorwyn Eclipsed Draft / Commander"
+title: "Draft / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -9,9 +9,9 @@ players:
 last_modified: 20251112T23192900Z
 num_of_changes: 3
 ---
-## Lorwyn Eclipsed Draft
+## Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[ZQRYXYM](https://magic.wizards.com/en/products/companion-app?shortCode=ZQRYXYM)** \
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
