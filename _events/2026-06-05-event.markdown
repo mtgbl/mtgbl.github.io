@@ -1,0 +1,24 @@
+---
+type: draft
+date: 2026-06-05 19:00:00
+title: "Secrets of Strixhaven Draft / Commander Party"
+location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
+---
+## Secrets of Strixhaven Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J2YP6XZ](https://magic.wizards.com/en/products/companion-app?shortCode=J2YP6XZ)** \
+Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
+Pro Spieler geht ein Booster in den Preispool. \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Secrets of Strixhaven Commander Party
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[NMJWG8Z](https://magic.wizards.com/en/products/companion-app?shortCode=NMJWG8Z)** \
+Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
+Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+
+## Allgemein
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Es können vor Ort Getränke gekauft werden.
