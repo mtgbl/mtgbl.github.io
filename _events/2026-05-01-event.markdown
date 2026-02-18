@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20260218T08595600Z
+num_of_changes: 1
 ---
 ## Secrets of Strixhaven Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[ZQ3Y8X6](https://magic.wizards.com/en/products/companion-app?shortCode=ZQ3Y8X6)** \
