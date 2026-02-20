@@ -1,17 +1,18 @@
 ---
 type: draft
 date: 2026-02-20 19:00:00
-title: "Draft / Commander"
+title: "Lorwyn Eclipsed Pick 2 Draft / Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 4
+  commander: 8
 last_modified: 20260215T14115000Z
 num_of_changes: 4
 ---
 ## Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[ZQRYXYM](https://magic.wizards.com/en/products/companion-app?shortCode=ZQRYXYM)** \
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
