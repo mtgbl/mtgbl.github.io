@@ -4,6 +4,7 @@ date: 2026-02-20 19:00:00
 title: "Lorwyn Eclipsed Pick 2 Draft / Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/bKYt4I4ne0KKWrOhm91QMg
 players:
   draft: 4
   commander: 8
