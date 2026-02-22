@@ -4,6 +4,7 @@ date: 2026-02-13 19:00:00
 title: "Bärenliga HOU-AKH Draft / Commander Party"
 location: Spielweltenfabrik
 winner: Davide
+deck: https://moxfield.com/decks/36t4zeeqU0Oc5-IghRNWxw
 players:
   draft: 16
   commander: 14
