@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-06-12 19:00:00
-title: "Bärenliga / Commander"
+title: "Bärenliga / Pride Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -21,8 +21,10 @@ Format: Booster-Draft, Set wird zufällig ausgelost (siehe [Liga-Regeln)](/liga/
 
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[3J7X5VJ](https://magic.wizards.com/en/products/companion-app?shortCode=3J7X5VJ)** \
+## Magic: Presents Pride Commander Night
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[W2E32EG](https://magic.wizards.com/en/products/companion-app?shortCode=W2E32EG)** \
+Spezialregel: Alle Commander haben "Partner". Dies erlaubt Commander-Kombinationen, die sonst nicht möglich sind. \
+Teilnehmer erhalten eine "Gilded Lotus"-Promo, solange der Vorrat reicht. \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
