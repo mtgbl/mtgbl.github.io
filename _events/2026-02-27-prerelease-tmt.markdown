@@ -3,6 +3,11 @@ type: sealed
 date: 2026-02-27 19:00:00
 title: "Teenage Mutant Ninja Turtles Prerelease"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/5r35DuHf8UGS4Rfe5U5vLQ
+players:
+  draft: 12
+  commander: 13
 last_modified: 20251112T23192900Z
 num_of_changes: 3
 ---
