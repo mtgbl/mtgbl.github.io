@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Bärenliga 2025
-permalink: /liga/2025/
+permalink: /liga/draft/2025/
 ---
 → [Übersicht](/liga/uebersicht)
 # Bärenliga 2025

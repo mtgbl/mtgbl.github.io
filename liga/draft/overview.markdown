@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Liga # title for navigation
-permalink: /liga/uebersicht
+permalink: /liga/draft/uebersicht
 ---
 # Bärenliga 2026
 
