@@ -1,13 +1,13 @@
 ---
 layout: base
-title: Liga # title for navigation
+title: Bärenliga 2026 (Draft)
 permalink: /liga/draft/uebersicht
 ---
 # Bärenliga 2026
 
 ## Links
 - [Termine](#termine)
-- Frühere Ligen: [2024](/liga/2024), [2025](/liga/2025)
+- Frühere Ligen: [2024](/liga/draft/2024), [2025](/liga/draft/2025)
 
 
 ## Rangliste
@@ -76,7 +76,7 @@ Kosten werden noch bestimmt und bald kommuniziert.
 
 ## Preise
 Während der einzelnen Drafts gibts es keine Preise zu gewinnen.
-Der Sieger der [Gesamtwertung](/liga/2026/tabelle) erhält eine exklusive Spielmatte.
+Der Sieger der [Gesamtwertung](/liga/draft/2026/tabelle/) erhält eine exklusive Spielmatte.
 Zudem gibt es Sachpreise für die besten Spieler der Gesamtwertung.
 
 ## Termine
