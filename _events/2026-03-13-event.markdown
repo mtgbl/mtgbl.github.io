@@ -4,6 +4,7 @@ date: 2026-03-13 19:00:00
 title: "Teenage Mutant Ninja Turtles Draft / Commander Party"
 location: Spielweltenfabrik
 winner: Michael
+deck: https://moxfield.com/decks/m0pUqKrfgkeHXpBFbx13Kg
 players:
   draft: 6
   commander: 17
