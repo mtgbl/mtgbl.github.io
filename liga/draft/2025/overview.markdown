@@ -1,9 +1,9 @@
 ---
 layout: base
 title: Bärenliga 2025
-permalink: /liga/2025/
+permalink: /liga/draft/2025/
 ---
-
+→ [Übersicht](/liga/uebersicht)
 # Bärenliga 2025
 
 ![Liga-Gewinner 2025 Michael](/assets/photos/liga2025_winner.jpg)

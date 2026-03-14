@@ -1,9 +1,9 @@
 ---
 layout: base
 title: Bärenliga 2024
-permalink: /liga/2024/
+permalink: /liga/draft/2024/
 ---
-
+→ [Übersicht](/liga/uebersicht)
 # Bärenliga 2024
 
 ![Liga-Gewinner 2024 Marco](/assets/photos/liga2024_winner.jpg)
