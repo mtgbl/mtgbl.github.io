@@ -24,7 +24,7 @@ Aus den **rotierenden Achievements** werden für jeden der **6 Liga-Abende jewei
 Mit erfüllten Achievements können **Punkte gesammelt** werden.
 
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
-Das Punkteblatt muss **am Ende des Abends mit ausgefü¨llt abgegeben werden**.
+Das Punkteblatt muss **am Ende des Abends mit ausgefüllt abgegeben werden**.
 
 ## Fixe Achievements
 
