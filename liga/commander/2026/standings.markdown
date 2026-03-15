@@ -24,3 +24,51 @@ permalink: /liga/commander/2026/rangliste
 | 14 | Name             | 0     | -  | -  | -  | -  | -  | -  |
 | 15 | Name             | 0     | -  | -  | -  | -  | -  | -  |
 | 16 | Name             | 0     | -  | -  | -  | -  | -  | -  |
+
+## Ablauf der Liga
+
+• Zu Beginn der Liga werden die **Farbidentitäten ausgelost**.  
+(1-, 4- und 5-farbige Kombinationen werden nicht vergeben.)
+
+• Der **Eintrittspreis** für die Liga beträgt **40.–**.
+
+• Die Liga dauert **6 Monate**.  
+Pro Monat findet ein Liga-Abend statt. Die Termine sind auf der Webseite einsehbar.
+
+---
+
+### Deck & Vorbereitung
+
+• Jeder Spieler baut ein eigenes **Commander-Deck** innerhalb seiner ausgelosten Farbidentität.
+
+• Das Deck muss ein **Bracket-2-Deck** sein.
+
+• Vor und nach jedem Liga-Termin darf das Deck angepasst werden.  
+Dabei dürfen maximal **15 Karten** ausgetauscht werden. Auch der **Commander darf gewechselt werden**.
+
+---
+
+### Liga-Abende
+
+• An jedem Liga-Abend können durch **Gameplay, Kreativität und Achievements Punkte** gesammelt werden.
+
+• Pro Liga-Abend werden **25 Achievements** ausgewählt:
+  - 9 Deckbau-Achievements  
+  - 10 rotierende Gameplay-Achievements  
+  - 6 fixe Achievements
+
+• Nach jedem Liga-Termin wird die **Achievement-Liste für den nächsten Termin** veröffentlicht.  
+Anschliessend darf das Deck im Hinblick auf diese Achievements angepasst werden.
+
+---
+
+### Punkte & Rangliste
+
+• Die Punkte werden während des Abends **selbstständig auf einem Punkteblatt notiert**.
+
+• Das Punkteblatt muss **am Ende des Abends abgegeben werden**.
+
+• Die aktuelle **Achievement-Liste sowie die Rangliste** sind jederzeit auf der Webseite einsehbar.
+
+• Der Spieler mit den meisten Punkten **am Ende der Season gewinnt die Liga**.  
+(Ruhm und Ehre, flache Preisstruktur, jeder gewinnt etwas :) .)
