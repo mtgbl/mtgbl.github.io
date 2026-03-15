@@ -30,7 +30,7 @@ Das Punkteblatt muss **am Ende des Abends mit ausgefüllt abgegeben werden**.
 
 | Punkte | Titel                          | Beschreibung                           |
 |:------:|--------------------------------|----------------------------------------|
-|  +1    | Participation                  | Nimm an einem Liga-Match teil          |
+|   +1   | Participation                  | Nimm an einem Liga-Match teil          |
 |   +1   | Winner winner – chicken dinner | Gewinne das Match                      |
 |   +1   | Eliminate                      | Eliminiere einen Spieler               |
 |   +1   | I've seen this movie           | Als erster Spieler eliminiert werden   |
