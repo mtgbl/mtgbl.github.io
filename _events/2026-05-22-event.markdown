@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-05-22 19:00:00
-title: "Secrets of Strixhaven Draft / Commander"
+title: "Secrets of Strixhaven Draft / Commander-Liga / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -15,6 +15,10 @@ Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Commander-Liga
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2WN4JE](https://magic.wizards.com/en/products/companion-app?shortCode=V2WN4JE)** \
+Runde 2 der [Commander-Liga 2026](/liga/commander/uebersicht).
 
 ## Commander
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2WN4JE](https://magic.wizards.com/en/products/companion-app?shortCode=V2WN4JE)** \

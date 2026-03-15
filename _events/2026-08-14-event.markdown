@@ -1,7 +1,7 @@
 ---
 type: draft
-date: 2026-04-24 19:00:00
-title: "Secrets of Strixhaven Draft / Commander-Liga / Commander"
+date: 2026-08-14 19:00:00
+title: "The Hobbit Draft / Commander-Liga / Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -9,19 +9,19 @@ players:
 last_modified: 20260218T08595600Z
 num_of_changes: 1
 ---
-## Secrets of Strixhaven Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[862XNQE](https://magic.wizards.com/en/products/companion-app?shortCode=862XNQE)** \
-Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+## The Hobbit Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander-Liga
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[YEJZPM8](https://magic.wizards.com/en/products/companion-app?shortCode=YEJZPM8)** \
-Runde 1 der [Commander-Liga 2026](/liga/commander/uebersicht).
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
+Runde 3 der [Commander-Liga 2026](/liga/commander/uebersicht).
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[YEJZPM8](https://magic.wizards.com/en/products/companion-app?shortCode=YEJZPM8)** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 

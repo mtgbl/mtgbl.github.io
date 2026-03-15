@@ -11,7 +11,7 @@ num_of_changes: 2
 ---
 ## Bärenliga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
-Runde 8 der [Bärenliga 2026](/liga/uebersicht).  Anschliessend Preisverleihung. \
+Runde 8 der [Bärenliga 2026](/liga/draft/uebersicht). Anschliessend Preisverleihung. \
 Format: Booster-Draft, Set wird zufällig ausgelost (siehe [Liga-Regeln)](/liga/uebersicht#regeln)
 
 | Kosten               | Mitglieder | Nichtmitglieder |
