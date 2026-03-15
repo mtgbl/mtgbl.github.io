@@ -46,29 +46,22 @@ Pro Monat findet ein Liga-Abend statt. Die Termine sind auf der Webseite einsehb
 • Vor und nach jedem Liga-Termin darf das Deck angepasst werden.  
 Dabei dürfen maximal **15 Karten** ausgetauscht werden. Auch der **Commander darf gewechselt werden**.
 
----
-
-### Liga-Abende
-
-• An jedem Liga-Abend können durch **Gameplay, Kreativität und Achievements Punkte** gesammelt werden.
-
-• Pro Liga-Abend werden **25 Achievements** ausgewählt:
-  - 9 Deckbau-Achievements  
-  - 10 rotierende Gameplay-Achievements  
-  - 6 fixe Achievements
-
-• Nach jedem Liga-Termin wird die **Achievement-Liste für den nächsten Termin** veröffentlicht.  
-Anschliessend darf das Deck im Hinblick auf diese Achievements angepasst werden.
+• Alle Regeln findet ihr hier: [Regeln](/liga/commander/2026/regeln)
 
 ---
 
 ### Punkte & Rangliste
 
+• An jedem Liga-Abend können durch [Achievements](/liga/commander/2026/achievements)  Punkte gesammelt werden.
+
+• Nach jedem Liga-Termin wird die **Achievement-Liste für den nächsten Termin** veröffentlicht.  
+Anschliessend darf das Deck im Hinblick auf diese Achievements angepasst werden.
+
 • Die Punkte werden während des Abends **selbstständig auf einem Punkteblatt notiert**.
 
 • Das Punkteblatt muss **am Ende des Abends abgegeben werden**.
 
-• Die aktuelle **Achievement-Liste sowie die Rangliste** sind jederzeit auf der Webseite einsehbar.
+• Die aktuelle [Achievements](/liga/commander/2026/achievements)-Liste sowie die Rangliste sind jederzeit auf der Webseite einsehbar.
 
 • Der Spieler mit den meisten Punkten **am Ende der Season gewinnt die Liga**.  
 (Ruhm und Ehre, flache Preisstruktur, jeder gewinnt etwas :) .)
