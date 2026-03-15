@@ -22,6 +22,7 @@ permalink: /liga/commander/uebersicht
 ### Punkte & Rangliste
 - An jedem Liga-Abend können durch [Achievements](/liga/commander/2026/achievements) Punkte gesammelt werden.
 - Nach jedem Liga-Termin wird die Achievement-Liste für den nächsten Termin veröffentlicht. Anschliessend darf das Deck im Hinblick auf diese Achievements angepasst werden.
+- Es gibt ein Streichresultat pro Spieler.
 - Die Punkte werden während des Abends **selbstständig auf einem Punkteblatt notiert**.
 - Das Punkteblatt muss **am Ende des Abends abgegeben werden**.
 - Die aktuelle [Achievements](/liga/commander/2026/achievements)-Liste sowie die Rangliste sind jederzeit auf der Webseite einsehbar.
