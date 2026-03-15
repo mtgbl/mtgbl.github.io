@@ -65,3 +65,14 @@ Anschliessend darf das Deck im Hinblick auf diese Achievements angepasst werden.
 
 • Der Spieler mit den meisten Punkten **am Ende der Season gewinnt die Liga**.  
 (Ruhm und Ehre, flache Preisstruktur, jeder gewinnt etwas :) .)
+
+### Daten
+
+| # | Datum |
+|:-:|-------|
+| 1 | [24.04.2026](/event/2026-04-24-event) |
+| 2 | [22.05.2026](/event/2026-05-22-event) |
+| 3 | [26.06.2026](/event/2026-06-26-event) |
+| 4 | [14.08.2026](/event/2026-08-14-event) |
+| 5 | [11.09.2026](/event/2026-09-11-event) |
+| 6 | [16.10.2026](/event/2026-10-16-event) |
