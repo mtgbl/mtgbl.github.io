@@ -8,9 +8,9 @@ permalink: /liga/commander/2026/achievements
 
 Die Achievements sind in drei Kategorien aufgeteilt:
 
-- **Fixe Achievements** – Diese gelten an jedem Liga-Abend.
-- **Deckbau-Achievements** – Diese gelten ebenfalls an jedem Liga-Abend und müssen bereits beim Deckbau erfüllt werden.
-- **Rotierende Achievements** – Aus diesem Pool werden für jeden Liga-Abend zufällig Achievements ausgewählt.
+- **Fixe Achievements** ⇾ Diese gelten an jedem Liga-Abend.
+- **Deckbau-Achievements** ⇾ Diese gelten ebenfalls an jedem Liga-Abend und müssen bereits beim Deckbau erfüllt werden.
+- **Rotierende Achievements** ⇾ Aus diesem Pool werden für jeden Liga-Abend zufällig Achievements ausgewählt.
 
 Pro Liga-Abend gelten insgesamt **20 Achievements**:
 
