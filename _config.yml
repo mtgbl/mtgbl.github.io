@@ -87,7 +87,7 @@ defaults:
       type: "events"
     values:
       layout: "event"
-      permalink: /event/:path
+      permalink: /event/:name
   - scope:
       path: ""
       type: "locations"
