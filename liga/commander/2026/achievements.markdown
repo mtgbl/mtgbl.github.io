@@ -12,7 +12,7 @@ Die Achievements sind in drei Kategorien aufgeteilt:
 - **Deckbau-Achievements** ⇾ Diese gelten ebenfalls an jedem Liga-Abend und müssen bereits beim Deckbau erfüllt werden.
 - **Rotierende Achievements** ⇾ Aus diesem Pool werden für jeden Liga-Abend zufällig Achievements ausgewählt.
 
-Pro Liga-Abend gelten insgesamt **20 Achievements**:
+Pro Liga-Abend gelten insgesamt **25 Achievements**:
 
 - **6 fixe Achievements**
 - **9 Deckbau-Achievements**
