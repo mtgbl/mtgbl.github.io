@@ -26,6 +26,21 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
+## Rotierende Achievements 24.04.26
+
+|   Punkte   | Titel                          | Beschreibung                                                                                                            |
+|:----------:|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|     +1     | Third Times the Charm          | Den Commander zum dritten Mal casten                                                                                    |
+|     +1     | Figurehead                     | Beende das Spiel ohne deinen Commander zu wirken                                                                        |
+|     +2     | Necropotence                   | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren                                                             |
+|     +3     | Becoming the Archenemy         | Mehrere Spieler in einem Zug eliminieren                                                                                |
+|     +1     | It's Free Real Estate          | Mehr als 45 bleibende Karten gleichzeitig im Spiel haben                                                                |
+|     +2     | Close, but No Cigar            | Das Spiel mit genau 1 Leben gewinnen                                                                                    |
+|     +1     | The Sheriff is Near            | Eine Kreatur vor tödlichem Schaden bewahren                                                                             |
+|     +1     | Klepto                         | Eine bleibende Karte kontrollieren, die jedem Gegner gehört                                                             |
+|     +1     | First Blood                    | Als Erster einem Gegner Schaden zufügen                                                                                 |
+|     +1     | Flush                          | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen                                                                   |
+
 ## Fixe Achievements
 
 | Punkte | Titel                          | Beschreibung                           |
@@ -53,7 +68,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |   +7   | Evergreen      | Spiele über die gesamte Liga immer dasselbe Deck                                       |
 
 
-## Rotierende Achievements
+## Rotierende Achievements Komplett
 
 |   Punkte   | Titel                          | Beschreibung                                                                                                            |
 |:----------:|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
