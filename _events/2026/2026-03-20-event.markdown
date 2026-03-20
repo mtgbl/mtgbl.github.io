@@ -3,9 +3,11 @@ type: draft
 date: 2026-03-20 19:00:00
 title: "Bärenliga / Commander"
 location: Spielweltenfabrik
+winner: Nico
+deck: https://moxfield.com/decks/Sl7kQsFyiEW8sUbq_kGDbw
 players:
-  draft: 0
-  commander: 0
+  draft: 14
+  commander: 17
 last_modified: 20260315T19504700Z
 num_of_changes: 6
 ---
