@@ -37,7 +37,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |     +1     | It's Free Real Estate          | Mehr als 45 bleibende Karten gleichzeitig im Spiel haben                                                                |
 |     +2     | Close, but No Cigar            | Das Spiel mit genau 1 Leben gewinnen                                                                                    |
 |     +1     | The Sheriff is Near            | Eine Kreatur vor tödlichem Schaden bewahren                                                                             |
-|     +1     | Klepto                         | Eine bleibende Karte kontrollieren, die jedem Gegner gehört                                                             |
+|     +1     | Klepto                         | Von jedem Gegner eine bleibende Karte kontrollieren                                                                     |
 |     +1     | First Blood                    | Als Erster einem Gegner Schaden zufügen                                                                                 |
 |     +1     | Flush                          | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen                                                                   |
 
