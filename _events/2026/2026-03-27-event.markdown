@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20251112T23192900Z
-num_of_changes: 3
+last_modified: 20260321T01054800Z
+num_of_changes: 2
 ---
 ## Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2MN67D](https://magic.wizards.com/en/products/companion-app?shortCode=V2MN67D)** \

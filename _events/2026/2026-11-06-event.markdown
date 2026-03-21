@@ -6,7 +6,7 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260315T19490600Z
+last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
 ## Reality Fracture Draft

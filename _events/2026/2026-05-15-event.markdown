@@ -6,7 +6,7 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260218T08595600Z
+last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
 ## Secrets of Strixhaven Draft

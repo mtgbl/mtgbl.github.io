@@ -3,8 +3,8 @@ type: sealed
 date: 2026-09-25 19:00:00
 title: "Reality Fracture Prerelease"
 location: Spielweltenfabrik
-last_modified: 20251112T23192900Z
-num_of_changes: 2
+last_modified: 20260316T16290500Z
+num_of_changes: 1
 ---
 ## Reality Fracture Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
