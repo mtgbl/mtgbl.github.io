@@ -36,3 +36,5 @@ _OMW = Match-Win-% der Gegner, gegen die man gespielt hat (ohne Streichresultate
 _GW = eigene Game-Win-% (ohne Streichresultate)_\
 _OGW = Game-Win-% der Gegner, gegen die man gespielt hat_ (ohne Streichresultate)\
 _D1 bis D8 = Gewonnene Punkte in Drafts 1 bis 8_
+
+Die Tabelle wird automatisch berechnet. Rohdaten und Code sind in [unserem Repository öffentlich einsehbar](https://github.com/mtgbl/liga2026).
