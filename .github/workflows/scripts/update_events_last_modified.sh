@@ -2,7 +2,7 @@
 
 NOW=$(date +%s)
 
-for EVENT_PATH in _events/*.markdown; do
+for EVENT_PATH in _events/**/*.markdown; do
     if [ -f "$EVENT_PATH" ]; then
         FILE_DATE=$(basename ${EVENT_PATH} | cut -f -3 -d '-' | xargs date +%s -d)
 
