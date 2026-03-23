@@ -50,7 +50,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |   +1   | Eliminate                      | Eliminiere einen Spieler               |
 |   +1   | I've seen this movie           | Als erster Spieler eliminiert werden   |
 |   +1   | Hardcore Mode                  | Auf 5 oder weniger Karten mulliganen   |
-|   +2   | Alternative                    | Gewinne mit einer alternativen Win-Con |
+|   +2   | Alternative                    | Gewinne mit einer alternativen Win-Con. Als alternative Win-Cons zählen: Poison, Mill oder Karten mit dem Text „You win the game. (Commander Damage zählt nicht) |
 
 
 ## Deckbau-Achievements
