@@ -38,7 +38,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |     +2     | Close, but No Cigar            | Das Spiel mit genau 1 Leben gewinnen                                                                                    |
 |     +1     | The Sheriff is Near            | Eine Kreatur vor tödlichem Schaden bewahren                                                                             |
 |     +1     | Klepto                         | Von jedem Gegner eine bleibende Karte kontrollieren                                                                     |
-|     +1     | First Blood                    | Als Erster einem Gegner Schaden zufügen                                                                                 |
+|     +1     | First Blood                    | Als Erster einem Gegner Schaden zufügen (inkl. Loss of Life)                                                                                |
 |     +1     | Flush                          | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen                                                                   |
 
 ## Fixe Achievements
