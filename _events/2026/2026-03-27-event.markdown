@@ -3,9 +3,10 @@ type: draft
 date: 2026-03-27 19:00:00
 title: "Draft / Commander"
 location: Spielweltenfabrik
+winner: João
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 14
 last_modified: 20260321T01054800Z
 num_of_changes: 2
 ---
