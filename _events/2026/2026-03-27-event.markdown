@@ -1,9 +1,10 @@
 ---
 type: draft
 date: 2026-03-27 19:00:00
-title: "Draft / Commander"
+title: "Khans of Tarkir Draft / Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/zVRSvhY_t06V-zSL72So2Q
 players:
   draft: 6
   commander: 14
@@ -12,7 +13,7 @@ num_of_changes: 2
 ---
 ## Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V2MN67D](https://magic.wizards.com/en/products/companion-app?shortCode=V2MN67D)** \
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer.
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
