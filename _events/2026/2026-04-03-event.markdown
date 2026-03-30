@@ -23,7 +23,6 @@ Formate zum Ausprobieren:
 - [Jumpstart](https://mtg.wiki/page/Jumpstart)
 - [Battlebox](https://draftsim.com/battle-box-mtg/)
 - [Pauper](https://magic.wizards.com/de/formats/pauper)
-- [Momir Basic](https://magic.wizards.com/de/formats/momir-basic)
 
 Mitbringen: nichts; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte, eigene Formate
 
