@@ -1,0 +1,17 @@
+name: Lint
+on: [pull_request]
+jobs:
+  remark-lint:
+    name: runner / remark-lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: install remark presets
+        run: npm install remark-preset-lint-recommended
+        shell: bash
+      - name: remark-lint
+        uses: reviewdog/action-remark-lint@v5.18.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-check
+          fail_level: error
