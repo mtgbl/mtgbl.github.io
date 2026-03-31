@@ -7,7 +7,7 @@ last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
 ## The Hobbit Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
 Genauere Infos folgen noch.
 
 Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
@@ -16,7 +16,7 @@ Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[86XMMRR](https://magic.wizards.com/en/products/companion-app?shortCode=86XMMRR)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
