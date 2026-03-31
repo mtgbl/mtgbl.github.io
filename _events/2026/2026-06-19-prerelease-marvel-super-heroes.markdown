@@ -7,10 +7,10 @@ last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
 ## Marvel Super Heroes Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[4ZX82VJ](https://magic.wizards.com/en/products/companion-app?shortCode=4ZX82VJ)** \
 Genauere Infos folgen noch.
 
-Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
+Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
