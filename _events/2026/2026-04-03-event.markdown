@@ -5,8 +5,8 @@ title: "Magic Format Showcase / Commander Party"
 location: Spielweltenfabrik
 players:
   draft: 0
-  commander: 0
-  constructed: 0
+  commander: 10
+  constructed: 2
 last_modified: 20260330T08310800Z
 num_of_changes: 3
 ---
