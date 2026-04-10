@@ -33,8 +33,8 @@ permalink: /liga/commander/2026/rangliste
 | 23 | Chris             | BR |   0   | -  | -  | -  | -  | -  | -  |
 | 24 | Thomas             | BG |   0   | -  | -  | -  | -  | -  | -  |
 | 25 | Christophe             | WB |   0   | -  | -  | -  | -  | -  | -  |
-| 26 | Spieler             | - |   0   | -  | -  | -  | -  | -  | -  |
-| 27 | Spieler             | - |   0   | -  | -  | -  | -  | -  | -  |
+| 26 | Ruth             | UBR |   0   | -  | -  | -  | -  | -  | -  |
+| 27 | Jonathan             | WUG |   0   | -  | -  | -  | -  | -  | -  |
 | 28 | Spieler             | - |   0   | -  | -  | -  | -  | -  | -  |
 
 
