@@ -3,9 +3,10 @@ type: draft
 date: 2026-04-10 19:00:00
 title: "Bärenliga / Commander"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 13
+  commander: 16
 last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
