@@ -57,7 +57,7 @@ Die folgenden Termine sind noch provisorisch:
 |:-:|---------------------------------------|-------------------------------------------|
 | 1 | [13.02.2026](/event/2026-02-13-event) | 2x Hour of Devastation / Amonkhet         |
 | 2 | [20.03.2026](/event/2026-03-20-event) | Dragon's Maze/Gatecrash/Return to Ravnica |
-| 3 | [10.04.2026](/event/2026-04-10-event) | ?                                         |
+| 3 | [10.04.2026](/event/2026-04-10-event) | Theros Beyond Death                       |
 | 4 | [08.05.2026](/event/2026-05-08-event) | ?                                         |
 | 5 | [12.06.2026](/event/2026-06-12-event) | ?                                         |
 | 6 | [28.08.2026](/event/2026-08-28-event) | ?                                         |
@@ -76,7 +76,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
 | 4  | D&D: Adventures in the Forgotten Realms       | 2021    |
 | 5  | Kaldheim                                      | 2021    |
 | 6  | ~~2x Hour of Devastation / Amonkhet~~         | 2017    |
-| 7  | Theros Beyond Death                           | 2020    |
+| 7  | ~~Theros Beyond Death~~                       | 2020    |
 | 8  | Marvel's Spider-Man                           | 2025    |
 
 _~~durchgestrichen~~ = bereits gespielt und steht nicht mehr zur Wahl_
