@@ -3,6 +3,10 @@ type: sealed
 date: 2026-04-17 19:00:00
 title: "Secrets of Strixhaven Prerelease"
 location: Spielweltenfabrik
+winner: Fabian S.
+players:
+  draft: 26
+  commander: 6
 last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
