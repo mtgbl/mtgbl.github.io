@@ -4,6 +4,7 @@ date: 2026-04-17 19:00:00
 title: "Secrets of Strixhaven Prerelease"
 location: Spielweltenfabrik
 winner: Fabian S.
+deck: https://moxfield.com/decks/6JlZPaoZRkmZp5xXQ8kyFA
 players:
   draft: 26
   commander: 6
