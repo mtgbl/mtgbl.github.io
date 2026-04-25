@@ -37,7 +37,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |   +2   | Necropotence              | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren                          |
 |   +1   | I Am Timmy, Hear Me Roar  | Eine Kreatur mit 20+ Stärke kontrollieren                                            |
 |   +1   | Twenty-One                | Zwei Kreaturen kontrollieren, deren kombinierte Stärke genau 21 beträgt              |
-|   +2   | C-c-c-combooo             | Mit einer Combo aus 5 oder mehr Karten gewinnen                                      |
+|   +2   | C-c-c-combooo             | Mit einer Infinite-Combo aus 5 oder mehr Karten gewinnen                                      |
 |   +1   | Copycat                   | Als Erster den Zauberspruch oder die bleibende Karte eines anderen Spielers kopieren |
 |   +1   | Super Friends             | Drei Planeswalker kontrollieren                                                      |
 
