@@ -26,20 +26,20 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
-## Rotierende Achievements 24.04.26
+## Rotierende Achievements 22.05.26
 
-|   Punkte   | Titel                          | Beschreibung                                                                                                            |
-|:----------:|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-|     +1     | Third Times the Charm          | Den Commander zum dritten Mal casten                                                                                    |
-|     +1     | Figurehead                     | Beende das Spiel ohne deinen Commander zu wirken                                                                        |
-|     +2     | Necropotence                   | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren                                                             |
-|     +3     | Becoming the Archenemy         | Mehrere Spieler in einem Zug eliminieren                                                                                |
-|     +1     | It's Free Real Estate          | Mehr als 45 bleibende Karten gleichzeitig im Spiel haben                                                                |
-|     +2     | Close, but No Cigar            | Das Spiel mit genau 1 Leben gewinnen                                                                                    |
-|     +1     | The Sheriff is Near            | Eine Kreatur vor tödlichem Schaden bewahren                                                                             |
-|     +1     | Klepto                         | Von jedem Gegner eine bleibende Karte kontrollieren                                                                     |
-|     +1     | First Blood                    | Als Erster einem Gegner Schaden zufügen (inkl. Loss of Life)                                                                                |
-|     +1     | Flush                          | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen                                                                   |
+| Punkte | Titel                     | Beschreibung                                                                         |
+|:------:|---------------------------|--------------------------------------------------------------------------------------|
+|   +1   | He's Dead, Jim            | Als Erster eine Kreatur eines Gegners zerstören oder ins Exil schicken               |
+|   +1   | To Mount Doom             | Einen Sol Ring zerstören oder ins Exil schicken                                      |
+|   +1   | Donate                    | Kontrolle über eine Kreatur, die du besitzt, an einen Gegner abgeben                 |
+|   +1   | Cleave                    | Zwei Spieler in einem Zug eliminieren                                                |
+|   +2   | Necropotence              | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren                          |
+|   +1   | I Am Timmy, Hear Me Roar  | Eine Kreatur mit 20+ Stärke kontrollieren                                            |
+|   +1   | Twenty-One                | Zwei Kreaturen kontrollieren, deren kombinierte Stärke genau 21 beträgt              |
+|   +2   | C-c-c-combooo             | Mit einer Combo aus 5 oder mehr Karten gewinnen                                      |
+|   +1   | Copycat                   | Als Erster den Zauberspruch oder die bleibende Karte eines anderen Spielers kopieren |
+|   +1   | Super Friends             | Drei Planeswalker kontrollieren                                                      |
 
 ## Fixe Achievements
 
