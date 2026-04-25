@@ -28,3 +28,8 @@ permalink: /liga/commander/2026/regeln
 
 ### Organisation
 - Die Organisatoren behalten sich vor, **Regeln jederzeit zu ergänzen oder anzupassen**.
+
+## FAQ – Achievements
+- Das Achievement „Eliminiere einen Spieler" kann nur **1x pro Match** geholt werden.
+
+- Wenn mit einer Alt-Win-Con gewonnen wird, die „you-win-the-game" enthält (z.B. *Approach of the Second Sun*), wird kein Spieler eliminiert und das Achievement „Eliminate" gibt **keine Punkte**.
