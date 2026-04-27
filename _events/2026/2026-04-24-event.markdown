@@ -4,6 +4,7 @@ date: 2026-04-24 19:00:00
 title: "Secrets of Strixhaven Draft / Commander-Liga"
 location: Spielweltenfabrik
 winner: Nico B.
+deck: https://moxfield.com/decks/jTv-uOSp_UaTlZ1qBOK1vw
 players:
   draft: 14
   commander: 24
