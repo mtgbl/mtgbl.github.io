@@ -4,6 +4,7 @@ date: 2026-05-01 19:00:00
 title: "Secrets of Strixhaven Draft / Commander"
 location: Spielweltenfabrik
 winner: João
+deck: https://moxfield.com/decks/IwUkSqAI-kuco1tQ7gdmeg
 players:
   draft: 7
   commander: 8
