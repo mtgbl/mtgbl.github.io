@@ -4,6 +4,7 @@ date: 2026-05-08 19:00:00
 title: "Bärenliga / Commander"
 location: Spielweltenfabrik
 winner: Urs
+deck: https://moxfield.com/decks/krB0YFfkx0mF6bRdXOsHOg
 players:
   draft: 17
   commander: 11
