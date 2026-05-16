@@ -3,9 +3,11 @@ type: draft
 date: 2026-05-15 19:00:00
 title: "Secrets of Strixhaven Draft / Commander"
 location: Spielweltenfabrik
+winner: Nico
+deck: https://moxfield.com/decks/N3xuEhV7oEyMQm7Sdku79w
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 14
 last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
