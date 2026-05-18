@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-10-16 19:00:00
-title: "Reality Fracture Draft / Commander-Liga / Commander"
+title: "Reality Fracture Draft / Commander-Liga"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -19,11 +19,6 @@ Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, T
 ## Commander-Liga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
 Runde 5 der [Commander-Liga 2026](/liga/commander/uebersicht).
-
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
-Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
-Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
 
 ## Allgemein
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
