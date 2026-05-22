@@ -3,9 +3,11 @@ type: draft
 date: 2026-05-22 19:00:00
 title: "Secrets of Strixhaven Draft / Commander-Liga"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/ohoVGkCIo0uGj6TeSzWpBQ
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 23
 last_modified: 20260518T10273000Z
 num_of_changes: 2
 ---
