@@ -23,8 +23,9 @@ permalink: /liga/commander/2026/regeln
 ### Spielablauf
 - Die Spiele werden in **Pods mit 3 bis 5 Spielern** aufgeteilt, abhängig von der Teilnehmerzahl. Priorität: **4 > 3 > 5**.
 - Pro Liga-Abend werden **zwei Spiele** gespielt.
-- Spiele sind auf **120 Minuten** begrenzt. Das Zeitlimit kann während der Liga angepasst werden.
+- Spiele sind auf **105 Minuten** begrenzt. Das Zeitlimit kann während der Liga angepasst werden.
 - Wird das Zeitlimit erreicht, beendet der **aktive Spieler seinen Zug**, danach endet das Spiel in einem Draw.
+- Spieler, die eine Partie aufgeben (Concede) oder das Turnier verlassen (Drop), erhalten für diese Partie keine Punkte.
 
 ### Organisation
 - Die Organisatoren behalten sich vor, **Regeln jederzeit zu ergänzen oder anzupassen**.
