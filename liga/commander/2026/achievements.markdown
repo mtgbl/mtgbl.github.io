@@ -26,20 +26,20 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
-## Rotierende Achievements 22.05.26
+## Rotierende Achievements 14.08.26
 
-| Punkte | Titel                     | Beschreibung                                                                         |
-|:------:|---------------------------|--------------------------------------------------------------------------------------|
-|   +1   | He's Dead, Jim            | Als Erster eine Kreatur eines Gegners zerstören oder ins Exil schicken               |
-|   +1   | To Mount Doom             | Einen Sol Ring zerstören oder ins Exil schicken                                      |
-|   +1   | Donate                    | Kontrolle über eine Kreatur, die du besitzt, an einen Gegner abgeben                 |
-|   +1   | Cleave                    | Zwei Spieler in einem Zug eliminieren                                                |
-|   +2   | Necropotence              | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren                          |
-|   +1   | I Am Timmy, Hear Me Roar  | Eine Kreatur mit 20+ Stärke kontrollieren                                            |
-|   +1   | Twenty-One                | Zwei Kreaturen kontrollieren, deren kombinierte Stärke genau 21 beträgt              |
-|   +2   | C-c-c-combooo             | Mit einer Infinite-Combo aus 5 oder mehr Karten gewinnen                                      |
-|   +1   | Copycat                   | Als Erster den Zauberspruch oder die bleibende Karte eines anderen Spielers kopieren |
-|   +1   | Super Friends             | Drei Planeswalker kontrollieren                                                      |
+| Punkte     | Titel                  | Beschreibung                                                                    |
+|:----------:|------------------------|---------------------------------------------------------------------------------|
+| +1         | Klepto                 | Eine bleibende Karte kontrollieren, die jedem Gegner gehört                     |
+| +1         | I Brought Extras       | 10 Kreaturentokens kontrollieren                                                |
+| +1         | You're Not an Extra    | Einen anderen Spieler vor der Eliminierung bewahren                             |
+| +1         | Heroes of the Storm    | 4 Zaubersprüche in einem einzigen Zug casten                                    |
+| +1         | Resource Management    | Genau tödlichen Nicht-Commander-Schaden zufügen                                 |
+| +2         | Masse                  | Mit 20 Kreaturen angreifen                                                      |
+| +1         | Instant Death          | Einen Gegner während des Zuges eines anderen Gegners eliminieren                |
+| +1         | Equipped for Battle    | Eine Kreatur mit vier Ausrüstungen ausrüsten                                    |
+| +1         | Fateful Hour           | Einen Gegner eliminieren, während du 5 oder weniger Leben hast                  |
+| +1/Spieler | Commander Classic Win  | Einen Spieler mit 21 Commander-Schaden eliminieren                              |
 
 ## Fixe Achievements
 
@@ -82,7 +82,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 |     +1     | You're Not an Extra            | Einen anderen Spieler vor der Eliminierung bewahren                                                                     |
 |     +1     | Next in Line                   | Das niedrigste Leben haben (unter 10), wenn ein anderer Spieler eliminiert wird                                         |
 |   +2/+1    | It's Good to Be the King/Queen | Monarch werden (2 Punkte für den ersten Spieler, danach 1 Punkt)                                                        |
-|     +1     | He's Dead, Jim                 | Als Erster eine Kreatur eines Gegners zerstören oder verbannen                                                          |
+|     +1     | He's Dead, Jim                 | Als Erster eine Kreatur eines Gegners vom Spielfeld zerstören oder verbannen                                            |
 |     +1     | Drop the Hammer                | Einen Nicht-Commander-Zauberspruch mit Manawert 10 oder höher casten                                                    |
 |     +1     | Heroes of the Storm            | 4 Zaubersprüche in einem einzigen Zug casten                                                                            |
 |     +3     | Full House                     | Gleichzeitig einen Planeswalker, ein Artefakt, eine Kreatur, eine Verzauberung und ein Nicht-Standardland kontrollieren |
