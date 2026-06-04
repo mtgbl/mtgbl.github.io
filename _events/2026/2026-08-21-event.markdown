@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20260604T11012500Z
+num_of_changes: 1
 ---
 ## The Hobbit Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GX3NPXZ](https://magic.wizards.com/en/products/companion-app?shortCode=GX3NPXZ)** \

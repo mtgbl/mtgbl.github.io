@@ -3,8 +3,8 @@ type: sealed
 date: 2026-08-07 19:00:00
 title: "The Hobbit Prerelease"
 location: Spielweltenfabrik
-last_modified: 20260331T14040600Z
-num_of_changes: 2
+last_modified: 20260604T10364000Z
+num_of_changes: 3
 ---
 ## The Hobbit Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J27ZY4X](https://magic.wizards.com/en/products/companion-app?shortCode=J27ZY4X)** \

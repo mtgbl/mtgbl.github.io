@@ -3,6 +3,8 @@ type: other
 date: 2026-06-27 09:00:00
 title: "Summer Magic - Samstag"
 location: Spielweltenfabrik
+last_modified: 20260604T10302700Z
+num_of_changes: 1
 ---
 
 ## Events am Samstag
