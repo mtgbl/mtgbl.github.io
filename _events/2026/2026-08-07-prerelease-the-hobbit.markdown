@@ -7,10 +7,8 @@ last_modified: 20260331T14040600Z
 num_of_changes: 2
 ---
 ## The Hobbit Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
-Genauere Infos folgen noch.
-
-Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J27ZY4X](https://magic.wizards.com/en/products/companion-app?shortCode=J27ZY4X)** \
+Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
