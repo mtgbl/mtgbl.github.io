@@ -23,7 +23,8 @@ Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, T
 
 ## Magic: Presents Pride Commander Night
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[W2E32EG](https://magic.wizards.com/en/products/companion-app?shortCode=W2E32EG)** \
-Spezialregel: Alle Commander haben "Partner". Dies erlaubt Commander-Kombinationen, die sonst nicht möglich sind. \
+Für dieses Event haben alle Commander die Schlüsselwortfähigkeit Partner, sodass Spielende einem Lieblingsdeck einen zweiten Commander hinzufügen oder ein neues Deck mit zwei Commandern zusammenstellen können, selbst wenn diese keine Farben gemeinsam haben. \
+Die Farbidentität des Decks beinhaltet die Farbidentität beider Commander. Die zwei Commander beginnen in der Kommandozone und können von dort aus normal gewirkt werden. \
 Teilnehmer erhalten eine "Gilded Lotus"-Promo, solange der Vorrat reicht. \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
