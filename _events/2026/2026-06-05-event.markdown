@@ -3,9 +3,13 @@ type: draft
 date: 2026-06-05 19:00:00
 title: "Secrets of Strixhaven Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Florian, Désirée
+deck:
+  - https://moxfield.com/decks/0Gs3IOuBaECYHt2hK4JNBQ
+  - https://moxfield.com/decks/xTQSN65uxUCYVPFXJgot4A
 players:
-  draft: 0
-  commander: 0
+  draft: 12
+  commander: 13
 last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
