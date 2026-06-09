@@ -4,6 +4,7 @@ title: Bärenliga 2024
 permalink: /liga/draft/2024/
 redirect_from:
   - /liga/2024
+  - /liga/2024/
 ---
 → [Übersicht](/liga/uebersicht)
 # Bärenliga 2024
