@@ -59,7 +59,7 @@ Die folgenden Termine sind noch provisorisch:
 | 2 | [20.03.2026](/event/2026-03-20-event) | Dragon's Maze/Gatecrash/Return to Ravnica |
 | 3 | [10.04.2026](/event/2026-04-10-event) | Theros Beyond Death                       |
 | 4 | [08.05.2026](/event/2026-05-08-event) | Marvel's Spider-Man                       |
-| 5 | [12.06.2026](/event/2026-06-12-event) | ?                                         |
+| 5 | [12.06.2026](/event/2026-06-12-event) | Chaos-Draft                               |
 | 6 | [28.08.2026](/event/2026-08-28-event) | ?                                         |
 | 7 | [18.09.2026](/event/2026-09-18-event) | ?                                         |
 | 8 | [23.10.2026](/event/2026-10-23-event) | ?                                         |
@@ -70,7 +70,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
 
 | #  | Set                                           | Release |
 |:--:|-----------------------------------------------|---------|
-| 1  | Chaos-Draft                                   | -       |
+| 1  | ~~Chaos-Draft~~                               | -       |
 | 2  | ~~Dragon's Maze/Gatecrash/Return to Ravnica~~ | 2012/13 |
 | 3  | Modern Horizons 1                             | 2019    |
 | 4  | D&D: Adventures in the Forgotten Realms       | 2021    |
