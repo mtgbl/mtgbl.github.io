@@ -3,11 +3,10 @@ type: draft
 date: 2026-06-12 19:00:00
 title: "Bärenliga / Pride Commander"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
-last_modified: 20260606T00090800Z
-num_of_changes: 2
+  draft: 16
+  commander: 12
 ---
 ## Bärenliga
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[3J7X5QM](https://magic.wizards.com/en/products/companion-app?shortCode=3J7X5QM)** \
