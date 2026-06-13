@@ -4,6 +4,7 @@ date: 2026-06-12 19:00:00
 title: "Bärenliga / Pride Commander"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/DwuPffJ3I0eslIkIHOXTPw
 players:
   draft: 16
   commander: 12
