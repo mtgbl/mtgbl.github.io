@@ -16,10 +16,22 @@ Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J27ZYGY](https://magic.wizards.com/en/products/companion-app?shortCode=J27ZYGY)** \
+## Commander (Magic Presents: Herz des Berges)
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J277GX4](https://magic.wizards.com/en/products/companion-app?shortCode=J277GX4)** \
+Magic Presents: Herz des Berges ist ein Casual-Commander-Event, bei dem Spielende gegeneinander um die Kontrolle über das Herz des Berges, den legendären Arkenstein, kämpfen. \
+Wer als Erstes jemand anderem Kampfschaden zufügt, gelangt als Erster in den Besitz des Arkensteins. \
+Spielende können das Arkenstein-Emblem für sich beanspruchen, indem sie der Person, die ihn besitzt, Kampfschaden zufügen, und erhalten Boni, solange sie ihn besitzen – allerdings werden sie dann auch zum Hauptziel am Tisch! \
+In jedem Zug, in dem jemand den Arkenstein kontrolliert, wird der Besitz-Zählerstand der betreffenden Person um eins erhöht (und dieser Zählerstand geht nicht verloren, wenn ihr jemand den Arkenstein abnimmt). Falls der Besitz-Zählerstand einer spielenden Person drei erreicht, gewinnt diese die Partie.
+
+Spielende erhalten eine Promokarte für die Teilnahme, solange der Vorrat reicht. \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+
+# An Unexpected Crafting Party (Bastelabend)
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[8633VXQ](https://magic.wizards.com/en/products/companion-app?shortCode=8633VXQ)** \
+Eine unerwartete Bastelgruppe lädt Spielende zu etwas in Ihren Store ein, das etwas anders ist: zu einem lockeren, kreativen, von Der Hobbit™ inspirierten Erlebnis in Ihrem Store. \
+Die Teilnehmenden können sich mit Rätselblättern in zwergischer Sprache, Einlagen zum Ausmalen mit Smaug-Thema, die perfekt in einen Toploader passen, Aufklebern mit Der Hobbit™ Thema und sammelbaren Schatz-Spielsteinen vergnügen. \
+Mehr Infos [hier](https://wpn.wizards.com/de/event/an-unexpected-crafting-party-the-hobbit).
 
 ## Allgemein
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
