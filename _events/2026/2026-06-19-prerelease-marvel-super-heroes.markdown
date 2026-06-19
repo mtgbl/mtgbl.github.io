@@ -3,6 +3,11 @@ type: sealed
 date: 2026-06-19 19:00:00
 title: "Marvel Super Heroes Prerelease"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/tql0SWyL4UKAu-52uLt8OQ
+players:
+  draft: 10
+  commander: 13
 last_modified: 20260613T00565200Z
 num_of_changes: 3
 ---
