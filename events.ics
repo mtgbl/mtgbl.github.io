@@ -43,7 +43,11 @@ LOCATION:{{ oneline_address }}
 SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
 CLASS:PUBLIC
 DTSTART;TZID=Europe/Liestal:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+{% if event.end_date -%}
+DTEND;TZID=Europe/Liestal:{% assign end_hour = event.end_date | date: "%H" %}{{ event.end_date | date: "%Y%m%dT" }}{{ end_hour }}{{ event.end_date | date: "%M%S" }}
+{%- else -%}
 DTEND;TZID=Europe/Liestal:{% assign end_hour = event.date | date: "%H" | plus: 3 %}{{ event.date | date: "%Y%m%dT" }}{{ end_hour }}{{ event.date | date: "%M%S" }}
+{%- endif %}
 DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
 URL:{{ site.url }}{{ event.url }}
 END:VEVENT{% endfor %}
