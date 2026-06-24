@@ -4,8 +4,8 @@ date: 2026-06-28 09:00:00
 end_date: 2026-06-28 18:30:00
 title: "Summer Magic - Sonntag"
 location: Spielweltenfabrik
-last_modified: 20260604T10302700Z
-num_of_changes: 1
+last_modified: 20260624T13313500Z
+num_of_changes: 2
 ---
 
 ## Events am Sonntag
