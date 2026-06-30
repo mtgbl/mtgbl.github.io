@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260331T14040600Z
-num_of_changes: 1
+last_modified: 20260630T08161400Z
+num_of_changes: 2
 ---
 ## Ausfall
 Die Veranstaltung fällt leider aus.
