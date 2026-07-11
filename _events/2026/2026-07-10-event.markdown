@@ -4,6 +4,7 @@ date: 2026-07-10 19:00:00
 title: "Marvel Super Heroes Draft / Commander"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/bdNJV7uWckW1-aEGgPKZEA
 players:
   draft: 9
   commander: 19
