@@ -3,11 +3,14 @@ type: sealed
 date: 2026-11-13 19:00:00
 title: "Star Trek Prerelease"
 location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
 last_modified: 20260316T16290500Z
 num_of_changes: 1
 ---
 ## Star Trek Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **??????** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \
 Genauere Infos folgen noch.
 
 Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
