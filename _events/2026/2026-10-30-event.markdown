@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-10-30 19:00:00
-title: "Reality Fracture Draft / 2HG Commander"
+title: "All Leylines' Eve Draft / Halloween Commander"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -9,14 +9,16 @@ players:
 last_modified: 20260720T16250400Z
 num_of_changes: 1
 ---
-## Reality Fracture Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[ZQXXRYE](https://magic.wizards.com/en/products/companion-app?shortCode=ZQXXRYE)** \
+## Magic Presents: All Leylines' Eve Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[7GQQD37](https://magic.wizards.com/en/products/companion-app?shortCode=7GQQD37)** \
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Regulärer Reality Fracture Draft mit folgendem Zusatz: \
+Jeder Spieler beginnt das Spiel mit Leyline of Anticipation bereits im Spiel. Alle Spieler erhalten eine Leyline of Anticipation Promokarte (sofern rechtzeitig da...) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
+## Halloween Commander
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V266M3W](https://magic.wizards.com/en/products/companion-app?shortCode=V266M3W)** \
 Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
 Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
