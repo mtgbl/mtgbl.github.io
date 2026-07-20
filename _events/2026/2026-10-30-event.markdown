@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260720T16250400Z
-num_of_changes: 1
+last_modified: 20260720T16561000Z
+num_of_changes: 2
 ---
 ## Magic Presents: All Leylines' Eve Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[7GQQD37](https://magic.wizards.com/en/products/companion-app?shortCode=7GQQD37)** \
