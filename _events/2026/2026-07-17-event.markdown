@@ -1,11 +1,13 @@
 ---
 type: draft
 date: 2026-07-17 19:00:00
-title: "Marvel Super Heroes Draft / Commander"
+title: "Marvel Super Heroes Sealed / Commander"
 location: Spielweltenfabrik
+winner: Doménique
+deck: https://moxfield.com/decks/mCrzW4yxXUKdRD8t__UYNg
 players:
-  draft: 0
-  commander: 0
+  draft: 5
+  commander: 20
 last_modified: 20260401T23102400Z
 num_of_changes: 2
 ---
