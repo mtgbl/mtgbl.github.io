@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20260720T16332300Z
+num_of_changes: 1
 ---
 ## Nauctis: The Sunken Realm Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \
