@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260518T10273000Z
-num_of_changes: 2
+last_modified: 20260720T16250400Z
+num_of_changes: 3
 ---
 ## Magic Presents: Reality Echoes Draft
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V266MME](https://magic.wizards.com/en/products/companion-app?shortCode=V266MME)** \
