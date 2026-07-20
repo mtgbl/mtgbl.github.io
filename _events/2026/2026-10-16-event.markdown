@@ -1,7 +1,7 @@
 ---
 type: draft
 date: 2026-10-16 19:00:00
-title: "Reality Fracture Draft / Commander-Liga"
+title: "Reality Echoes Draft / Commander-Liga"
 location: Spielweltenfabrik
 players:
   draft: 0
@@ -9,15 +9,26 @@ players:
 last_modified: 20260518T10273000Z
 num_of_changes: 2
 ---
-## Reality Fracture Draft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
+## Magic Presents: Reality Echoes Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[V266MME](https://magic.wizards.com/en/products/companion-app?shortCode=V266MME)** \
 Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
-Pro Spieler geht ein Booster in den Preispool. \
+Pro Spieler geht ein Booster in den Preispool. ZUsätzlich gibt es spezielle Pins zu gewinnen (falls rechtzeitig geliefert) \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
+Pick-2-Draft mit Reality Fracture Play Booster mit folgenden [zusätzlichen Regeln:](https://wpn.wizards.com/de/event/magic-presents-reality-echoes)
+
+- Bevor jede Partie beginnt, können Spielende zwei verschiedene Karten vorzeigen, die sie gedraftet haben und die zu einem Echo-Paar gehören. Diese Karten beginnen die Partie im Exil. Spielende können während der Partie eine jener Karten wirken, als ob sie auf ihrer Hand wären; wenn sie dies tun, können sie die andere in ihre Bibliothek mischen. Spielende beginnen jede Partie mit nur genau einem Echo-Paar im Exil.
+
+Erläuterungen:
+- Jeder Zersplitterte Realität Play-Booster enthält drei Karten vom Echo-Paar-Bonusblatt: Zwei, die ein Echo-Paar bilden, und eine ungepaarte legendäre Karte. Spielende, die die ungepaarte Karte aus einem Booster draften, können die passende Karte immer noch in anderen Boostern im Draft finden und so ein gültiges Echo-Paar bilden.
+- Die Spielenden sind nicht verpflichtet, ein Echo-Paar zu draften; sie können beide Karten eines Paars in einem Booster weitergeben, falls sie stattdessen lieber zwei andere Karten nehmen oder einfach auf ein besseres Paar warten wollen.
+- Spielende können während eines Drafts mehrere Paare draften (auch, indem sie ungepaarte legendäre Karten draften und deren Echo-Paar-Partner in einem anderen Booster finden). Falls Spielende mehr als ein vollständiges Echo-Paar erhalten, bestimmen sie ein Echo-Paar als das ins Exil geschickte Paar, bevor die Partie beginnt.
+- Zwei Exemplare derselben legendären Karte ergeben kein Echo-Paar. Das Paar muss aus den zwei _unterschiedlichen_ Karten bestehen, die Teil eines bestimmten Echo-Paars vom Bonusblatt sind.
+- Spielende, die kein komplettes Paar erhalten, können trotzdem ganz normal spielen – sie haben nur keinen Zugriff auf die Echo-Paar-Mechanik. Dies sollte nicht allzu häufig vorkommen, kann aber passieren, falls Spielende in der Farbenwahl unflexibel sind und kein passendes Paar in diesen Farben finden oder falls sie Paare in den ersten Boostern weitergeben, weil sie hoffen, in Booster drei ein besseres zu finden.
+
 ## Commander-Liga
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XXXXXXX](https://magic.wizards.com/en/products/companion-app?shortCode=XXXXXXX)** \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[65QQNVR](https://magic.wizards.com/en/products/companion-app?shortCode=65QQNVR)** \
 Runde 5 der [Commander-Liga 2026](/liga/commander/uebersicht).
 
 ## Allgemein
