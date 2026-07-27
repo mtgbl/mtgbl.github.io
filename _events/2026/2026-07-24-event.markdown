@@ -3,9 +3,11 @@ type: draft
 date: 2026-07-24 19:00:00
 title: "Marvel Super Heroes Draft / Commander"
 location: Spielweltenfabrik
+winner: Nico
+deck: https://moxfield.com/decks/Xnz7U45Ml0eO8kpcWE5VxA
 players:
-  draft: 0
-  commander: 0
+  draft: 5
+  commander: 11
 last_modified: 20260331T14040600Z
 num_of_changes: 1
 ---
