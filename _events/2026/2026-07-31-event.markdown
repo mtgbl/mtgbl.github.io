@@ -3,9 +3,10 @@ type: draft
 date: 2026-07-31 19:00:00
 title: "Marvel Super Heroes Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 12
+  commander: 20
 last_modified: 20260713T13301800Z
 num_of_changes: 2
 ---
