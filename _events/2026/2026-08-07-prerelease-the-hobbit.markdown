@@ -9,6 +9,7 @@ num_of_changes: 5
 ## The Hobbit Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[J27ZY4X](https://magic.wizards.com/en/products/companion-app?shortCode=J27ZY4X)** \
 Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
+Prerelease-Packs sind nur auf Deutsch erhältlich. \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
@@ -16,6 +17,7 @@ Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, T
 ## The Hobbit Prerelease (für Anfänger)
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[XQ6N837](https://magic.wizards.com/en/products/companion-app?shortCode=XQ6N837)** \
 Kosten: 40.- (Mitglieder), 45.- (Nichtmitglieder) \
+Prerelease-Packs sind nur auf Deutsch erhältlich. \
 Maximal 12 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
