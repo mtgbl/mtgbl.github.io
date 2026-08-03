@@ -20,6 +20,9 @@ Maximal 12 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
+## Commander
+Aus Platzgründen fällt Commander diese Woche aus.
+
 ## Allgemein
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
 Es können vor Ort Getränke gekauft werden.
