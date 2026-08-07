@@ -3,6 +3,11 @@ type: sealed
 date: 2026-08-07 19:00:00
 title: "The Hobbit Prerelease"
 location: Spielweltenfabrik
+winner: Florian, Alp
+deck: https://moxfield.com/decks/aKCRyM4TdkiGLS805tFvkQ
+players:
+  draft: 33
+  commander: 0
 last_modified: 20260803T14282800Z
 num_of_changes: 6
 ---
