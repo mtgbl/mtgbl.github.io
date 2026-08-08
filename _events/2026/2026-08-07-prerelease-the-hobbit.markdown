@@ -4,7 +4,9 @@ date: 2026-08-07 19:00:00
 title: "The Hobbit Prerelease"
 location: Spielweltenfabrik
 winner: Florian, Alp
-deck: https://moxfield.com/decks/aKCRyM4TdkiGLS805tFvkQ
+deck:
+  - https://moxfield.com/decks/aKCRyM4TdkiGLS805tFvkQ
+  - https://moxfield.com/decks/iFKC94lOtE-ReRyMKt3wcg
 players:
   draft: 33
   commander: 0
