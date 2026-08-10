@@ -1,0 +1,29 @@
+---
+type: other
+date: 2026-11-08 14:00:00
+title: "Generalversammlung 2026"
+location: to be defined
+players:
+  draft: 0
+  commander: 0
+  constructed: 0
+---
+Bitte Termin vormerken: \
+Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **14.00 Uhr** in einem noch zu definierenden Ort in Liestal statt.tbd
+
+Mehr Details folgen noch.
+
+### Provisorisches Programm
+
+1. Begrüssung
+2. Protokoll 2025
+3. Jahresrückblick
+4. Finanzen
+5. Mutationen
+6. Mitgliederanträge
+7. Diverses
+8. Überraschungsturnier (~15:30)
+
+### Mitgliederanträge
+
+Bitte Mitgliederanträge frühzeitig beim Vorstand einreichen.

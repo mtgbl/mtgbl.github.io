@@ -11,7 +11,7 @@ layout: base
 {% endif %}
 
 {% assign location = site.locations | where: "name", page.location | first %}
-{% if location %}
+{% if location and location.address %}
     <p>
     <h2>Veranstaltungsort</h2>
     {% include location.html location = location %}
