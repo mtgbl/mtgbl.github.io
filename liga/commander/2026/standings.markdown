@@ -36,6 +36,6 @@ permalink: /liga/commander/2026/rangliste
 | 25 | Jonathan         | WUG |   5   |  - |  5 |  - |  - |  - |  - |
 | 26 | Chris            | BR  |   4   |  4 |  - |  - |  - |  - |  - |
 | 27 | David            | UR  |   0   |  - |  - |  - |  - |  - |  - |
-| 28 | Spieler          |  -  |   0   |  - |  - |  - |  - |  - |  - |
+| 28 | Joshua           |  -  |   0   |  - |  - |  - |  - |  - |  - |
 
 _F = Dem Spieler zugewiesene Farbidentität (W = Weiss, U = Blau, B = Schwarz, R = Rot, G = Grün)_
