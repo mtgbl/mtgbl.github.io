@@ -3,9 +3,11 @@ type: draft
 date: 2026-08-14 19:00:00
 title: "The Hobbit Draft / Commander-Liga"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/zyitdrnj_USziIKNIcmK5Q
 players:
-  draft: 0
-  commander: 0
+  draft: 13
+  commander: 22
 last_modified: 20260604T11012500Z
 num_of_changes: 3
 ---
