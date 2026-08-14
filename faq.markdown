@@ -49,17 +49,16 @@ Hier findest du die dazu nötigen Runden:
 | ≤ 32    | 5      |
 
 Manchmal einigen wir uns auch auf weniger Runden, da es schnell einmal spät werden kann.
-Das trifft oft dann ein, wenn bei trotz mehr als 8 Spielern schon nach 3 Runden ein Spieler alleine alle bisherigen Runden gewonnen hat.
+Das trifft oft dann ein, wenn bei mehr als 8 Spielern schon nach 3 Runden ein Spieler alleine alle bisherigen Runden gewonnen hat.
 
 ---
 
 ## Was hat es mit dem Companion-Code auf sich?
 Unsere Turniere sind offizielle Events und werden deshalb in der [Companion-App](https://magic.wizards.com/de/products/companion-app) erfasst.
-Wenn regelmässig viele Leute an unseren Turnieren teilnehmen, bekommt unser Verein mehr Unterstützung und kann Turniere wie Prereleases anbieten.
 
 Um den Code einzugeben, öffne deine Companion-App und wähle "Spielen". Dort findest du die Option "Event-Code eingeben".
 
-Diese App verwendet denselben Account wie ["Magic Arena"](https://magic.wizards.com/de/mtgarena). Ab un zu gibt es Belohnungen in Arena, wenn man ich "echten" Turnieren teilnimmt.
+Diese App verwendet denselben Account wie ["Magic Arena"](https://magic.wizards.com/de/mtgarena). Ab und zu gibt es Belohnungen in Arena, wenn man ich "echten" Turnieren teilnimmt.
 
 ---
 
