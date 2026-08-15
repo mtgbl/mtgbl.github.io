@@ -7,7 +7,7 @@ winner: Michael
 deck: https://moxfield.com/decks/zyitdrnj_USziIKNIcmK5Q
 players:
   draft: 13
-  commander: 22
+  commander: 23
 last_modified: 20260604T11012500Z
 num_of_changes: 3
 ---
