@@ -39,6 +39,7 @@ Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 | +2 | Crumbling Sanctuary | Als erster Spieler 10 oder weniger Karten in seiner Bibliothek haben |
 | +1 | Instant Death | Einen Gegner während des Zuges eines anderen Gegners eliminieren |
 | +1 | Sharing is caring | Einen Gegner mit einem einzigen Zauberspruch oder einer Fähigkeit 3 oder mehr Karten ziehen lassen |
+| +1 | Cleave | Zwei Spieler in einem Zug eliminieren |
 
 ## Fixe Achievements
 
