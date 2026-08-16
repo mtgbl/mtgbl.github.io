@@ -1,11 +1,14 @@
 # Global
-*               @pfirpfel @j3mdamas
+*                  @pfirpfel @j3mdamas
 
 # Neuigkeiten
-_posts/*        @pfirpfel
+_posts/*           @pfirpfel
 
 # Standorte
-_locations*     @pfirpfel
+_locations*        @pfirpfel
 
 # Events
-_events*        @pfirpfel @j3mdamas @streebiii
+_events*           @pfirpfel @j3mdamas @streebiii
+
+# Commander Liga
+liga/commander/*   @pfirpfel @streebiii
