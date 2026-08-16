@@ -26,20 +26,19 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
-## Rotierende Achievements 14.08.26
+## Rotierende Achievements 11.09.26
 
 | Punkte     | Titel                  | Beschreibung                                                                    |
 |:----------:|------------------------|---------------------------------------------------------------------------------|
-| +1         | Klepto                 | Eine bleibende Karte kontrollieren, die jedem Gegner gehört                     |
-| +1         | I Brought Extras       | 10 Kreaturentokens kontrollieren                                                |
-| +1         | You're Not an Extra    | Einen anderen Spieler vor der Eliminierung bewahren                             |
-| +1         | Heroes of the Storm    | 4 Zaubersprüche in einem einzigen Zug casten                                    |
-| +1         | Resource Management    | Genau tödlichen Nicht-Commander-Schaden zufügen                                 |
-| +2         | Masse                  | Mit 20 Kreaturen angreifen                                                      |
-| +1         | Instant Death          | Einen Gegner während des Zuges eines anderen Gegners eliminieren                |
-| +1         | Equipped for Battle    | Eine Kreatur mit vier Ausrüstungen ausrüsten                                    |
-| +1         | Fateful Hour           | Einen Gegner eliminieren, während du 5 oder weniger Leben hast                  |
-| +1/Spieler | Commander Classic Win  | Einen Spieler mit 21 Commander-Schaden eliminieren                              |
+| +1 | Flush | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen |
+| +1 | Sorcerer Supreme | Fünf Verzauberungen kontrollieren |
+| +2 | Copy Paste | 5 permanente Karten in einem Spiel kopieren |
+| +2 | C-c-c-combooo | Mit einer Combo aus 5 oder mehr Karten gewinnen |
+| +1 | Endurance | 60 oder mehr Leben haben |
+| +1 | Level Up! | Eine Kreatur auf ihre letzte Stufe bringen |
+| +2 | Crumbling Sanctuary | Als erster Spieler 10 oder weniger Karten in seiner Bibliothek haben |
+| +1 | Instant Death | Einen Gegner während des Zuges eines anderen Gegners eliminieren |
+| +1 | Sharing is caring | Einen Gegner mit einem einzigen Zauberspruch oder einer Fähigkeit 3 oder mehr Karten ziehen lassen |
 
 ## Fixe Achievements
 
