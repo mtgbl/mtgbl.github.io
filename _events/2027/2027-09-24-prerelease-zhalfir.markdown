@@ -18,10 +18,14 @@ Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-## Commander
+## Zhalfir Prerelease (für Anfänger)
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \
-Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
-Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
+Gespielt werden 4 Runden. \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Commander
+Aus Platzgründen fällt Commander diese Woche aus.
 
 ## Allgemein
 Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
