@@ -8,8 +8,8 @@ players:
   commander: 0
 ---
 ## Weihnachtsdraft
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[???????](https://magic.wizards.com/en/products/companion-app?shortCode=???????)** \
-Kosten: ??.- (Mitglieder), ??.- (Nichtmitglieder) \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GX663Q5](https://magic.wizards.com/en/products/companion-app?shortCode=GX663Q5)** \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
 Format: Chaosdraft \
 Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
 Pro Spieler geht ein Booster in den Preispool. \
