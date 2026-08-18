@@ -37,4 +37,4 @@ permalink: /liga/commander/uebersicht
 | 3 | [14.08.2026](/event/2026-08-14-event) |
 | 4 | [11.09.2026](/event/2026-09-11-event) |
 | 5 | [16.10.2026](/event/2026-10-16-event) |
-| 6 | [13.11.2026](/event/2026-11-13-event) |
+| 6 | [06.11.2026](/event/2026-11-06-event) |

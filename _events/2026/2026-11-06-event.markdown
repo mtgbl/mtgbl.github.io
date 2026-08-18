@@ -1,5 +1,5 @@
 ---
-type: cancelled
+type: draft
 date: 2026-11-06 19:00:00
 title: "Reality Fracture Draft / Commander-Liga-Finale"
 location: Spielweltenfabrik
@@ -9,6 +9,17 @@ players:
 last_modified: 20260720T16250400Z
 num_of_changes: 3
 ---
-Stattdessen: [Star Trek Prerelease](/event/2026-11-06-prerelease-star-trek)
+## Reality Fracture Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[RZGGER2](https://magic.wizards.com/en/products/companion-app?shortCode=RZGGER2)** \
+Kosten: 20.- (Mitglieder), 25.- (Nichtmitglieder) \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
+Pro Spieler geht ein Booster in den Preispool. \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
-Commander-Liga-Finale um eine Woche verschoben: [Neuer Termin](/event/2026-11-13-event)
+## Commander-Liga-Finale
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[5644VGG](https://magic.wizards.com/en/products/companion-app?shortCode=5644VGG)** \
+Runde 6 der [Commander-Liga 2026](/liga/commander/uebersicht). Anschliessend Preisverleihung.
+
+## Allgemein
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Es können vor Ort Getränke gekauft werden.
