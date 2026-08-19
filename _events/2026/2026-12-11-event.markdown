@@ -1,0 +1,30 @@
+---
+type: draft
+date: 2026-12-11 19:00:00
+title: "Bärenfinale / Draft / Commander"
+location: Spielweltenfabrik
+players:
+  draft: 0
+  commander: 0
+---
+## Bärenfinale
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[EZJJVMP](https://magic.wizards.com/en/products/companion-app?shortCode=EZJJVMP)** \
+Format: Draft \
+Qualifiziert sind alle [Bären und Bärinnen aus dem Jahr 2026](/stats/baer/). \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Star Trek Draft
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[PP88W62](https://magic.wizards.com/en/products/companion-app?shortCode=PP88W62)** \
+Kosten: 25.- (Mitglieder), 30.- (Nichtmitglieder) \
+Gespielt werden 3-4 Runden, abhängig von der Anzahl Teilnehmer. \
+Pro Spieler geht ein Booster in den Preispool. \
+Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
+
+## Commander
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[NMNNZJ4](https://magic.wizards.com/en/products/companion-app?shortCode=NMNNZJ4)** \
+Kosten: gratis für Mitglieder, 3.- Fr Startgeld für Nichtmitglieder \
+Mitbringen: Commander-Decks; optional: etwas zum Lebenspunkte notieren, Würfel, Tokens, Spielmatte
+
+## Allgemein
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Es können vor Ort Getränke gekauft werden.
