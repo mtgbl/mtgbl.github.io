@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260720T16273000Z
-num_of_changes: 3
+last_modified: 20260818T19591900Z
+num_of_changes: 4
 ---
 ## Reality Fracture Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[4ZQQEMG](https://magic.wizards.com/en/products/companion-app?shortCode=4ZQQEMG)** \

@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20260818T21395600Z
+num_of_changes: 1
 ---
 ## Star Trek Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[DWVV3D2](https://magic.wizards.com/en/products/companion-app?shortCode=DWVV3D2)** \
