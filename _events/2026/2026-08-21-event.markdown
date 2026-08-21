@@ -3,9 +3,10 @@ type: draft
 date: 2026-08-21 19:00:00
 title: "The Hobbit Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Arnaud
 players:
-  draft: 0
-  commander: 0
+  draft: 10
+  commander: 18
 last_modified: 20260604T11012500Z
 num_of_changes: 1
 ---
