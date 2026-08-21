@@ -4,6 +4,7 @@ date: 2026-08-21 19:00:00
 title: "The Hobbit Draft / Commander Party"
 location: Spielweltenfabrik
 winner: Arnaud
+deck: https://moxfield.com/decks/ssp_di3oSUmAvwQErgABkA
 players:
   draft: 10
   commander: 18
