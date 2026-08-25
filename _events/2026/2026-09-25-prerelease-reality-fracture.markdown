@@ -31,5 +31,5 @@ Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, T
 Aus Platzgründen fällt Commander diese Woche aus.
 
 ## Allgemein
-Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) anmelden, damit der Event stattfinden kann. \
+Bitte über [WhatsApp-Gruppe](https://chat.whatsapp.com/DrKoU5gFaAr64u3g4JubJS) anmelden, damit der Event stattfinden kann. \
 Es können vor Ort Getränke gekauft werden.
