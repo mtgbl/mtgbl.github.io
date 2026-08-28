@@ -60,7 +60,7 @@ Die folgenden Termine sind noch provisorisch:
 | 3 | [10.04.2026](/event/2026-04-10-event) | Theros Beyond Death                       |
 | 4 | [08.05.2026](/event/2026-05-08-event) | Marvel's Spider-Man                       |
 | 5 | [12.06.2026](/event/2026-06-12-event) | Chaos-Draft                               |
-| 6 | [28.08.2026](/event/2026-08-28-event) | ?                                         |
+| 6 | [28.08.2026](/event/2026-08-28-event) | Modern Horizons 1                         |
 | 7 | [18.09.2026](/event/2026-09-18-event) | ?                                         |
 | 8 | [23.10.2026](/event/2026-10-23-event) | ?                                         |
 
@@ -72,7 +72,7 @@ Folgende Sets stehen zu Auswahl und werden vor dem Event zufällig ausgewählt:
 |:--:|-----------------------------------------------|---------|
 | 1  | ~~Chaos-Draft~~                               | -       |
 | 2  | ~~Dragon's Maze/Gatecrash/Return to Ravnica~~ | 2012/13 |
-| 3  | Modern Horizons 1                             | 2019    |
+| 3  | ~~Modern Horizons 1~~                         | 2019    |
 | 4  | D&D: Adventures in the Forgotten Realms       | 2021    |
 | 5  | Kaldheim                                      | 2021    |
 | 6  | ~~2x Hour of Devastation / Amonkhet~~         | 2017    |
