@@ -3,9 +3,11 @@ type: draft
 date: 2026-08-28 19:00:00
 title: "Bärenliga / Commander"
 location: Spielweltenfabrik
+winner: Davide
+deck: https://moxfield.com/decks/5fORqkzlZkKUG0-UgvJ7Eg
 players:
-  draft: 0
-  commander: 0
+  draft: 18
+  commander: 20
 last_modified: 20260604T11012500Z
 num_of_changes: 2
 ---
