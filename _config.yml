@@ -20,7 +20,7 @@ social:
   name: MTG Baselland
   links:
     - https://www.facebook.com/mtgbaselland/
-    - https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw
+    - https://chat.whatsapp.com/DrKoU5gFaAr64u3g4JubJS
     - https://github.com/mtgbl
 
 locale: de_CH
@@ -44,7 +44,7 @@ minima:
   skin: dark
   social_links:
     - icon: whatsapp
-      url: "https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw"
+      url: "https://chat.whatsapp.com/DrKoU5gFaAr64u3g4JubJS"
       title: "Unsere WhatsApp-Gruppe"
     - icon: facebook
       url: "https://www.facebook.com/mtgbaselland/"

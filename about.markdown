@@ -19,7 +19,7 @@ Unsere Höhle ist für alle offen, die ihr Können unter Beweis stellen möchten
 Der Eintritt in den Bärenbund ist jederzeit möglich aber nicht verpflichtend. Wer dem Verein beitreten möchte, kann sich für 50 Taler im Jahr einschwören und von lukrativen Vorteilen profitieren.
 Organisiert werden die Turniere und Specialevents vom Bärenadel, welcher auch jedes Jahr zu einer epischen Generalversammlung einladet.
 
-Hast du auch Lust einen Teil dieser Gemeinschaft zu werden, dann [melde dich](https://chat.whatsapp.com/HQ7IINFrZB63esDNRqsIUw) oder [schau vorbei](/events/).
+Hast du auch Lust einen Teil dieser Gemeinschaft zu werden, dann [melde dich](https://chat.whatsapp.com/DrKoU5gFaAr64u3g4JubJS) oder [schau vorbei](/events/).
 
 ![Eindrücke von der GV 2023](assets/photos/gv2023-1.jpg)
 
