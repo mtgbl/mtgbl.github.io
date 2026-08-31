@@ -49,6 +49,7 @@ DTEND;TZID=Europe/Liestal:{% assign end_hour = event.end_date | date: "%H" %}{{ 
 DTEND;TZID=Europe/Liestal:{% assign end_hour = event.date | date: "%H" | plus: 3 %}{{ event.date | date: "%Y%m%dT" }}{{ end_hour }}{{ event.date | date: "%M%S" }}
 {%- endif %}
 DTSTAMP:{{ event.date | date: "%Y%m%dT%H%M%S" }}
+TRANSP:TRANSPARENT
 URL:{{ site.url }}{{ event.url }}
 {%- if event.type == "cancelled" %}
 STATUS:CANCELLED
