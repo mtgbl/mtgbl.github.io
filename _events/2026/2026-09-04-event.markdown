@@ -3,9 +3,10 @@ type: draft
 date: 2026-09-04 19:00:00
 title: "The Hobbit Draft / Commander"
 location: Spielweltenfabrik
+winner: Michael
 players:
-  draft: 0
-  commander: 0
+  draft: 9
+  commander: 18
 last_modified: 20260831T08180900Z
 num_of_changes: 4
 ---
