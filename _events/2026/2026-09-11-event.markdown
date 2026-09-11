@@ -3,9 +3,11 @@ type: draft
 date: 2026-09-11 19:00:00
 title: "The Hobbit Draft / Commander-Liga"
 location: Spielweltenfabrik
+winner: Nico
+deck: https://moxfield.com/decks/hWVy74gAck6CE4tUUsfrVw
 players:
-  draft: 0
-  commander: 0
+  draft: 6
+  commander: 23
 last_modified: 20260905T00182200Z
 num_of_changes: 6
 ---
