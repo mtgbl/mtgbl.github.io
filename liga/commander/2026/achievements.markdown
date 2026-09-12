@@ -26,20 +26,20 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
-## Rotierende Achievements 11.09.26
+## Rotierende Achievements 16.10.26
 
-| Punkte     | Titel                  | Beschreibung                                                                    |
-|:----------:|------------------------|---------------------------------------------------------------------------------|
-| +1 | Flush | Hingabe 5 oder mehr zu einer einzigen Farbe erreichen |
-| +1 | Sorcerer Supreme | Fünf Verzauberungen kontrollieren |
-| +2 | Copy Paste | 5 permanente Karten in einem Spiel kopieren |
-| +2 | C-c-c-combooo | Mit einer Combo aus 5 oder mehr Karten gewinnen |
-| +1 | Endurance | 60 oder mehr Leben haben |
-| +1 | Level Up! | Eine Kreatur auf ihre letzte Stufe bringen |
+| Punkte      | Titel                  | Beschreibung                                                          |
+|:-----------:|------------------------|------------------------------------------------------------------------|
+| +1 | Fog | Verhindere Schaden aus einem Angriff, der dich besiegen würde |
+| +1 | Boundless Realms | 25 oder mehr Länder kontrollieren |
+| +2 | Smash! | Einem Spieler in einem einzigen Zug 100 oder mehr Schaden zufügen |
+| +1/Spieler | Commander Classic Win | Einen Spieler mit 21 Commander-Schaden eliminieren |
+| +1 | The Sheriff is Near | Eine Kreatur vor tödlichem Schaden bewahren |
+| +2 | Necropotence | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren |
 | +2 | Crumbling Sanctuary | Als erster Spieler 10 oder weniger Karten in seiner Bibliothek haben |
-| +1 | Instant Death | Einen Gegner während des Zuges eines anderen Gegners eliminieren |
-| +1 | Sharing is caring | Einen Gegner mit einem einzigen Zauberspruch oder einer Fähigkeit 3 oder mehr Karten ziehen lassen |
-| +1 | Cleave | Zwei Spieler in einem Zug eliminieren |
+| +1 | Endurance | 60 oder mehr Leben haben |
+| +1 | Fateful Hour | Einen Gegner eliminieren, während du 5 oder weniger Leben hast |
+| +1 | Serial Killer | 10 oder mehr Kreaturen gleichzeitig zerstören oder ins Exil schicken |
 
 ## Fixe Achievements
 
