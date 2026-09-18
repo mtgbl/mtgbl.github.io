@@ -3,9 +3,10 @@ type: draft
 date: 2026-09-18 19:00:00
 title: "Bärenliga / Commander Party"
 location: Spielweltenfabrik
+winner: Doménique
 players:
-  draft: 0
-  commander: 0
+  draft: 19
+  commander: 13
 last_modified: 20260905T00193900Z
 num_of_changes: 5
 ---
