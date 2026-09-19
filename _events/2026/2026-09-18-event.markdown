@@ -4,6 +4,7 @@ date: 2026-09-18 19:00:00
 title: "Bärenliga / Commander Party"
 location: Spielweltenfabrik
 winner: Doménique
+deck: https://moxfield.com/decks/66CT3a8spkC0ho5CwPqI8Q
 players:
   draft: 19
   commander: 13
