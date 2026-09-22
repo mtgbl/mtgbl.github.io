@@ -10,7 +10,7 @@ jobs:
         run: npm install remark-preset-lint-recommended
         shell: bash
       - name: remark-lint
-        uses: reviewdog/action-remark-lint@v5.18.0
+        uses: reviewdog/action-remark-lint@v5.20.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-check
