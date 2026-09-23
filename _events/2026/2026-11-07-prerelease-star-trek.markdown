@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260818T21395600Z
-num_of_changes: 1
+last_modified: 20260923T10050400Z
+num_of_changes: 2
 ---
 Wieder verschoben auf [Freitag](/event/2026-11-06-event).
 
