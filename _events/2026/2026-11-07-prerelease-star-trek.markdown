@@ -1,5 +1,5 @@
 ---
-type: sealed
+type: cancelled
 date: 2026-11-07 19:00:00
 title: "Star Trek Prerelease"
 location: Spielweltenfabrik
@@ -9,6 +9,8 @@ players:
 last_modified: 20260818T21395600Z
 num_of_changes: 1
 ---
+Wieder verschoben auf [Freitag](/event/2026-11-06-event).
+
 ## Star Trek Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[DWVV3D2](https://magic.wizards.com/en/products/companion-app?shortCode=DWVV3D2)** \
 Genauere Infos folgen noch.
