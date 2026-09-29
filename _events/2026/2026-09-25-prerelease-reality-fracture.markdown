@@ -3,8 +3,12 @@ type: sealed
 date: 2026-09-25 19:00:00
 title: "Reality Fracture Prerelease"
 location: Spielweltenfabrik
+winner: Nico, Jacqueline
+deck:
+  - https://moxfield.com/users/MTGBL # Nico's deck goes here
+  - https://moxfield.com/decks/3GrAV862_kWr5n1MrxO2rQ
 players:
-  draft: 0
+  draft: 27
   commander: 0
 last_modified: 20260919T15242200Z
 num_of_changes: 6
