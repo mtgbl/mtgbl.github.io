@@ -3,9 +3,13 @@ type: draft
 date: 2026-10-02 19:00:00
 title: "Reality Fracture Draft / Commander"
 location: Spielweltenfabrik
+winner: Doménique, João
+deck:
+  - https://moxfield.com/users/MTGBL # Doménique's deck goes here
+  - https://moxfield.com/users/MTGBL # João's deck goes here
 players:
-  draft: 0
-  commander: 0
+  draft: 16
+  commander: 18
 last_modified: 20260825T21463900Z
 num_of_changes: 2
 ---
