@@ -5,7 +5,7 @@ title: "Reality Fracture Prerelease"
 location: Spielweltenfabrik
 winner: Nico, Jacqueline
 deck:
-  - https://moxfield.com/users/MTGBL # Nico's deck goes here
+  - https://moxfield.com/decks/dVO7o-GyaUC_rCvI6bAlYA
   - https://moxfield.com/decks/3GrAV862_kWr5n1MrxO2rQ
 players:
   draft: 27
