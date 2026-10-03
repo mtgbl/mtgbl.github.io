@@ -5,8 +5,8 @@ title: "Reality Fracture Draft / Commander"
 location: Spielweltenfabrik
 winner: Doménique, João
 deck:
-  - https://moxfield.com/users/MTGBL # Doménique's deck goes here
-  - https://moxfield.com/users/MTGBL # João's deck goes here
+  - https://moxfield.com/decks/PecMNlPy1Eae2DZ1nm7Row
+  - https://moxfield.com/decks/RPMpbeEjykitJu6dhR06oA
 players:
   draft: 16
   commander: 18
