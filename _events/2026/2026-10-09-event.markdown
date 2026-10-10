@@ -3,9 +3,11 @@ type: draft
 date: 2026-10-09 19:00:00
 title: "Reality Fracture Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Florian
+deck: https://moxfield.com/decks/CzbrrZv9FEa6TK1HZl-3Bg
 players:
-  draft: 0
-  commander: 0
+  draft: 14
+  commander: 20
 last_modified: 20260825T21463900Z
 num_of_changes: 2
 ---
