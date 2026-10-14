@@ -1,6 +1,6 @@
 ---
 type: other
-date: 2026-11-08 14:00:00
+date: 2026-11-08 13:00:00
 title: "Generalversammlung 2026"
 location: to be defined
 players:
@@ -11,7 +11,7 @@ last_modified: 20260810T21590900Z
 num_of_changes: 1
 ---
 Bitte Termin vormerken: \
-Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **14.00 Uhr** in einem noch zu definierenden Ort in Liestal statt.tbd
+Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **13.00 Uhr** in einem noch zu definierenden Ort in Liestal statt.tbd
 
 Mehr Details folgen noch.
 
