@@ -7,8 +7,8 @@ players:
   draft: 0
   commander: 0
   constructed: 0
-last_modified: 20260810T21590900Z
-num_of_changes: 1
+last_modified: 20261014T08225000Z
+num_of_changes: 2
 ---
 Bitte Termin vormerken: \
 Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **13.00 Uhr** in einem noch zu definierenden Ort in Liestal statt.tbd
