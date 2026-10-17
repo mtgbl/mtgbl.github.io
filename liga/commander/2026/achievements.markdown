@@ -26,20 +26,20 @@ Mit erfüllten Achievements können **Punkte gesammelt** werden.
 Die Punkte werden während des Abends **selbstständig auf einem ausgehändigten Punkteblatt notiert**.  
 Das Punkteblatt muss **am Ende des Abends ausgefüllt abgegeben werden**.
 
-## Rotierende Achievements 16.10.26
+## Rotierende Achievements 06.11.26
 
-| Punkte      | Titel                  | Beschreibung                                                          |
-|:-----------:|------------------------|------------------------------------------------------------------------|
-| +1 | Fog | Verhindere Schaden aus einem Angriff, der dich besiegen würde |
-| +1 | Boundless Realms | 25 oder mehr Länder kontrollieren |
-| +2 | Smash! | Einem Spieler in einem einzigen Zug 100 oder mehr Schaden zufügen |
-| +1/Spieler | Commander Classic Win | Einen Spieler mit 21 Commander-Schaden eliminieren |
-| +1 | The Sheriff is Near | Eine Kreatur vor tödlichem Schaden bewahren |
-| +2 | Necropotence | In einem Zug selbstverschuldet 20 oder mehr Leben verlieren |
-| +2 | Crumbling Sanctuary | Als erster Spieler 10 oder weniger Karten in seiner Bibliothek haben |
-| +1 | Endurance | 60 oder mehr Leben haben |
-| +1 | Fateful Hour | Einen Gegner eliminieren, während du 5 oder weniger Leben hast |
-| +1 | Serial Killer | 10 oder mehr Kreaturen gleichzeitig zerstören oder ins Exil schicken |
+| Punkte | Titel                          | Beschreibung                                                                            | Wertung      |
+|:------:|--------------------------------|-----------------------------------------------------------------------------------------|--------------|
+|   +1   | Next in Line                   | Das niedrigste Leben haben (unter 10), wenn ein anderer Spieler eliminiert wird         | 1x pro Match |
+| +2/+1  | It’s Good to Be the King/Queen | Monarch werden (2 Punkte für den ersten Spieler, danach 1 Punkt)                        | pro Spieler  |
+|   +1   | Straight                       | Fünf Kreaturen mit aufeinanderfolgendem Stärke- oder Widerstandswert kontrollieren      | 1x pro Match |
+|   +1   | Stalemate                      | Das Spiel endet unentschieden mit gleicher Spieleranzahl wie zu Beginn                  | 1x pro Match |
+|   +1   | Sad but True                   | Einen Spieler mit einer 1/1-Kreatur eliminieren                                         | 1x pro Match |
+|   +1   | Traitor                        | Einen Spieler mit einer Karte eliminieren, die ihm gehört                               | 1x pro Match |
+|   +1   | Burn It All                    | In einem Zug 12 oder mehr Schaden mit gezielten Zaubersprüchen oder Fähigkeiten zufügen | 1x pro Match |
+|   +1   | Tribal Allegiance              | 7 Kreaturen desselben Typs kontrollieren                                                | 1x pro Match |
+|   +1   | We Got Ourselves a Killer      | Zwei oder mehr Planeswalker zerstören                                                   | 1x pro Match |
+|   +3   | Planeswalk                     | Die Ultimate-Fähigkeit eines Planeswalkers aktivieren                                   | 1x pro Match |
 
 ## Fixe Achievements
 
