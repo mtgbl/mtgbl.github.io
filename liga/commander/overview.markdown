@@ -4,7 +4,7 @@ title: Commander-Liga
 permalink: /liga/commander/uebersicht
 ---
 # Commander-Liga 2026
-- [Rangliste](/liga/commander/2026/rangliste)
+- [Rangliste](https://pairings.mtgbl.ch/rangliste)
 - [Regeln](/liga/commander/2026/regeln)
 - [Achievements](/liga/commander/2026/achievements)
 
