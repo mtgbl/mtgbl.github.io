@@ -5,8 +5,8 @@ title: "Reality Echoes Draft / Commander-Liga"
 location: Spielweltenfabrik
 winner: Julian, Florian
 deck:
-  - https://moxfield.com/users/MTGBL # Julian
-  - https://moxfield.com/users/MTGBL # Florian
+  - https://moxfield.com/decks/gVlh_PTOOkC3UqT6-IXDlQ
+  - https://moxfield.com/decks/EmRlh3ogKUuuoRmzxq2OBw
 players:
   draft: 14
   commander: 18
