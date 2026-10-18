@@ -3,9 +3,13 @@ type: draft
 date: 2026-10-16 19:00:00
 title: "Reality Echoes Draft / Commander-Liga"
 location: Spielweltenfabrik
+winner: Julian, Florian
+deck:
+  - https://moxfield.com/users/MTGBL # Julian
+  - https://moxfield.com/users/MTGBL # Florian
 players:
-  draft: 0
-  commander: 0
+  draft: 14
+  commander: 18
 last_modified: 20260825T21463900Z
 num_of_changes: 4
 ---
