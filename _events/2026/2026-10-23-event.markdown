@@ -3,9 +3,11 @@ type: draft
 date: 2026-10-23 19:00:00
 title: "Bärenliga / Commander Party"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/UvtP3M6gwk-moX7ChTHUrA
 players:
-  draft: 0
-  commander: 0
+  draft: 18
+  commander: 11
 last_modified: 20260919T00520900Z
 num_of_changes: 4
 ---
