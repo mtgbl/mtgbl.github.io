@@ -8,7 +8,7 @@ permalink: /liga/uebersicht
 In unseren Bärenligen wird über mehrere Termine ein Champion ermittelt.
 
 ## Draft-Liga
-→ [Draft-Liga 2026](/liga/draft/uebersicht)
+→ [Draft-Liga 2026](/liga/draft/2026)
 
 Frühere Ausgaben: [2024](/liga/draft/2024), [2025](/liga/draft/2025)
 

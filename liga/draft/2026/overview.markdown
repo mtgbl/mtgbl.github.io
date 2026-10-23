@@ -1,7 +1,9 @@
 ---
 layout: base
 title: Bärenliga 2026 (Draft)
-permalink: /liga/draft/uebersicht
+permalink: /liga/draft/2026
+redirect_from:
+  - /liga/draft/uebersicht
 ---
 → [Übersicht](/liga/uebersicht)
 
