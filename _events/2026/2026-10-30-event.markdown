@@ -3,6 +3,10 @@ type: draft
 date: 2026-10-30 19:00:00
 title: "All Leylines' Eve Draft / Halloween Commander"
 location: Spielweltenfabrik
+winner: Urs, Bär
+deck:
+  - https://moxfield.com/decks/OAoc8XKKfkG9w_4OiKsRMg
+  - https://moxfield.com/users/MTGBL
 players:
   draft: 12
   commander: 18
