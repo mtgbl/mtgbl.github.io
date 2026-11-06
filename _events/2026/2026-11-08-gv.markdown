@@ -2,7 +2,7 @@
 type: other
 date: 2026-11-08 13:00:00
 title: "Generalversammlung 2026"
-location: to be defined
+location: Laufwerk
 players:
   draft: 0
   commander: 0
@@ -11,20 +11,33 @@ last_modified: 20261014T08225000Z
 num_of_changes: 2
 ---
 Bitte Termin vormerken: \
-Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **13.00 Uhr** in einem noch zu definierenden Ort in Liestal statt.tbd
+Dieses Jahr findet die GV am **Sonntag, 8. November 2026** um **13.00 Uhr** im Laufwerk in Liestal statt
 
-Mehr Details folgen noch.
+### Programm
 
-### Provisorisches Programm
+
+Programm:
 
 1. Begrüssung
 2. Protokoll 2025
 3. Jahresrückblick
+   1. Highlights
+   2. Turniere und Liga
+   3. Commander und Liga
 4. Finanzen
-5. Mutationen
-6. Mitgliederanträge
-7. Diverses
-8. Überraschungsturnier (~15:30)
+   1. Bestellung und Shop
+   2. Neuregelung Eintritt und Kosten
+   3. Finanzen 2026 und Budget 2027
+5. Neuwahlen Vorstand
+   1. Aktiv Gruppe
+6. Mutationen
+   1. Ehrenmitgliedschaft
+7. Mitgliederanträge
+8. Merchandise
+9. Diverse
+10. Überraschungsturnier 14:00
+11. Nachtessen 19:00
+12. Ende ca. 20:00
 
 ### Mitgliederanträge
 
