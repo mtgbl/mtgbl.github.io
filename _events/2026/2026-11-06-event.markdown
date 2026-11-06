@@ -3,9 +3,11 @@ type: draft
 date: 2026-11-06 19:00:00
 title: "Star Trek Prerelease / Commander-Liga-Finale"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/lU0PmbJp-kG-2il03uuV3w
 players:
-  draft: 0
-  commander: 0
+  draft: 13
+  commander: 20
 last_modified: 20260923T10050400Z
 num_of_changes: 7
 ---
