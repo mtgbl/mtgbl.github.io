@@ -3,9 +3,11 @@ type: draft
 date: 2026-11-20 19:00:00
 title: "Star Trek Draft / Commander Party"
 location: Spielweltenfabrik
+winner: Michael
+deck: https://moxfield.com/decks/9KPNlXNEFEO8mfa7ZHaonQ
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 13
 last_modified: 20260818T21272400Z
 num_of_changes: 3
 ---
