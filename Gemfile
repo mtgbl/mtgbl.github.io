@@ -17,7 +17,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-remote-theme", "~> 0.4.3"
+  gem "jekyll-remote-theme", "~> 0.6.2"
   gem "jekyll-last-modified-at"
   gem "jekyll-spaceship"
   gem 'jekyll-toc'
