@@ -6,6 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
+last_modified: 20261125T20243500Z
+num_of_changes: 1
 ---
 ## Unannounced Universes Beyond Set Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \

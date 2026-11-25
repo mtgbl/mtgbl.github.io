@@ -6,8 +6,8 @@ location: Spielweltenfabrik
 players:
   draft: 0
   commander: 0
-last_modified: 20260825T21463900Z
-num_of_changes: 3
+last_modified: 20261125T20190100Z
+num_of_changes: 4
 ---
 ## Nauctis: The Sunken Realm Prerelease
 [Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[M3MW3XZ](https://magic.wizards.com/en/products/companion-app?shortCode=M3MW3XZ)**
