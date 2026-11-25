@@ -10,17 +10,16 @@ last_modified: 20260825T21463900Z
 num_of_changes: 3
 ---
 ## Nauctis: The Sunken Realm Prerelease
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \
-Genauere Infos folgen noch.
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[M3MW3XZ](https://magic.wizards.com/en/products/companion-app?shortCode=M3MW3XZ)**
 
-Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
+Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Maximal 30 Spieler \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
 ## Nauctis: The Sunken Realm Prerelease (für Anfänger)
-[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[??????](https://magic.wizards.com/en/products/companion-app?shortCode=??????)** \
-Kosten: ?.- (Mitglieder), ?.- (Nichtmitglieder) \
+[Companion-Code](/faq/#was-hat-es-mit-dem-companion-code-auf-sich): **[GRJMVWJ](https://magic.wizards.com/en/products/companion-app?shortCode=GRJMVWJ)** \
+Kosten: 35.- (Mitglieder), 40.- (Nichtmitglieder) \
 Gespielt werden 4 Runden. \
 Mitbringen: Kartenhüllen, etwas zum Lebenspunkte notieren; optional: Würfel, Tokens, Spielmatte
 
