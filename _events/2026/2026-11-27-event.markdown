@@ -1,11 +1,11 @@
 ---
 type: draft
 date: 2026-11-27 19:00:00
-title: "Star Trek Draft+Sealed / Commander"
+title: "Star Trek Sealed / Commander"
 location: Spielweltenfabrik
 players:
-  draft: 0
-  commander: 0
+  draft: 8
+  commander: 11
 last_modified: 20261125T20180700Z
 num_of_changes: 4
 ---
